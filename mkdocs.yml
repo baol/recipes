@@ -1,0 +1,40 @@
+site_name: Le Ricette di Daniela e Mirko
+theme:
+  name: material
+  palette:
+    scheme: slate
+    primary: white
+    accent: yellow
+  font:
+    text: Noto
+  logo: images/100allora.png
+  language: it
+  features:
+    - search.suggest
+exclude_docs: |
+  .obsidian
+  .trash
+  Templates
+  *.base
+plugins:
+  - search
+  - tags
+# extra:
+#   analytics:
+#     provider: google
+#     property: G-X3S66S3427
+#     feedback:
+#       title: Was this page helpful?
+#       ratings:
+#         - icon: material/emoticon-sad-outline
+#           name: This page could be improved
+#           data: 0
+#           note: >-
+#             Thanks for your feedback! Help us improve this page by
+#             using our <a href="..." target="_blank" rel="noopener">feedback form</a>.
+#         - icon: material/emoticon-happy-outline
+#           name: This page was helpful
+#           data: 1
+#           note: >-
+#             Thanks for your feedback!
+copyright: Copyright ©️ 2025 Mirko Maischberger
