@@ -12,6 +12,8 @@ theme:
   language: it
   features:
     - search.suggest
+    - navigation.tabs
+    - navigation.sections
 exclude_docs: |
   .obsidian
   .trash
