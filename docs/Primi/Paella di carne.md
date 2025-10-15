@@ -5,7 +5,7 @@ tags:
   - riso
 ---
 
-![](docs/images/paella-valenciana.jpeg)
+![](../images/paella-valenciana.jpeg)
 
 ## 🧾 Ingredients
 

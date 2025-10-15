@@ -4,7 +4,7 @@ tags:
   - Antipasti
   - Ceci
 ---
-![](docs/images/placeholder.jpeg)
+![](../images/placeholder.jpeg)
 
 ## 🧾 Ingredients
 

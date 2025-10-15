@@ -13,6 +13,7 @@ tags:
 - 2 Servings
 
 **Ripieno**
+
 - 100 g Melanzana a cubetti saltata croccante
 - 3 Mozzarelline
 - 3 cubetti di auricchio o provola
@@ -23,10 +24,12 @@ tags:
 - Parmigiano e pangrattato per amalgamare
 
 **Impasto**
+
 - 1 Uovo
 - 1 Tuorlo
 
 **Sugo**
+
 - Arissa
 - Aglio
 - Concentrato di pomodoro
