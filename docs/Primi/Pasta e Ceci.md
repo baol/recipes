@@ -3,6 +3,7 @@ tags:
   - Mirko
   - Pasta
   - Primi
+  - Ceci
 ---
 
 ![](../images/pasta-e-ceci.jpeg)

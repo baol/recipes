@@ -1,6 +1,7 @@
 ---
 tags:
   - Basi
+  - Ceci
 ---
 
 ![](../images/ceci-cotti.jpeg)

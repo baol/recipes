@@ -1,9 +1,9 @@
 ---
 tags:
-- Sottaceti
-- Cipolle
-- Antipasto
-- AdamRagusea
+  - Sottaceti
+  - Cipolle
+  - AdamRagusea
+  - Antipasti
 ---
 
 ![Cipolle](../images/cipolla-sottaceto.jpeg)

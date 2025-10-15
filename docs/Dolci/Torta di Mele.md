@@ -1,8 +1,8 @@
 ---
 tags:
-- Mele
-- Torta
-- Dolci
+  - Mele
+  - Dolci
+  - Torte
 ---
 
 ![](../images/torta-di-mele.jpeg)

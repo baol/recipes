@@ -9,7 +9,8 @@ views:
     name: Table
     filters:
       and:
-        - file.folder != "Templates"
+        - '!file.folder.endsWith("Templates")'
+        - file.basename != "index"
     order:
       - file.name
       - file.folder
