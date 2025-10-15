@@ -1,4 +1,5 @@
 site_name: Le Ricette di Daniela e Mirko
+repo_url: https://github.com/baol/recipes
 theme:
   name: material
   palette:
