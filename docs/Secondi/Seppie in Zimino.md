@@ -20,7 +20,8 @@ tags:
 - 1 Peperoncino
 - Prezzemolo
 
-**Cottura***
+**Cottura**
+
 - 1 Seppia medio-grande (800 g)
 - 1/2 bicchiere Vino bianco
 - Sale
