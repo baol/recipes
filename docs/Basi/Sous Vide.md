@@ -10,6 +10,7 @@ tags:
 ## 👩‍🍳 Cooking times
 
 ### Carne e pesce
+
 | Tipo                  | Temperatura | Tempo |
 | --------------------- | ----------- | ----- |
 | Roastbeef             | 55°         | >2h   |
@@ -19,7 +20,9 @@ tags:
 | Maiale                | 62°         | >2h   |
 | Pollo                 | 65-68°      | >2h   |
 | Polpo                 | 77°         | 4h    |
+
 ### Verdure
+
 | Tipo       | Temperatura | Tempo |
 | ---------- | ----------- | ----- |
 | Finocchi   | 80°         | 2h    |
@@ -33,6 +36,7 @@ tags:
 | Patate     | 90°         | 1h    |
 
 ### Uova
+
 | Tipo         | Temperatura | Tempo            |
 | ------------ | ----------- | ---------------- |
 | Ramen        | 90°         | 8' + raffreddare |
