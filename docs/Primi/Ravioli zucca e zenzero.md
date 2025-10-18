@@ -12,7 +12,9 @@ comments: "true"
 ## 🧾 Ingredients
 
 - 6 Servings
-- **Ripieno**
+
+**Ripieno**
+
 - 500 g Zucca butternut (o Okkaido)
 - 2 cm Zenzero
 - Noce moscata
@@ -22,7 +24,9 @@ comments: "true"
 - Mascobado
 - 50 g ricotta salata
 - Sale
-- **Impasto**
+
+**Impasto**
+
 - 4 Uova
 - 400 g Farina di semola (o mista)
 
@@ -46,7 +50,7 @@ comments: "true"
 
 ## 💡 Tips
 
-Nella foto i ravioli sono stati conditi con funghi e carote [sous-vide](Sous%20Vide.md). 
+Nella foto i ravioli sono stati conditi con funghi e carote [sous-vide](../Basi/Sous%20Vide.md). 
 Metti in una busta funghi in quarti, carote a tocchetti, olio, aglio, sale, pepe, e aromi (prezzemolo. come stara' con la salvia?) e cuoci a 80° per un'ora o due.
 
 Ottimi anche con burro e amaretti sbriciolati.

@@ -43,6 +43,7 @@ Aggiungere il pomodoro e fare insaporire
 Aggiungere gli spinaci e lasciar cuocere coperto per 30’ 
 
 Aggiustare di sale e pepe
+
 ## 💡 Tips
 
 Servire con due belle fette di pane (di segale se lo avete) ben tostate

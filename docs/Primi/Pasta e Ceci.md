@@ -9,11 +9,11 @@ comments: "true"
 
 ![](../images/pasta-e-ceci.jpeg)
 
-Nella foto presentati con tubetti freschi all'uovo (cfr. [pasta al torchio](../Base/Pasta%20al%20torchio.md))
+Nella foto presentati con tubetti freschi all'uovo (cfr. [pasta al torchio](../Basi/Pasta%20al%20torchio.md))
 ## 🧾 Ingredients
 
 - 4 Persone
-- 250 g di ceci secchi [cotti](../Base/Ceci%20cotti.md) o in scatola
+- 250 g di ceci secchi [cotti](../Basi/Ceci%20cotti.md) o in scatola
 - 200 g pasta fresca all'uovo (o ditaloni secchi)
 - 1/2 Cipolla
 - 1/2 Costa di sedano
