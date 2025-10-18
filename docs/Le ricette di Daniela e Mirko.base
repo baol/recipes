@@ -11,6 +11,7 @@ views:
       and:
         - '!file.folder.endsWith("Templates")'
         - file.basename != "index"
+        - file.basename != "README"
     order:
       - file.name
       - file.folder
