@@ -1,6 +1,5 @@
 ---
 tags:
-  - mirko
   - Allibhoy
   - Riso
 comments: "true"
