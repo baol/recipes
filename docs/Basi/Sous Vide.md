@@ -43,4 +43,3 @@ comments: "true"
 | Ramen        | 90°         | 8' + raffreddare |
 | Poached      | 64°         | 1h               |
 | Pastorizzate | 55°         | >2h              |
-

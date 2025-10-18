@@ -21,11 +21,10 @@ comments: "true"
 ## 👩‍🍳 Directions
 
 - Polverizza lo zucchero e la buccia di limoneNumbered lists
-	- 20" Vel. Turbo
+  - 20" Vel. Turbo
 - Unire tutti gli ingredienti
-	-  7' Vel. 4, 80°
+  - 7' Vel. 4, 80°
 
 ## 💡 Tips
 
 La crema resta un po' piu' liquida di quella fatta a mano, cuocere piu' a lungo se necessario. Per provare la consistenza metterne una piccola quantita' in un piattino per farla raffreddare.
-

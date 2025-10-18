@@ -8,6 +8,7 @@ comments: "true"
 ![](../images/savoiardi.jpeg)
 
 ## 🧾 Ingredients
+
 - 4 Uova
 - 140 g Farina 00
 - 40 g Zucchero (per i tuorli)
@@ -18,9 +19,10 @@ comments: "true"
 - 1 pizzico Sale
 
 ## 👩‍🍳 Directions
+
 1. Pre-riscaldare il forno a 200°
 2. Montare gli albumi a neve e aggiungere 100 g di zucchero poco a poco
-3. Montare tuorli e 40 g di zucchero 
+3. Montare tuorli e 40 g di zucchero
 4. Setacciare farina, fecola e vanillina
 5. Incorporare i bianchi a neve e le polveri setacciate nei tuorli a poco a poco mescolando con un cucchiaio di legno dal basso verso l'alto
 6. Inserire in una sac-a-poche e formare dei vermi ben spaziati su una teglia ricoperta di carta da forno o tappetino in silicone

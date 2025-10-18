@@ -8,7 +8,6 @@ comments: "true"
 
 ![](../images/seppie-in-zimino-destrutturate.jpeg)
 
-
 ## 🧾 Ingredients
 
 **Soffritto**
@@ -40,13 +39,10 @@ Salare, pepare e sfumare con il vino
 
 Aggiungere il pomodoro e fare insaporire
 
-Aggiungere gli spinaci e lasciar cuocere coperto per 30’ 
+Aggiungere gli spinaci e lasciar cuocere coperto per 30’
 
 Aggiustare di sale e pepe
 
 ## 💡 Tips
 
 Servire con due belle fette di pane (di segale se lo avete) ben tostate
-
-
-

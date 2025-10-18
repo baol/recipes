@@ -16,7 +16,7 @@ comments: "true"
 - 6 pezzi Pollo e Coniglio
 - 100g Fagioli piatti
 - 50g Fave
-- 2 Carciofi 
+- 2 Carciofi
 - 3 Spicchi d' Aglio
 - Paprica affumicata q.b.
 - 1 Pomodoro pelato
@@ -46,12 +46,9 @@ comments: "true"
 - Non mescolare mai piu' fino a fine cottura
 - Abbassare il fuoco
 - Aggiungere i rametti di rosmarino
-- Quando l'acqua si sara' assorbita, attendere a fuoco medio che si formi il socarrat, la crosticina croccante di riso e grasso sul fondo della pentola. Marrone non nero. Per ottenere la cottura ottimale usare le orecchie, il naso e uno stecchino per testare il fondo. 
+- Quando l'acqua si sara' assorbita, attendere a fuoco medio che si formi il socarrat, la crosticina croccante di riso e grasso sul fondo della pentola. Marrone non nero. Per ottenere la cottura ottimale usare le orecchie, il naso e uno stecchino per testare il fondo.
 - Lasciare riposare coperto per alcuni minuti.
 
 ## 💡 Tips
 
 Servire con spicchi di limone
-
-
-

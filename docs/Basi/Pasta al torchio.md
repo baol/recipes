@@ -20,6 +20,5 @@ comments: "true"
 
 - Impastare in modo da formare uno sfarinato omogeneo. Velocita' 3 con frusta K, aggiungendo l'acqua a filo partendo dalla sola farina.
 - Passare al torchio
-![[pasta-al-torchio-kenwood.jpeg]]
+  ![[pasta-al-torchio-kenwood.jpeg]]
 - Cucinare subito (non e' facile seccare la pasta senza che si sfaldi e diventi friabile)
-

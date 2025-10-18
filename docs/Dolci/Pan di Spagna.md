@@ -28,4 +28,3 @@ La ricetta originale di Nonna Paola
 ## 💡 Tips
 
 - Dose doppia di crema pasticcera.
-

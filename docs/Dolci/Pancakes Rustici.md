@@ -19,6 +19,7 @@ comments: "true"
 - 5 g Sale
 
 **Condimento**
+
 - Burro
 - Marmellata di frutti di bosco
 - Sciroppo d'acero
@@ -35,5 +36,3 @@ comments: "true"
 ## 💡 Tips
 
 Usare un mestolo (40-50ml) per dosare l'impasto in modo uniforme
-
-

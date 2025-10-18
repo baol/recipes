@@ -24,8 +24,3 @@ La crema mou da spalmare sul pane o da versare su gelato, waffel o pancakes.
 ## 💡 Tips
 
 Dopo un’ora controllare densità (in un piattino per raffreddarla) e il colore (dovrebbe caramellare un po’).
-
-
-
-
-

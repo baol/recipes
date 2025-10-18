@@ -20,4 +20,4 @@ comments: "true"
 ## 👩‍🍳 Directions
 
 - Inserire tutti gli ingredienti
-	-  7' - 90° - Vel. 4
+  - 7' - 90° - Vel. 4

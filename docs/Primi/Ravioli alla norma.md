@@ -19,7 +19,7 @@ comments: "true"
 - 3 Mozzarelline
 - 3 cubetti di auricchio o provola
 - Olio
-- Sale 
+- Sale
 - Peperoncino
 - Aglio
 - Parmigiano e pangrattato per amalgamare

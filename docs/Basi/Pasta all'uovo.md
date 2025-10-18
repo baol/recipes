@@ -27,4 +27,3 @@ comments: "true"
 
 - Usare spessore 2 per lasagne e ravioli
 - Usare spessore 1 o 2 per tortellini e cappelletti
-

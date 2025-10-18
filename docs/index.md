@@ -2,7 +2,7 @@
 
 ## Chi siamo
 
-Le Ricette di Daniela e Mirko, una famiglia italiana a Berlino. 
+Le Ricette di Daniela e Mirko, una famiglia italiana a Berlino.
 
 ![](images/daniela-e-mirko.jpeg)
 
