@@ -5,7 +5,7 @@ tags:
   - Basi
 ---
 
-![](../images/placeholder.jpeg)
+![](../images/brodo-di-carne.jpeg)
 
 Il brodo di carne delle feste!
 
