@@ -4,6 +4,7 @@ tags:
   - Cipolle
   - AdamRagusea
   - Antipasti
+comments: "true"
 ---
 
 ![Cipolle](../images/cipolla-sottaceto.jpeg)

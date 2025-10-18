@@ -1,8 +1,9 @@
 ---
 tags:
-- SousVide 
-- Mirko
-- Basi
+  - SousVide
+  - Mirko
+  - Basi
+comments: "true"
 ---
 
 ![](../images/carote-sous-vide.jpeg)

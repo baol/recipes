@@ -2,6 +2,7 @@
 tags:
   - Basi
   - Ceci
+comments: "true"
 ---
 
 ![](../images/ceci-cotti.jpeg)

@@ -1,7 +1,8 @@
 ---
-tags: 
-- Colazione
-- Dolci
+tags:
+  - Colazione
+  - Dolci
+comments: "true"
 ---
 
 ![](../images/pancakes.jpeg)

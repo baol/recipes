@@ -1,10 +1,11 @@
 ---
 tags:
-- Peperoni
-- Antipasti
-- Secondi
-- Tonno
-- Mirko
+  - Peperoni
+  - Antipasti
+  - Secondi
+  - Tonno
+  - Mirko
+comments: "true"
 ---
 ![](../images/peperoni-ripieni-al-tonno.jpeg)
 

@@ -1,7 +1,8 @@
 ---
 tags:
-- Uova
-- Basi
+  - Uova
+  - Basi
+comments: "true"
 ---
 
 ![](../images/uovo-sodo.jpeg)

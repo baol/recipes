@@ -4,6 +4,7 @@ tags:
   - Pasta
   - Primi
   - Ceci
+comments: "true"
 ---
 
 ![](../images/pasta-e-ceci.jpeg)

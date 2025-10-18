@@ -4,6 +4,7 @@ tags:
   - Pasta
   - Puglia
   - Mirko
+comments: "true"
 ---
 ![](../images/pasta-assassina.jpeg)
 

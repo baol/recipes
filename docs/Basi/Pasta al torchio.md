@@ -1,10 +1,11 @@
 ---
 tags:
-- Pasta
-- Uova
-- Primi
-- Kenwood
-- Basi 
+  - Pasta
+  - Uova
+  - Primi
+  - Kenwood
+  - Basi
+comments: "true"
 ---
 
 ![](../images/pasta-al-torchio.jpeg)

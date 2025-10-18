@@ -2,7 +2,8 @@
 tags:
   - mirko
   - Allibhoy
-  - riso
+  - Riso
+comments: "true"
 ---
 
 ![](../images/paella-valenciana.jpeg)

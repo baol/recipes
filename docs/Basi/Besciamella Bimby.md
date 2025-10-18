@@ -1,8 +1,9 @@
 ---
 tags:
-- Salse
-- Bimby
-- Basi 
+  - Salse
+  - Bimby
+  - Basi
+comments: "true"
 ---
 
 ![](../images/bimby.jpeg)

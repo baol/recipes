@@ -1,10 +1,11 @@
 ---
 tags:
-- Zucca
-- Pasta
-- Mirko
-- SousVide 
-- Primi
+  - Zucca
+  - Pasta
+  - Mirko
+  - SousVide
+  - Primi
+comments: "true"
 ---
 
 ![](../images/ravioli-zucca-e-zenzero.jpeg)
