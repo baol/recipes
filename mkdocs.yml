@@ -3,6 +3,7 @@ site_url: https://maischberger.it/
 repo_url: https://github.com/baol/recipes
 theme:
   name: material
+  favicon: images/100allora.png
   custom_dir: overrides
   palette:
     scheme: slate
