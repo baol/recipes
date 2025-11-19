@@ -21,6 +21,7 @@ comments: "true"
 | Maiale                | 62°         | >2h   |
 | Pollo                 | 65-68°      | >2h   |
 | Polpo                 | 77°         | 4h    |
+| Calamari              | 59°         | 2h    |
 
 ### Verdure
 

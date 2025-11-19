@@ -21,7 +21,7 @@ comments: "true"
 ## 👩‍🍳 Directions
 
 1. Inserire le verdure in un barattolo
-2. Riempire il barattolo della soluzione di acqua, aceto sale e zucchero
+2. Riempire il barattolo della soluzione di acqua, aceto sale e zucchero (a freddo per un colore e una consistenza migliori)
 
 ## 💡 Tips
 
