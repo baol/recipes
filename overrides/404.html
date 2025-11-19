@@ -1,0 +1,15 @@
+{% extends "main.html" %} {% block header %} {# The search functionality is
+moved to the content block, so we clear the header block #} {% endblock %}
+
+<!-- Content -->
+{% block content %}
+<h1>Ricetta non trovata!</h1>
+<div class="md-grid md-typeset">
+    <div class="md-content" data-md-component="content">
+        <div class="md-content__inner">
+            {% include "partials/search.html" %}
+        </div>
+    </div>
+</div>
+<img src="images/pozione-delle-streghe.jpeg" />
+{% endblock %}
