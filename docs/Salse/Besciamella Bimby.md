@@ -8,7 +8,7 @@ comments: "true"
 
 ![](../images/bimby.jpeg)
 
-## 🧾 Ingredients
+## 🧾 Ingredienti
 
 - 4 persone
 - 500 ml Latte
@@ -17,7 +17,7 @@ comments: "true"
 - Sale
 - Noce moscata
 
-## 👩‍🍳 Directions
+## 👩‍🍳 Preparazione
 
 - Inserire tutti gli ingredienti
   - 7' - 90° - Vel. 4
