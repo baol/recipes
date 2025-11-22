@@ -1,0 +1,60 @@
+[project]
+site_name = "Le Ricette di Daniela e Mirko"
+site_url = "https://maischberger.it/"
+repo_url = "https://github.com/baol/recipes"
+copyright = "Copyright ©️ 2025 Daniela & Mirko Maischberger"
+
+
+[[project.exclude_docs]]
+pattern = ".obsidian"
+
+[[project.exclude_docs]]
+pattern = ".trash"
+
+[[project.exclude_docs]]
+pattern = "Templates"
+
+[[project.exclude_docs]]
+pattern = "*.base"
+
+[project.plugins.search]
+[project.plugins.tags]
+
+[project.theme]
+name = "material"
+favicon = "images/100allora.png"
+custom_dir = "overrides"
+language = "it"
+logo = "images/100allora.png"
+features = ["search.suggest"]
+
+[project.theme.palette]
+scheme = "slate"
+primary = "white"
+accent = "yellow"
+
+[project.theme.font]
+text = "Noto"
+
+[project.extra.consent]
+title = "Usiamo i cookie!"
+description = "We use cookies to recognize your repeated visits and preferences, as well as to measure the effectiveness of our documentation and whether users find what they're searching for. With your consent, you're helping us to make our documentation better."
+
+[project.extra.analytics]
+provider = "google"
+property = "G-X3S66S3427"
+
+[project.extra.analytics.feedback]
+title = "Was this page helpful?"
+
+[[project.extra.analytics.feedback.ratings]]
+icon = "material/emoticon-sad-outline"
+name = "This page could be improved"
+data = 0
+note = "Thanks for your feedback! Help us improve this page by using our <a href=\"https://github.com/baol/recipes/issues/new/?title=[Feedback]+{title}+-+{url}\" target=\"_blank\" rel=\"noopener\">feedback form</a>."
+
+[[project.extra.analytics.feedback.ratings]]
+icon = "material/emoticon-happy-outline"
+name = "This page was helpful"
+data = 1
+note = "Thanks for your feedback!"
