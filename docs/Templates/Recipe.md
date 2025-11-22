@@ -1,6 +1,7 @@
 ---
 tags:
   - mirko
+comments: "true"
 ---
 
 ![](../images/placeholder.jpeg)

@@ -3,6 +3,7 @@ tags:
   - NonnaPaola
   - Primi
   - Basi
+comments: "true"
 ---
 
 ![](../images/brodo-di-carne.jpeg)

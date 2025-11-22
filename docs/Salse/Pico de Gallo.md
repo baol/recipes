@@ -1,6 +1,7 @@
 ---
 tags:
   - Messicana
+comments: "true"
 ---
 Ottimo per Fajitas e Nachos
 ## 🧾 Ingredienti

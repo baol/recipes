@@ -1,6 +1,7 @@
 ---
 tags:
   - mirko
+comments: "true"
 ---
 
 ![](../images/pasta-sigaretta-salata.jpeg)
