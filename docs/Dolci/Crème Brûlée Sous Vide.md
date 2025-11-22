@@ -9,7 +9,7 @@ comments: "true"
 
 ![](../images/creme-brulee.jpeg)
 
-## 🧾 Ingredients
+## 🧾 Ingredienti
 
 **Crème**
 
@@ -23,7 +23,7 @@ comments: "true"
 - Zucchero
 - Cannello da cucina a gas
 
-## 👩‍🍳 Directions
+## 👩‍🍳 Preparazione
 
 Riscaldare un contenitore capiente pieno d’acqua a 80° con il riscaldatore sous-vide.
 
@@ -43,6 +43,6 @@ Raffreddare in acqua fredda e conservare in frigo per massimo una settimana.
 
 All’uso cospargere di zucchero e caramellarlo con il bruciatore.
 
-## 💡 Tips
+## 💡 Consigli
 
 Non dirigere il bruciatore verso il bordo del barattolo, il vetro potrebbe rompersi per il calore.
