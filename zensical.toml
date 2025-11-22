@@ -4,19 +4,6 @@ site_url = "https://maischberger.it/"
 repo_url = "https://github.com/baol/recipes"
 copyright = "Copyright ©️ 2025 Daniela & Mirko Maischberger"
 
-
-[[project.exclude_docs]]
-pattern = ".obsidian"
-
-[[project.exclude_docs]]
-pattern = ".trash"
-
-[[project.exclude_docs]]
-pattern = "Templates"
-
-[[project.exclude_docs]]
-pattern = "*.base"
-
 [project.plugins.search]
 [project.plugins.tags]
 
