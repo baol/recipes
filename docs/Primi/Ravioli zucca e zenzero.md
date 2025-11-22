@@ -10,7 +10,7 @@ comments: "true"
 
 ![](../images/ravioli-zucca-e-zenzero.jpeg)
 
-## 🧾 Ingredients
+## 🧾 Ingredienti
 
 - 6 Servings
 
@@ -31,7 +31,7 @@ comments: "true"
 - 4 Uova
 - 400 g Farina di semola (o mista)
 
-## 👩‍🍳 Directions
+## 👩‍🍳 Preparazione
 
 - Cuocere in forno per 20 - 40 minuti (fino a che sia la zucca che le fette di cipolla non sono facili da spappolare con una forchetta)
   - Le cipolle a fette cosparse di zucchero mascobado
@@ -51,7 +51,7 @@ comments: "true"
 
 - Cuocere e condire con sugo a piacere!
 
-## 💡 Tips
+## 💡 Consigli
 
 Nella foto i ravioli sono stati conditi con funghi e carote [sous-vide](../Basi/Sous%20Vide.md).
 Metti in una busta funghi in quarti, carote a tocchetti, olio, aglio, sale, pepe, e aromi (prezzemolo. come stara' con la salvia?) e cuoci a 80° per un'ora o due.

@@ -8,7 +8,7 @@ comments: "true"
 
 ![](../images/pancakes.jpeg)
 
-## 🧾 Ingredients
+## 🧾 Ingredienti
 
 - 3 o 4 Persone
 - 100 g Farina 0 (o mix con farina di farro o di grano saraceno per un sapore diverso, o Farina 00 per renderli più soffici)
@@ -28,13 +28,13 @@ comments: "true"
 - Crema Novi
 - Crumble di biscotto
 
-## 👩‍🍳 Directions
+## 👩‍🍳 Preparazione
 
 1. Mescolare i solidi
 2. Aggiungere l'uovo e poi i liquidi al centro e mescolare bene
 3. Se possibile far riposare l'impasto un paio d'ore (o una notte in frigorifero)
 4. Cuocere in padella a 180°
 
-## 💡 Tips
+## 💡 Consigli
 
 Usare un mestolo (40-50ml) per dosare l'impasto in modo uniforme

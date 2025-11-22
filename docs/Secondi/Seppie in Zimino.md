@@ -8,7 +8,7 @@ comments: "true"
 
 ![](../images/seppie-in-zimino-destrutturate.jpeg)
 
-## 🧾 Ingredients
+## 🧾 Ingredienti
 
 **Soffritto**
 
@@ -29,7 +29,7 @@ comments: "true"
 - 450g Salsa di pomodoro
 - 400 g Spinaci
 
-## 👩‍🍳 Directions
+## 👩‍🍳 Preparazione
 
 Preparare il soffritto (10’ a fuoco medio-basso) in una pentola o padella (dotata di coperchio, per le fasi successive)
 
@@ -43,6 +43,6 @@ Aggiungere gli spinaci e lasciar cuocere coperto per 30’
 
 Aggiustare di sale e pepe
 
-## 💡 Tips
+## 💡 Consigli
 
 Servire con due belle fette di pane (di segale se lo avete) ben tostate

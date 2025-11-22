@@ -10,7 +10,7 @@ comments: "true"
 
 ![](../images/peperoni-ripieni-al-tonno.jpeg)
 
-## 🧾 Ingredients
+## 🧾 Ingredienti
 
 - 4 Servings
 - 4 Peperoni Lunghi/Pontecorvo (Spitzpaprika)
@@ -24,7 +24,7 @@ comments: "true"
 - Prezzemolo
 - Pepe
 
-## 👩‍🍳 Directions
+## 👩‍🍳 Preparazione
 
 1. Lavere e pulire i peperoni.
 2. Sbollentare i peperoni per 2-5 minuti.

@@ -7,12 +7,12 @@ comments: "true"
 
 ![](../images/uovo-sodo.jpeg)
 
-## 🧾 Ingredients
+## 🧾 Ingredienti
 
 - 1 Uovo a temperatura ambiente (si rompe meno facilmente)
 - 1 pentolino d'acqua
 
-## 👩‍🍳 Directions
+## 👩‍🍳 Preparazione
 
 Immergere le uova nell'acqua bollente con cautela
 
@@ -25,6 +25,6 @@ Immergere le uova nell'acqua bollente con cautela
 
 Rimuovere le uova dall'acqua calda e lasciare raffreddare.
 
-## 💡 Tips
+## 💡 Consigli
 
 Per le uova sode, per fermare la cottura e facilitare la rimozione della buccia, si possono immergere in acqua molto fretta subito dopo la cottura. Se si raffreddano le uova dopo la cottura, aggiungere un minuto.

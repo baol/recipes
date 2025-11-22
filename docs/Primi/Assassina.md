@@ -9,7 +9,7 @@ comments: "true"
 
 ![](../images/pasta-assassina.jpeg)
 
-## 🧾 Ingredients
+## 🧾 Ingredienti
 
 **In Padella**
 
@@ -27,7 +27,7 @@ comments: "true"
 - 1 litro Acqua (o fino a cottura)
 - Sale
 
-## 👩‍🍳 Directions
+## 👩‍🍳 Preparazione
 
 - Preparate il brodo di pomodoro con sale, concentrato, acqua e passata in un pentolino e far bollire qualche minuto, tenere caldo.
 - Soffriggere l'agio a pezzi grossi, il concentrato di pomodoro e il peperoncino in una pentola abbastanza grande da ospitare gli spaghetti per lungo e possibilmente anti-aderente.
@@ -38,6 +38,6 @@ comments: "true"
 - Aggiungere il brodo di pomodoro sui bordi un mestolo alla volta, e aspettare che gli spaghetti si attacchino un po'. Tra un mestolo e l'altro voltare gli spaghetti.
 - Servire quando raggiungono la cottura desiderata, e comunque non senza averli leggermente sbruciacchiati.
 
-## 💡 Tips
+## 💡 Consigli
 
 Ottima ricetta se vi trovate degli spaghetti Barilla o simili (quelli gialli e lucidi) di cui non sapete cosa farvene.

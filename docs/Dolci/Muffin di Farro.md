@@ -7,7 +7,7 @@ comments: "true"
 
 ![](../images/muffin.jpeg)
 
-## 🧾 Ingredients
+## 🧾 Ingredienti
 
 - 12 Muffin
 
@@ -25,7 +25,7 @@ comments: "true"
 - 2 tazze Latte
 - 1/2 tazza Olio di semi
 
-## 👩‍🍳 Directions
+## 👩‍🍳 Preparazione
 
 1. Accendere il forno a 180°
 2. Mescolare gli ingredienti in polvere
@@ -35,6 +35,6 @@ comments: "true"
 6. Spolverare di zucchero
 7. Informare 20' circa
 
-## 💡 Tips
+## 💡 Consigli
 
 - Aggiungere a piacere nell'impasto o nel pirottino uvetta, mosche di cioccolato, mirtilli, ecc.

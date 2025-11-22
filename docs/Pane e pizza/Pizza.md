@@ -8,7 +8,7 @@ comments: "true"
 
 ![](../images/pizza-roccbox.jpeg)
 
-## 🧾 Ingredients
+## 🧾 Ingredienti
 
 - 2 Servings
 - 350 g Farina manitoba (Farina forte con almeno 12 o 13g di proteine per 100g)
@@ -16,7 +16,7 @@ comments: "true"
 - 7 g Sale fino
 - 3 g Lievito di birra
 
-## 👩‍🍳 Directions
+## 👩‍🍳 Preparazione
 
 Per cuocere la pizza a pranzo iniziare l'impasto verso le 11 del mattino **del giorno prededente**, per la sera, iniziare alle 18 del giorno precedente
 

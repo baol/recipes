@@ -10,14 +10,14 @@ comments: "true"
 
 La ricetta originale di Nonna Paola
 
-## 🧾 Ingredients
+## 🧾 Ingredienti
 
 - 8 uova
 - 260 g Zucchero
 - 200 g Farina 00
 - 1/2 Bustina di lievito per dolci
 
-## 👩‍🍳 Directions
+## 👩‍🍳 Preparazione
 
 - Montare gli albumi a neve fino a che non sono in grado di tenere dritta in piedi una forchetta
 - Montare i tuorli con lo zucchero almeno fino a che non cambiano colore e diventano chiari
@@ -25,6 +25,6 @@ La ricetta originale di Nonna Paola
 - Inserire in una teglia opportunamente imburrata e infarinata
 - Infornare a 170° per circa 50' (verificare con uno stecchino che non sia bagnato al centro)
 
-## 💡 Tips
+## 💡 Consigli
 
 - Dose doppia di crema pasticcera.

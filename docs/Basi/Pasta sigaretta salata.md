@@ -5,14 +5,14 @@ tags:
 
 ![](../images/pasta-sigaretta-salata.jpeg)
 
-## 🧾 Ingredients
+## 🧾 Ingredienti
 
 - 20 g Burro
 - 20 g Farina
 - 20 g Formaggio grattugiato
 - 20 g Albume
 
-## 👩‍🍳 Directions
+## 👩‍🍳 Preparazione
 
 1. Mescolare fino ad ottenere un impasto omogeneo
 2. Lavorare sullo stampo in silicone con una spatola.

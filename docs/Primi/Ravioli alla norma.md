@@ -9,7 +9,7 @@ comments: "true"
 
 ![](../images/ravioli-norma.jpeg)
 
-## 🧾 Ingredients
+## 🧾 Ingredienti
 
 - 2 Servings
 
@@ -37,7 +37,7 @@ comments: "true"
 - Poca passata di pomodoro
 - Olio abbondante
 
-## 👩‍🍳 Directions
+## 👩‍🍳 Preparazione
 
 - Impastare gli ingredienti del ripieno ancora tiepidi.
 - Riempire i ravioli

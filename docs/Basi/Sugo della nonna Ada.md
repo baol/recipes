@@ -10,7 +10,7 @@ comments: "true"
 
 Il sugo di carne che la nonna Ada preparava per le tagliatelle. Cuocere fino a che la carne non si sfalda.
 
-## 🧾 Ingredients
+## 🧾 Ingredienti
 
 **Section 1**
 
@@ -23,13 +23,13 @@ Il sugo di carne che la nonna Ada preparava per le tagliatelle. Cuocere fino a c
 - Passata di pomodoro q.b.
 - Acqua q.b.
 
-## 👩‍🍳 Directions
+## 👩‍🍳 Preparazione
 
 Preparare il soffritto per una decina di minuti con carota, cipolla e sedano tritati a fuoco medio-basso.
 
 Cuocere per almeno un paio d'ore a fuoco basso (aggiungendo acqua se necessario).
 
-## 💡 Tips
+## 💡 Consigli
 
 La salsiccia veniva lasciata intera e bucherellata e spesso mangiata a parte.
 

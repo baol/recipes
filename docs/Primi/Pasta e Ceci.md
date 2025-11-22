@@ -11,7 +11,7 @@ comments: "true"
 
 Nella foto presentati con tubetti freschi all'uovo (cfr. [pasta al torchio](../Basi/Pasta%20al%20torchio.md))
 
-## 🧾 Ingredients
+## 🧾 Ingredienti
 
 - 4 Persone
 - 250 g di ceci secchi [cotti](../Basi/Ceci%20cotti.md) o in scatola
@@ -25,7 +25,7 @@ Nella foto presentati con tubetti freschi all'uovo (cfr. [pasta al torchio](../B
 - Olio
 - Sale
 
-## 👩‍🍳 Directions
+## 👩‍🍳 Preparazione
 
 - Rosolare aglio e rosmarino 5 minuti a fuoco basso
 - Levare il rosmarino e aggiungere cipolla, sedano e carota a cubetti piccoli o frullati
@@ -34,7 +34,7 @@ Nella foto presentati con tubetti freschi all'uovo (cfr. [pasta al torchio](../B
 - Cuocere la pasta (fresca all'uovo) per qualche minuto insieme ai ceci brodosi
   - Se si usa pasta secca che richiere una cottura piu' lunga, scolare al dente e fare insaporire ed asciugare nell'acqua con i ceci e il soffritto.
 
-## 💡 Tips
+## 💡 Consigli
 
 Servire guarnendo con un filo d'olio a crudo e peperoncino fresco a rondelle per un po' di colore e brio.
 

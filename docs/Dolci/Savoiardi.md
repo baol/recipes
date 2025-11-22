@@ -7,7 +7,7 @@ comments: "true"
 
 ![](../images/savoiardi.jpeg)
 
-## 🧾 Ingredients
+## 🧾 Ingredienti
 
 - 4 Uova
 - 140 g Farina 00
@@ -18,7 +18,7 @@ comments: "true"
 - 1 bustina Vanillina
 - 1 pizzico Sale
 
-## 👩‍🍳 Directions
+## 👩‍🍳 Preparazione
 
 1. Pre-riscaldare il forno a 200°
 2. Montare gli albumi a neve e aggiungere 100 g di zucchero poco a poco
@@ -29,7 +29,7 @@ comments: "true"
 7. Cospargere i biscotti di zucchero
 8. Informare per 10-11'
 
-## 💡 Tips
+## 💡 Consigli
 
 Esercitare una pressione costante sulla sac-a-poche mentre si formano i biscotti sulla teglia, terminare con un movimento deciso per passare al prossimo. Lasciare due dita tra i biscotti per lasciare lo spazio per crescere in forno.
 

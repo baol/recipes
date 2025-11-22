@@ -9,7 +9,7 @@ tags:
 
 Il brodo di carne delle feste!
 
-## 🧾 Ingredients
+## 🧾 Ingredienti
 
 **Section 1**
 
@@ -23,7 +23,7 @@ Il brodo di carne delle feste!
 - 1 Foglia di alloro
 - 1 Bacca di ginepro
 
-## 👩‍🍳 Directions
+## 👩‍🍳 Preparazione
 
 Mettere la carne e le verdure intere in una grossa pentola con alcuni litri d'acqua e bollire a fuoco basso per 2-4 ore senza coperchio. Rimuovere la schiuma dalla superficie di tanto in tanto con una schiumarola.
 
@@ -31,7 +31,7 @@ A fine cottura filtrare con un panno di cotone neutro alimentare.
 
 Salare all'occorrenza.
 
-## 💡 Tips
+## 💡 Consigli
 
 Piantare il chiodo di garofano nella cipolla intera.
 

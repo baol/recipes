@@ -10,13 +10,13 @@ comments: "true"
 
 ![](../images/pasta-al-torchio.jpeg)
 
-## 🧾 Ingredients
+## 🧾 Ingredienti
 
 - 3 Servings
 - 2 Uova o 32g di acqua
 - 160-200 g Farina di Semola
 
-## 👩‍🍳 Directions
+## 👩‍🍳 Preparazione
 
 - Impastare in modo da formare uno sfarinato omogeneo. Velocita' 3 con frusta K, aggiungendo l'acqua a filo partendo dalla sola farina.
 - Passare al torchio

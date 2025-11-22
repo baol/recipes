@@ -7,16 +7,16 @@ comments: "true"
 
 ![](../images/ceci-cotti.jpeg)
 
-## 🧾 Ingredients
+## 🧾 Ingredienti
 
 - 250 g Ceci secchi
 
-## 👩‍🍳 Directions
+## 👩‍🍳 Preparazione
 
 - Coprire di acqua e lasciare in ammollo per 24-72h cambiando l'acqua ogni giorno
 - Cuocere in pentola a pressione coperti da 1 o 2 dita d'acqua per 45' dal fischio a fuoco basso
 
-## 💡 Tips
+## 💡 Consigli
 
 - 250 g di ceci secchi diventeranno circa 750 g di ceci cotti!
 

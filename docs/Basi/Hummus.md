@@ -9,7 +9,7 @@ comments: "true"
 
 ![](../images/placeholder.jpeg)
 
-## 🧾 Ingredients
+## 🧾 Ingredienti
 
 **Ingredienti**
 
@@ -25,10 +25,10 @@ comments: "true"
 
 - Paprika in polvere (per guarnire)
 
-## 👩‍🍳 Directions
+## 👩‍🍳 Preparazione
 
 Mettere tutti gli ingredienti in un frullatore o nel barattolo del Minipimer e frullare.
 
-## 💡 Tips
+## 💡 Consigli
 
 Se sembra troppo denso aggiungere un po’ di acqua faba (acqua dei ceci).

@@ -7,7 +7,7 @@ comments: "true"
 
 ![](../images/paella-valenciana.jpeg)
 
-## 🧾 Ingredients
+## 🧾 Ingredienti
 
 - 4 persone
 - 1/2 g Zafferano tostato
@@ -24,7 +24,7 @@ comments: "true"
 - 250 g Riso Bomba
 - 3 rametti di rosmarimo
 
-## 👩‍🍳 Directions
+## 👩‍🍳 Preparazione
 
 - Riscalda una padella dal diametro (superiore) di 23 cm moltiplicato per la radice quadrata delle persone per cui prepari la paella (32cm per 2, 40cm per 3, 46cm per 4, etc...)
 - Tosta lo zafferano nella padella per pochi secondi (racchiuso nella carta argentata per comodita')
@@ -49,6 +49,6 @@ comments: "true"
 - Quando l'acqua si sara' assorbita, attendere a fuoco medio che si formi il socarrat, la crosticina croccante di riso e grasso sul fondo della pentola. Marrone non nero. Per ottenere la cottura ottimale usare le orecchie, il naso e uno stecchino per testare il fondo.
 - Lasciare riposare coperto per alcuni minuti.
 
-## 💡 Tips
+## 💡 Consigli
 
 Servire con spicchi di limone

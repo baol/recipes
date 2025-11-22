@@ -10,7 +10,7 @@ comments: "true"
 
 La prima torta che Mirko abbia mai fatto
 
-## 🧾 Ingredients
+## 🧾 Ingredienti
 
 - 80 g Burro
 - 100 g Zucchero
@@ -21,7 +21,7 @@ La prima torta che Mirko abbia mai fatto
 - q.b. Latte tiepido
 - Zucchero per spolverare
 
-## 👩‍🍳 Directions
+## 👩‍🍳 Preparazione
 
 1. Pre-riscaldare il forno a 180°
 2. Montare burro e zucchero

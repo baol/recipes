@@ -7,7 +7,7 @@ comments: "true"
 
 ![](../images/pancakes.jpeg)
 
-## 🧾 Ingredients
+## 🧾 Ingredienti
 
 - 3 Persone
 - 1 Uovo
@@ -27,12 +27,12 @@ comments: "true"
 - Crema Novi
 - Crumble di biscotto
 
-## 👩‍🍳 Directions
+## 👩‍🍳 Preparazione
 
 1. Mescolare i solidi
 2. Aggiungere i liquidi al centro e mescolare bene
 3. Cuocere in padella a 180°
 
-## 💡 Tips
+## 💡 Consigli
 
 Usare un mestolo (40-50ml) per dosare l'impasto in modo uniforme
