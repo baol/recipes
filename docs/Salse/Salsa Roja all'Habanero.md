@@ -3,7 +3,9 @@ tags:
   - Messicana
 comments: "true"
 ---
+
 Ottima per Fajitas e Nachos
+
 ## 🧾 Ingredienti
 
 - 1 habanero
@@ -12,6 +14,7 @@ Ottima per Fajitas e Nachos
 - 1/2 cipolla
 - Sale
 - Un filo d’olio
+
 ## 👩‍🍳 Preparazione
 
 - Arrostisci in padella o al forno pomodori, cipolla, aglio e habanero.

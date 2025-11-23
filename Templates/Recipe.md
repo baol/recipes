@@ -37,6 +37,7 @@ Anything else you want can go here.
 ## Markdown in 5min
 
 ### Headers
+
 ```
 # H1 Header
 ## H2 Header
@@ -47,6 +48,7 @@ Anything else you want can go here.
 ```
 
 ### Text formatting
+
 ```
 **bold text**
 *italic text*
@@ -56,6 +58,7 @@ Anything else you want can go here.
 ```
 
 ### Links and images
+
 ```
 [Link text](https://example.com)
 [Link with title](https://example.com "Hover title")
@@ -64,6 +67,7 @@ Anything else you want can go here.
 ```
 
 ### Lists
+
 ```
 Unordered:
 - Item 1
@@ -77,6 +81,7 @@ Ordered:
 ```
 
 ### Blockquotes
+
 ```
 > This is a blockquote
 > Multiple lines
@@ -84,6 +89,7 @@ Ordered:
 ```
 
 ### Code blocks
+
 ````
 ```javascript
 function hello() {
@@ -93,6 +99,7 @@ function hello() {
 ````
 
 ### Tables
+
 ```
 | Header 1 | Header 2 | Header 3 |
 |----------|----------|----------|
@@ -101,6 +108,7 @@ function hello() {
 ```
 
 ### Horizontal rule
+
 ```
 ---
 or
@@ -110,6 +118,7 @@ ___
 ```
 
 ### Task lists
+
 ```
 - [x] Completed task
 - [ ] Incomplete task
@@ -117,13 +126,15 @@ ___
 ```
 
 ### Escaping characters
+
 ```
 Use backslash to escape: \* \_ \# \`
 ```
 
 ### Line breaks
+
 ```
-End a line with two spaces  
+End a line with two spaces
 to create a line break.
 
 Or use a blank line for a new paragraph.

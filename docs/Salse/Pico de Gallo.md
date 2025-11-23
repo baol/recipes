@@ -3,7 +3,9 @@ tags:
   - Messicana
 comments: "true"
 ---
+
 Ottimo per Fajitas e Nachos
+
 ## 🧾 Ingredienti
 
 - 3 pomodori maturi a cubetti
@@ -12,6 +14,7 @@ Ottimo per Fajitas e Nachos
 - Lime
 - Sale
 - Coriandolo
+
 ## 👩‍🍳 Preparazione
 
 1. Mescola tutto e lascia insaporire 15 minuti
