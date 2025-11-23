@@ -9,9 +9,10 @@ comments: "true"
 
 ![Placeholder](../images/bimby.jpeg)
 
+Dose indicativa per farcire una torta da 26cm.
+
 ## 🧾 Ingredienti
 
-- 26 cm di torta
 - 4 Tuorli
 - 50 g Farina 00
 - 100 g Zucchero
@@ -20,7 +21,7 @@ comments: "true"
 
 ## 👩‍🍳 Preparazione
 
-- Polverizza lo zucchero e la buccia di limoneNumbered lists
+- Polverizza lo zucchero e la buccia di limone
   - 20" Vel. Turbo
 - Unire tutti gli ingredienti
   - 7' Vel. 4, 80°
