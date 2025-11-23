@@ -20,12 +20,12 @@ jobs:
         uses: rymndhng/release-on-push-action@v0.28.0
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          tag_prefix: "v"
-          release: true
+          bump_version_scheme: minor
+          tag_prefix: v
 
-      - uses: actions/setup-python@v5
+      - uses: actions/setup-python@v6
         with:
-          python-version: 3.10
+          python-version-file: "pyproject.toml"
 
       - run: echo "cache_id=$(date --utc '+%V')" >> $GITHUB_ENV
       - uses: actions/cache@v4
