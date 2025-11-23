@@ -28,3 +28,4 @@ La ricetta originale di Nonna Paola
 ## 💡 Consigli
 
 - Dose doppia di crema pasticcera.
+- Se i bianchi sono ben montati e lo zabaione ben fatto, il lievito serve solo per scaramanzia :)
