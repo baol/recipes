@@ -1,8 +1,10 @@
 .DS_Store
-.obsidian
-.cache
-.venv
-.Trash
-/site*
-*.egg-info
 *.log
+
+.trash
+.obsidian
+/.cache
+/.venv
+/build
+/site
+/ricette.egg-info
