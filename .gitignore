@@ -5,3 +5,4 @@
 .Trash
 /site*
 *.egg-info
+*.log
