@@ -1,13 +1,13 @@
 [project]
 name = "ricette"
-version = "0.1.0"
+dynamic = ["version"]
 description = "Le Ricette di Daniela e Mirko"
 readme = "README.md"
 requires-python = ">=3.10"
 dependencies = ["zensical==0.0.9"]
 
 [build-system]
-requires = ["setuptools", "wheel"]
+requires = ["setuptools", "setuptools-scm[simple]>=8", "wheel"]
 build-backend = "setuptools.build_meta"
 
 [tool.setuptools]
