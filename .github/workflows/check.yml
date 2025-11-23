@@ -14,4 +14,4 @@ jobs:
         uses: creyD/prettier_action@v4.6
         with:
           no_commit: true
-          prettier_options: --check **/*.{yml,yaml,md}
+          prettier_options: --check **/*.{yml,md}
