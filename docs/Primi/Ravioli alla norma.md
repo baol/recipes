@@ -11,7 +11,7 @@ comments: "true"
 
 ## 🧾 Ingredienti
 
-- 2 Servings
+- 2 porzioni
 
 **Ripieno**
 
@@ -26,8 +26,7 @@ comments: "true"
 
 **Impasto**
 
-- 1 Uovo
-- 1 Tuorlo
+- [Pasta all'uovo](../Basi/Pasta%20all'uovo) con 1 Uovo e 1 Tuorlo
 
 **Sugo**
 
