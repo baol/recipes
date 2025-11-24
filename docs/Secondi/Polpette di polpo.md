@@ -23,9 +23,9 @@ comments: "true"
 
 ## 👩‍🍳 Preparazione
 
-1. Bollire il polpo in non troppa acqua con l'alloro per 25'
+1. Bollire il polpo in non troppa acqua con l'alloro per circa 25' (sentirlo con una forchetta infilzando un tentacolo vicino alla testa)
 2. Scolare e tenere l'acqua di cottura
-3. In una ciotola inserire il prezzemolo tritato, l'aglio tritato, la mollica di pane spezzettata, un cucchiaio di acqua di cottura, uovo, sale, pepe.
+3. In una ciotola inserire il prezzemolo tritato, l'aglio tritato, la mollica di pane spezzettata, uno o due cucchiai di acqua di cottura, uovo, sale, pepe.
 4. Aggiungere il polpo tritato non troppo finemente nel tritatutto
 5. Mescolare bene tutto
 
