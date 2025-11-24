@@ -1,7 +1,6 @@
 ---
 tags:
   - SousVide
-  - Mirko
   - Basi
 comments: "true"
 ---
