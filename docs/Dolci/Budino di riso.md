@@ -1,6 +1,6 @@
 ---
 tags:
-  - mirko
+  - Mirko
   - Toscana
   - Bimby
 comments: "true"
@@ -10,8 +10,8 @@ comments: "true"
 
 ## 🧾 Ingredienti
 
-- [Pasta Frolla](../Basi//Pasta frolla)
-- [Crema pasticcera](../Basi/Crema pasticcera Bimby) (dose ridotta)
+- [Pasta Frolla](../Basi/Pasta frolla)
+- [Crema pasticcera](../Basi/Crema pasticcera) o [Crema pasticcera Bimby](../Basi/Crema pasticcera Bimby) (dose ridotta)
 
 **Riso al latte**
 
@@ -39,9 +39,9 @@ comments: "true"
 **Preparare i budini di riso**
 
 - Stendere la pasta frolla, e ritagliare 10-12 dischi da circa 9-10cm.
-- Adagiate i dischi in uno stampo da muffin
+- Adagiate i dischi infarinati in uno stampo da muffin per formare delle vaschette con le dita
 - Mescolate riso e crema non piu' caldi
 - Riempite i gusci di pasta frolla
-- Informate a 160º (ventilato) per circa 30'
+- Informate a 160º (ventilato) per circa 35'
 
 Servire tiepidi e spolverizzati di zucchero a velo
