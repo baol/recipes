@@ -11,7 +11,7 @@ Adattato da https://www.allrecipes.com/recipe/233652/homemade-hamburger-buns/
 
 ## 🧾 Ingredienti
 
-- 7 g lievito secco
+- 7 g lievito di birra secco (o 21 di lievito di birra fresco)
 - 450 g Farina 00
 - 240 ml Acqua tiepida
 - 2 Uova
@@ -39,7 +39,7 @@ Adattato da https://www.allrecipes.com/recipe/233652/homemade-hamburger-buns/
 13. Disponi le palline su una teglia, non troppo distanziate in modo che si toccheranno durante la cottura.
 14. Lasciare lievitare coperte con un panno unodo per circa un ora
 15. Accendi il forno.
-16. Il secondo uovo va mescolato con un po' di latte e serve per spalmare le pagnottine prima di cospargerle di sesamo 
+16. Il secondo uovo va mescolato con un po' di latte e serve per spalmare le pagnottine prima di cospargerle di sesamo
 17. Informare a 180 gradi per 15-17 minuti
 
 ![](../images/hamburger-buns.jpeg)
