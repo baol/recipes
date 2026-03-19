@@ -9,7 +9,7 @@ copyright = "Copyright ©️ 2025 Daniela & Mirko Maischberger"
 
 [project.theme]
 name = "material"
-favicon = "images/100allora.png"
+favicon = "images/icon-512x512.png"
 custom_dir = "overrides"
 language = "it"
 logo = "images/100allora.png"
