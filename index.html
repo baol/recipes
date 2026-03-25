@@ -100,6 +100,8 @@
     
      
 <link rel="apple-touch-icon" href="images/icon-512x512.png" />
+<link rel="manifest" href="manifest.json" />
+<meta name="theme-color" content="#263238" />
 
   </head>
   
@@ -1804,7 +1806,7 @@
             <div class="md-content" data-md-component="content">
               
               <article class="md-content__inner md-typeset">
-                
+                 
                   
   
   
@@ -1882,6 +1884,53 @@
 
 
                 
+<button
+    id="installBtn"
+    style="
+        display: none;
+        position: fixed;
+        bottom: 20px;
+        right: 20px;
+        background: #ffeb3b;
+        color: #263238;
+        border: none;
+        padding: 12px 16px;
+        border-radius: 8px;
+        font-weight: bold;
+        cursor: pointer;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+        z-index: 1000;
+    "
+>
+    📱 Installa la App
+</button>
+
+<script>
+    let deferredPrompt;
+    const installBtn = document.getElementById("installBtn");
+
+    window.addEventListener("beforeinstallprompt", (e) => {
+        e.preventDefault();
+        deferredPrompt = e;
+        installBtn.style.display = "block";
+    });
+
+    installBtn.addEventListener("click", async () => {
+        if (deferredPrompt) {
+            deferredPrompt.prompt();
+            const { outcome } = await deferredPrompt.userChoice;
+            if (outcome === "accepted") {
+                installBtn.style.display = "none";
+            }
+            deferredPrompt = null;
+        }
+    });
+
+    window.addEventListener("appinstalled", () => {
+        installBtn.style.display = "none";
+    });
+</script>
+
               </article>
             </div>
           
