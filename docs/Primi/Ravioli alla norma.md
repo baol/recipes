@@ -26,7 +26,7 @@ comments: "true"
 
 **Impasto**
 
-- [Pasta all'uovo](../Basi/Pasta%20all'uovo) con 1 Uovo e 1 Tuorlo
+- [Pasta all'uovo] (../Basi/Pasta all'uovo.md) con 1 Uovo e 1 Tuorlo
 
 **Sugo**
 

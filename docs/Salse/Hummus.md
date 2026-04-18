@@ -13,7 +13,7 @@ comments: "true"
 
 **Ingredienti**
 
-- 300 g [Ceci cotti](Ceci%20cotti.md) (o in barattolo)
+- 300 g [Ceci cotti](../Basi/Ceci cotti.md) (o in barattolo)
 - 2 cucchiai Tahina
 - 1 Limone (succo)
 - 1 spicchio Aglio

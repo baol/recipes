@@ -53,7 +53,7 @@ comments: "true"
 
 ## 💡 Consigli
 
-Nella foto i ravioli sono stati conditi con funghi e carote [sous-vide](../Basi/Sous%20Vide.md).
+Nella foto i ravioli sono stati conditi con funghi e carote [sous-vide](../Basi/Sous Vide.md).
 Metti in una busta funghi in quarti, carote a tocchetti, olio, aglio, sale, pepe, e aromi (prezzemolo. come stara' con la salvia?) e cuoci a 80° per un'ora o due.
 
 Ottimi anche con burro e amaretti sbriciolati.
