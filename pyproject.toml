@@ -6,6 +6,9 @@ readme = "README.md"
 requires-python = "==3.11.14"
 dependencies = ["zensical==0.0.9"]
 
+[project.optional-dependencies]
+dev = ["mdformat"]
+
 [build-system]
 requires = ["setuptools", "setuptools-scm[simple]>=8", "wheel"]
 build-backend = "setuptools.build_meta"
