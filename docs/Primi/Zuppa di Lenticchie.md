@@ -1,10 +1,13 @@
----
+______________________________________________________________________
+
 tags:
-  - Mirko
-  - Legumi
-  - Primi
-comments: "true"
----
+
+- Mirko
+- Legumi
+- Primi
+  comments: "true"
+
+______________________________________________________________________
 
 ![Zuppa di lenticchie](../images/zuppa-di-lenticchie.jpeg)
 Dose per 4 persone.
@@ -32,10 +35,10 @@ Dose per 4 persone.
 ## 👩‍🍳 Preparazione
 
 1. Soffriggere cipolle tritate e carote a cubetti per 5 minuti.
-2. Aggiungere l'aglio e le tre spezie.
-3. Aggiungere i pelati passati o spappolati con le mani e cuocere per 5 minuti.
-4. Aggiungere il brodo e le lenticchie secche e bollire per 30 minuti semi-coperto.
-5. Opzionalmente frullare circa 1/5 della zuppa con un frullatore a immersione.
-6. Aggiustare di sale e pepe.
-7. Aggingere le foglie di cavolo e cuocere per 5 minuti.
-8. Servire con una foglia di cavolo a crudo e qualche goccia di limone.
+1. Aggiungere l'aglio e le tre spezie.
+1. Aggiungere i pelati passati o spappolati con le mani e cuocere per 5 minuti.
+1. Aggiungere il brodo e le lenticchie secche e bollire per 30 minuti semi-coperto.
+1. Opzionalmente frullare circa 1/5 della zuppa con un frullatore a immersione.
+1. Aggiustare di sale e pepe.
+1. Aggingere le foglie di cavolo e cuocere per 5 minuti.
+1. Servire con una foglia di cavolo a crudo e qualche goccia di limone.
