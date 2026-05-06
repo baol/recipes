@@ -1,10 +1,13 @@
----
+______________________________________________________________________
+
 tags:
-  - Colazione
-  - Dolci
-  - Cucchiaio
-comments: "true"
----
+
+- Colazione
+- Dolci
+- Cucchiaio
+  comments: "true"
+
+______________________________________________________________________
 
 ![](../images/pancakes.jpeg)
 
@@ -31,9 +34,9 @@ comments: "true"
 ## 👩‍🍳 Preparazione
 
 1. Mescolare i solidi
-2. Aggiungere l'uovo e poi i liquidi al centro e mescolare bene
-3. Se possibile far riposare l'impasto un paio d'ore (o una notte in frigorifero)
-4. Cuocere in padella a 180°
+1. Aggiungere l'uovo e poi i liquidi al centro e mescolare bene
+1. Se possibile far riposare l'impasto un paio d'ore (o una notte in frigorifero)
+1. Cuocere in padella a 180°
 
 ## 💡 Consigli
 

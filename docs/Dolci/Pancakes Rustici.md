@@ -1,9 +1,12 @@
----
+______________________________________________________________________
+
 tags:
-  - Colazione
-  - Dolci
-comments: "true"
----
+
+- Colazione
+- Dolci
+  comments: "true"
+
+______________________________________________________________________
 
 ![](../images/pancakes.jpeg)
 
@@ -30,8 +33,8 @@ comments: "true"
 ## 👩‍🍳 Preparazione
 
 1. Mescolare i solidi
-2. Aggiungere i liquidi al centro e mescolare bene
-3. Cuocere in padella a 180°
+1. Aggiungere i liquidi al centro e mescolare bene
+1. Cuocere in padella a 180°
 
 ## 💡 Consigli
 

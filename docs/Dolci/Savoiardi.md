@@ -1,9 +1,12 @@
----
+______________________________________________________________________
+
 tags:
-  - Biscotti
-  - Dolci
-comments: "true"
----
+
+- Biscotti
+- Dolci
+  comments: "true"
+
+______________________________________________________________________
 
 ![](../images/savoiardi.jpeg)
 
@@ -21,13 +24,13 @@ comments: "true"
 ## 👩‍🍳 Preparazione
 
 1. Pre-riscaldare il forno a 200°
-2. Montare gli albumi a neve e aggiungere 100 g di zucchero poco a poco
-3. Montare tuorli e 40 g di zucchero
-4. Setacciare farina, fecola e vanillina
-5. Incorporare i bianchi a neve e le polveri setacciate nei tuorli a poco a poco mescolando con un cucchiaio di legno dal basso verso l'alto
-6. Inserire in una sac-a-poche e formare dei vermi ben spaziati su una teglia ricoperta di carta da forno o tappetino in silicone
-7. Cospargere i biscotti di zucchero
-8. Informare per 10-11'
+1. Montare gli albumi a neve e aggiungere 100 g di zucchero poco a poco
+1. Montare tuorli e 40 g di zucchero
+1. Setacciare farina, fecola e vanillina
+1. Incorporare i bianchi a neve e le polveri setacciate nei tuorli a poco a poco mescolando con un cucchiaio di legno dal basso verso l'alto
+1. Inserire in una sac-a-poche e formare dei vermi ben spaziati su una teglia ricoperta di carta da forno o tappetino in silicone
+1. Cospargere i biscotti di zucchero
+1. Informare per 10-11'
 
 ## 💡 Consigli
 
