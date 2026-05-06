@@ -1,11 +1,14 @@
----
+______________________________________________________________________
+
 tags:
-  - Mirko
-  - Primi
-  - Capperi
-  - Olive
-comments: "true"
----
+
+- Mirko
+- Primi
+- Capperi
+- Olive
+  comments: "true"
+
+______________________________________________________________________
 
 La puttanesca come la faccio io.
 
@@ -22,10 +25,10 @@ La puttanesca come la faccio io.
 ## 👩‍🍳 Preparazione
 
 1. Soffriggere l'aglio e il peperoncino (e volendo un'alice dissalata e un po' di concentrato) in abbondante olio per 4 o 5 minuti a fiamma moderata
-2. Aggiungere i capperi dissalati e sminuzzati
-3. Aggiungere le olive a pezzetti (schiacciarle con le mani su un tagliere per denocciolarne)
-4. Cospargere di un bel pizzico di origano a persona
-5. Aggiustare di sale e pepe
+1. Aggiungere i capperi dissalati e sminuzzati
+1. Aggiungere le olive a pezzetti (schiacciarle con le mani su un tagliere per denocciolarne)
+1. Cospargere di un bel pizzico di origano a persona
+1. Aggiustare di sale e pepe
 
 Scolare la pasta un po' al dente e mantecare con un po' d'acqua di cottura per un minuto o due.
 
