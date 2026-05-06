@@ -1,0 +1,60 @@
+name: Preview
+
+on:
+  pull_request:
+    branches: [ main ]
+  push:
+    branches:
+      - 'fix/**'
+      - 'feature/**'
+      - 'hotfix/**'
+
+jobs:
+  preview:
+    runs-on: ubuntu-latest
+    if: github.event_name == 'pull_request' || (github.event_name == 'push' && !startsWith(github.ref, 'refs/heads/main'))
+    permissions:
+      contents: write
+      pull-requests: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v6
+        with:
+          python-version-file: "pyproject.toml"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install .
+
+      - name: Build site
+        run: |
+          zensical build -f zensical.toml
+          mv site preview_site
+
+      - name: Deploy to GitHub Pages (preview)
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./preview_site
+          destination_dir: previews/${{ github.sha }}
+          keep_files: false
+          force_orthogonal: true
+
+      - name: Comment on PR with preview URL
+        if: github.event_name == 'pull_request'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const sha = "${{ github.sha }}";
+            const previewUrl = `https://${{ github.repository_owner }}.github.io/${{ github.repository.name }}/previews/${sha}/`;
+            github.rest.issues.createComment({
+              issue_number: context.issue.number,
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              body: `🔬 **Preview Deployment**\n\nThe site has been built and is available for review:\n\n${previewUrl}\n\n*Note: This preview is generated from commit \`${sha.substring(0, 7)}\` and will be updated on new pushes to this branch.*`
+            });

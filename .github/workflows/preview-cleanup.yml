@@ -1,0 +1,60 @@
+name: Cleanup Old Previews
+
+on:
+  schedule:
+    - cron: '0 2 * * 0'  # Every Sunday at 02:00 UTC
+  workflow_dispatch:  # Allow manual trigger
+
+jobs:
+  cleanup:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: gh-pages  # We need to operate on the gh-pages branch
+          fetch-depth: 0
+
+      - name: Set up git user
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+      - name: Find and delete old previews
+        id: cleanup
+        run: |
+          # Threshold: 7 days ago
+          threshold=$(date -u -d "7 days ago" +%s)
+          deleted=0
+          # Find all directories under previews/ that are not current SHA (to be safe)
+          for dir in previews/*/; do
+            if [ -d "$dir" ]; then
+              # Extract SHA from path like previews/a1b2c3d4ef/
+              sha=$(basename "$dir")
+              # Try to get commit date for this SHA from the main repo's history
+              # We need to fetch the main repo to check commit dates
+              if git show "$sha" >/dev/null 2>&1; then
+                commit_date=$(git show -s --format=%ct "$sha")
+                if [ "$commit_date" -lt "$threshold" ]; then
+                  echo "Deleting old preview: $dir (commit $(date -u -d @$commit_date))"
+                  git rm -r "$dir"
+                  deleted=$((deleted + 1))
+                fi
+              else
+                # If we can't resolve the SHA (e.g., force-pushed), delete to be safe
+                echo "Deleting unresolved preview: $dir"
+                git rm -r "$dir"
+                deleted=$((deleted + 1))
+              fi
+            fi
+          done
+          if [ $deleted -eq 0 ]; then
+            echo "No old previews to clean."
+          else
+            echo "Deleted $deleted old preview(s)."
+            git commit -m "chore: remove old previews (older than 7 days)"
+            git push origin gh-pages
+          fi
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
