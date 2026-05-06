@@ -5,13 +5,16 @@ on:
     branches:
       - main
 jobs:
-  prettier:
+  check-formatting:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-      - name: Check formatting with prettier
-        uses: creyD/prettier_action@v4.6
+      - uses: actions/checkout@v4
+      - name: Setup Python
+        uses: actions/setup-python@v6
         with:
-          no_commit: true
-          prettier_options: --check **/*.{yml,md}
+          python-version-file: "pyproject.toml"
+      - name: Install dependencies
+        run: |
+          pip install -e .[dev]
+      - name: Check markdown formatting with mdformat
+        run: mdformat --check **/*.md
