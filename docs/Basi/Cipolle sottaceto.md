@@ -1,11 +1,14 @@
----
+______________________________________________________________________
+
 tags:
-  - Sottaceti
-  - Cipolle
-  - AdamRagusea
-  - Antipasti
-comments: "true"
----
+
+- Sottaceti
+- Cipolle
+- AdamRagusea
+- Antipasti
+  comments: "true"
+
+______________________________________________________________________
 
 ![Cipolle](../images/cipolla-sottaceto.jpeg)
 
@@ -21,7 +24,7 @@ comments: "true"
 ## 👩‍🍳 Preparazione
 
 1. Inserire le verdure in un barattolo
-2. Riempire il barattolo della soluzione di acqua, aceto sale e zucchero (a freddo per un colore e una consistenza migliori)
+1. Riempire il barattolo della soluzione di acqua, aceto sale e zucchero (a freddo per un colore e una consistenza migliori)
 
 ## 💡 Consigli
 

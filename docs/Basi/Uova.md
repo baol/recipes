@@ -1,9 +1,12 @@
----
+______________________________________________________________________
+
 tags:
-  - Uova
-  - Basi
-comments: "true"
----
+
+- Uova
+- Basi
+  comments: "true"
+
+______________________________________________________________________
 
 ![](../images/uovo-sodo.jpeg)
 
@@ -16,12 +19,12 @@ comments: "true"
 
 Immergere le uova nell'acqua bollente con cautela
 
-| Modo       | Tempo      |
+| Modo | Tempo |
 | ---------- | ---------- |
 | Alla coque | 3-4 minuti |
-| Barzotte   | 5-6 minuti |
-| Sode       | 7-8 minuti |
-| In camicia | 3-4        |
+| Barzotte | 5-6 minuti |
+| Sode | 7-8 minuti |
+| In camicia | 3-4 |
 
 Rimuovere le uova dall'acqua calda e lasciare raffreddare.
 

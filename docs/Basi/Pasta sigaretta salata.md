@@ -1,9 +1,12 @@
----
+______________________________________________________________________
+
 tags:
-  - Decorazioni
-  - Basi
-comments: "true"
----
+
+- Decorazioni
+- Basi
+  comments: "true"
+
+______________________________________________________________________
 
 ![](../images/pasta-sigaretta-salata.jpeg)
 
@@ -17,7 +20,7 @@ comments: "true"
 ## 👩‍🍳 Preparazione
 
 1. Mescolare fino ad ottenere un impasto omogeneo
-2. Lavorare sullo stampo in silicone con una spatola.
-3. Infornare a 160º ventilato per pochi minuti (~6)
+1. Lavorare sullo stampo in silicone con una spatola.
+1. Infornare a 160º ventilato per pochi minuti (~6)
 
 ![](../images/pasta-sigaretta-salata-stampo.jpeg)

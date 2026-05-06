@@ -1,12 +1,15 @@
----
+______________________________________________________________________
+
 tags:
-  - Pasta
-  - Uova
-  - Primi
-  - NonnaAda
-  - Basi
-comments: "true"
----
+
+- Pasta
+- Uova
+- Primi
+- NonnaAda
+- Basi
+  comments: "true"
+
+______________________________________________________________________
 
 ![](../images/pasta-all-uovo.jpeg)
 
