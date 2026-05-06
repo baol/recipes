@@ -1,12 +1,15 @@
----
+______________________________________________________________________
+
 tags:
-  - Peperoni
-  - Antipasti
-  - Secondi
-  - Tonno
-  - Mirko
-comments: "true"
----
+
+- Peperoni
+- Antipasti
+- Secondi
+- Tonno
+- Mirko
+  comments: "true"
+
+______________________________________________________________________
 
 ![](../images/peperoni-ripieni-al-tonno.jpeg)
 
@@ -27,7 +30,7 @@ comments: "true"
 ## 👩‍🍳 Preparazione
 
 1. Lavere e pulire i peperoni.
-2. Sbollentare i peperoni per 2-5 minuti.
+1. Sbollentare i peperoni per 2-5 minuti.
 
 ![](../images/peperoni-sbollentati.jpeg)
 
