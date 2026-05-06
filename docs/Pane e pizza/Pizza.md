@@ -1,10 +1,13 @@
----
+______________________________________________________________________
+
 tags:
-  - Pizza
-  - Stefano
-  - Youbakeit
-comments: "true"
----
+
+- Pizza
+- Stefano
+- Youbakeit
+  comments: "true"
+
+______________________________________________________________________
 
 ![](../images/pizza-roccbox.jpeg)
 
