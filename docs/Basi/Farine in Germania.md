@@ -1,29 +1,140 @@
 ______________________________________________________________________
 
-comments: "true"
 tags:
 
+- Farine in Germania
 - Basi
-- Pizza
-- Dolci
+  comments: "true"
 
 ______________________________________________________________________
 
-![](../images/farine.jpeg)
-Tabella conversione Italia Germania
+## 🧾 Ingredienti
 
-| Farina italiana | Farina tedesca |
-| ----------------------------------------- | ------------------------------- |
-| Farina 00 | Weizenmehl 405 |
-| Farina 0 | Weizenmehl 550 |
-| Farina 1 | Weizenmehl 630 - 812 |
-| Farina 2 | Weizenmehl 1050 |
-| Farina integrale | Weizenmehl 1600 o Vollkorn Mehl |
-| Farina di farro | Dinkelmehl 630 |
-| Farina di grano saraceno | Buchweizenmehl |
-| Farina di segale | Roggen Mehl |
-| Farina di semola rimacinata di grano duro | Hartweizengrieß |
+**Section 1**
 
-Il numero del sistema tedesco si riferisce alla quantità di ceneri residue (mg per 100g di farina).
+- bulleted lists
+- quantities at the start, e.g.:
+- 180 grams butter
+- 3 eggs
 
-Un altro numero importante da tenere d'occhio e' il valore nutrizione relativo alle proteine (Eiweiss o Eiklar in tedesco) per 100g. Il valore è anche detto _forza_ della farina. Per i dolci un valore fino a 10g, per il pane o la pizza meglio che sia almeno 12g o 13g. Il valore corrisponde alla quantità di glutine (una proteina) presente nella farina, che favorisce l'elasticità dell'impasto.
+**Another section**
+
+- Feel free to split your ingredients up
+- and add notes underneath
+- You don't need any bold headings if you don't want
+- 15 of \[[Another recipe]\], pre-made
+
+## 👩‍🍳 Preparazione
+
+1. Numbered lists
+1. Feel free to include any markdown you like in your steps
+1. You can also split these up in sections, with bold or level 3+ headings
+
+## 💡 Consigli
+
+Anything else you want can go here.
+
+## Markdown in 5min
+
+### Headers
+
+```
+# H1 Header
+## H2 Header
+### H3 Header
+#### H4 Header
+##### H5 Header
+###### H6 Header
+```
+
+### Text formatting
+
+```
+**bold text**
+*italic text*
+***bold and italic***
+~~strikethrough~~
+`inline code`
+```
+
+### Links and images
+
+```
+[Link text](https://example.com)
+[Link with title](https://example.com "Hover title")
+![Alt text](image.jpg)
+![Image with title](image.jpg "Image title")
+```
+
+### Lists
+
+```
+Unordered:
+- Item 1
+- Item 2
+  - Nested item
+
+Ordered:
+1. First item
+2. Second item
+3. Third item
+```
+
+### Blockquotes
+
+```
+> This is a blockquote
+> Multiple lines
+>> Nested quote
+```
+
+### Code blocks
+
+````
+```javascript
+function hello() {
+  console.log("Hello, world!");
+}
+```
+````
+
+### Tables
+
+```
+| Header 1 | Header 2 | Header 3 |
+|----------|----------|----------|
+| Row 1    | Data     | Data     |
+| Row 2    | Data     | Data     |
+```
+
+### Horizontal rule
+
+```
+---
+or
+***
+or___
+```
+
+### Task lists
+
+```
+- [x] Completed task
+- [ ] Incomplete task
+- [ ] Another task
+```
+
+### Escaping characters
+
+```
+Use backslash to escape: \* \_ \# \`
+```
+
+### Line breaks
+
+```
+End a line with two spaces
+to create a line break.
+
+Or use a blank line for a new paragraph.
+```
