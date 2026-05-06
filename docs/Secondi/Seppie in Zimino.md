@@ -1,10 +1,13 @@
----
+______________________________________________________________________
+
 tags:
-  - Secondi
-  - Pesce
-  - Spinaci
-comments: "true"
----
+
+- Secondi
+- Pesce
+- Spinaci
+  comments: "true"
+
+______________________________________________________________________
 
 ![](../images/seppie-in-zimino-destrutturate.jpeg)
 
