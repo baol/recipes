@@ -1,8 +1,11 @@
----
+______________________________________________________________________
+
 tags:
-  - NonnaPaola
-comments: "true"
----
+
+- NonnaPaola
+  comments: "true"
+
+______________________________________________________________________
 
 ## 🧾 Ingredienti
 
@@ -24,9 +27,9 @@ comments: "true"
 ## 👩‍🍳 Preparazione
 
 1. Mettere il latte in un pentolino
-2. Setacciare la farina nel pentolino a poco a poco
-3. Aggiungere gli altri ingredienti
-4. Portare a bollore a fuoco basso mescolando sempre
+1. Setacciare la farina nel pentolino a poco a poco
+1. Aggiungere gli altri ingredienti
+1. Portare a bollore a fuoco basso mescolando sempre
 
 Dopo 3/4 minuti dal bollore la crema è pronta. Rimuovere la buccia di limone e la bacca di vaniglia.
 
