@@ -1912,21 +1912,11 @@
 
   <h1>Hummus</h1>
 
-<hr />
-<p>tags:</p>
-<ul>
-<li>Creme</li>
-<li>Antipasti</li>
-<li>Ceci</li>
-<li>Basi
-  comments: "true"</li>
-</ul>
-<hr />
 <p><img alt="" src="../../images/placeholder.jpeg" /></p>
 <h2 id="ingredienti">🧾 Ingredienti<a class="headerlink" href="#ingredienti" title="Permanent link">&para;</a></h2>
 <p><strong>Ingredienti</strong></p>
 <ul>
-<li>300 g [Ceci cotti](../Basi/Ceci cotti.md) (o in barattolo)</li>
+<li>300 g <a href="../../Basi/Ceci cotti/">Ceci cotti</a> (o in barattolo)</li>
 <li>2 cucchiai Tahina</li>
 <li>1 Limone (succo)</li>
 <li>1 spicchio Aglio</li>
@@ -1944,12 +1934,47 @@
 <p>Se sembra troppo denso aggiungere un po’ di acqua faba (acqua dei ceci).</p>
 
 
+  <nav class="md-tags" >
+    
+      
+      
+      
+      
+        <span class="md-tag">Creme</span>
+      
+    
+      
+      
+      
+      
+        <span class="md-tag">Antipasti</span>
+      
+    
+      
+      
+      
+      
+        <span class="md-tag">Ceci</span>
+      
+    
+      
+      
+      
+      
+        <span class="md-tag">Basi</span>
+      
+    
+  </nav>
 
 
 
 
 
 
+
+
+  
+  
 
 
 
@@ -2007,6 +2032,50 @@
     </fieldset>
   </form>
 
+
+<h2 id="__comments">Commenti</h2>
+
+<script src="https://giscus.app/client.js" data-repo="baol/recipes" data-repo-id="R_kgDOQBZKoQ" data-category="General"
+    data-category-id="DIC_kwDOQBZKoc4Cwyh9" data-mapping="pathname" data-strict="0" data-reactions-enabled="1"
+    data-emit-metadata="0" data-input-position="bottom" data-theme="dark_dimmed" data-lang="en" data-loading="lazy"
+    crossorigin="anonymous" async>
+    </script>
+
+<!-- Synchronize Giscus theme with palette -->
+<script>
+    var giscus = document.querySelector("script[src*=giscus]")
+
+    // Set palette on initial load
+    var palette = __md_get("__palette")
+    if (palette && typeof palette.color === "object") {
+        var theme = palette.color.scheme === "slate"
+            ? "transparent_dark"
+            : "light"
+
+        // Instruct Giscus to set theme
+        giscus.setAttribute("data-theme", theme)
+    }
+
+    // Register event handlers after documented loaded
+    document.addEventListener("DOMContentLoaded", function () {
+        var ref = document.querySelector("[data-md-component=palette]")
+        ref.addEventListener("change", function () {
+            var palette = __md_get("__palette")
+            if (palette && typeof palette.color === "object") {
+                var theme = palette.color.scheme === "slate"
+                    ? "transparent_dark"
+                    : "light"
+
+                // Instruct Giscus to change theme
+                var frame = document.querySelector(".giscus-frame")
+                frame.contentWindow.postMessage(
+                    { giscus: { setConfig: { theme } } },
+                    "https://giscus.app"
+                )
+            }
+        })
+    })
+</script>
 
                 
 <button

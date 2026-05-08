@@ -1910,15 +1910,6 @@
 
   <h1>Seppie in Zimino</h1>
 
-<hr />
-<p>tags:</p>
-<ul>
-<li>Secondi</li>
-<li>Pesce</li>
-<li>Spinaci
-  comments: "true"</li>
-</ul>
-<hr />
 <p><img alt="" src="../../images/seppie-in-zimino-destrutturate.jpeg" /></p>
 <h2 id="ingredienti">🧾 Ingredienti<a class="headerlink" href="#ingredienti" title="Permanent link">&para;</a></h2>
 <p><strong>Soffritto</strong></p>
@@ -1951,12 +1942,40 @@
 <p>Servire con due belle fette di pane (di segale se lo avete) ben tostate</p>
 
 
+  <nav class="md-tags" >
+    
+      
+      
+      
+      
+        <span class="md-tag">Secondi</span>
+      
+    
+      
+      
+      
+      
+        <span class="md-tag">Pesce</span>
+      
+    
+      
+      
+      
+      
+        <span class="md-tag">Spinaci</span>
+      
+    
+  </nav>
 
 
 
 
 
 
+
+
+  
+  
 
 
 
@@ -2014,6 +2033,50 @@
     </fieldset>
   </form>
 
+
+<h2 id="__comments">Commenti</h2>
+
+<script src="https://giscus.app/client.js" data-repo="baol/recipes" data-repo-id="R_kgDOQBZKoQ" data-category="General"
+    data-category-id="DIC_kwDOQBZKoc4Cwyh9" data-mapping="pathname" data-strict="0" data-reactions-enabled="1"
+    data-emit-metadata="0" data-input-position="bottom" data-theme="dark_dimmed" data-lang="en" data-loading="lazy"
+    crossorigin="anonymous" async>
+    </script>
+
+<!-- Synchronize Giscus theme with palette -->
+<script>
+    var giscus = document.querySelector("script[src*=giscus]")
+
+    // Set palette on initial load
+    var palette = __md_get("__palette")
+    if (palette && typeof palette.color === "object") {
+        var theme = palette.color.scheme === "slate"
+            ? "transparent_dark"
+            : "light"
+
+        // Instruct Giscus to set theme
+        giscus.setAttribute("data-theme", theme)
+    }
+
+    // Register event handlers after documented loaded
+    document.addEventListener("DOMContentLoaded", function () {
+        var ref = document.querySelector("[data-md-component=palette]")
+        ref.addEventListener("change", function () {
+            var palette = __md_get("__palette")
+            if (palette && typeof palette.color === "object") {
+                var theme = palette.color.scheme === "slate"
+                    ? "transparent_dark"
+                    : "light"
+
+                // Instruct Giscus to change theme
+                var frame = document.querySelector(".giscus-frame")
+                frame.contentWindow.postMessage(
+                    { giscus: { setConfig: { theme } } },
+                    "https://giscus.app"
+                )
+            }
+        })
+    })
+</script>
 
                 
 <button
