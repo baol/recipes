@@ -1,12 +1,9 @@
-______________________________________________________________________
-
+---
 tags:
-
-- Basi
-- Ceci
-  comments: "true"
-
-______________________________________________________________________
+  - Basi
+  - Ceci
+comments: "true"
+---
 
 ![](../images/ceci-cotti.jpeg)
 
@@ -24,5 +21,4 @@ ______________________________________________________________________
 - 250 g di ceci secchi diventeranno circa 750 g di ceci cotti!
 
 - Una volta cotti si possono conservare in barattolo o in busta ziplock in frigo o in freezer. Conservare l'acqua di cottura (acqua faba).
-
 - L'acqua faba può sostituire le uova in alcune ricette, anche per la maionese.

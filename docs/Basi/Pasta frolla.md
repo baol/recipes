@@ -1,13 +1,10 @@
-______________________________________________________________________
-
+---
 tags:
-
-- Daniela
-- Basi
-- Frolla
-  comments: "true"
-
-______________________________________________________________________
+  - Daniela
+  - Basi
+  - Frolla
+comments: "true"
+---
 
 ![Pasta frolla](../images/pasta-frolla-preparazione.jpeg)
 
@@ -26,8 +23,8 @@ ______________________________________________________________________
 ## 👩‍🍳 Preparazione
 
 1. Montare il burro con lo zucchero
-1. Aggiungere le uova un po' alla volta e incorporare bene
-1. Aggiungere la farina mescolata al sale, lievito e aromi tutta in una volta
+2. Aggiungere le uova un po' alla volta e incorporare bene
+3. Aggiungere la farina mescolata al sale, lievito e aromi tutta in una volta
 
 Formare una palla e mettere il frigo per 40', quindi stendere con un matterello (1/2 cm)
 

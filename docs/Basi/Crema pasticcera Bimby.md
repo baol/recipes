@@ -1,14 +1,11 @@
-______________________________________________________________________
-
+---
 tags:
-
-- Dolci
-- Creme
-- Bimby
-- Basi
-  comments: "true"
-
-______________________________________________________________________
+  - Dolci
+  - Creme
+  - Bimby
+  - Basi
+comments: "true"
+---
 
 ![Placeholder](../images/bimby.jpeg)
 

@@ -1,13 +1,10 @@
-______________________________________________________________________
-
+---
 tags:
-
-- NonnaPaola
-- Primi
-- Basi
-  comments: "true"
-
-______________________________________________________________________
+  - NonnaPaola
+  - Primi
+  - Basi
+comments: "true"
+---
 
 ![](../images/brodo-di-carne.jpeg)
 
