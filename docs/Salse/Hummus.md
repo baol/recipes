@@ -1,14 +1,11 @@
-______________________________________________________________________
-
+---
 tags:
-
-- Creme
-- Antipasti
-- Ceci
-- Basi
-  comments: "true"
-
-______________________________________________________________________
+  - Creme
+  - Antipasti
+  - Ceci
+  - Basi
+comments: "true"
+---
 
 ![](../images/placeholder.jpeg)
 
@@ -16,7 +13,7 @@ ______________________________________________________________________
 
 **Ingredienti**
 
-- 300 g \[Ceci cotti\](../Basi/Ceci cotti.md) (o in barattolo)
+- 300 g [Ceci cotti](../Basi/Ceci cotti.md) (o in barattolo)
 - 2 cucchiai Tahina
 - 1 Limone (succo)
 - 1 spicchio Aglio
