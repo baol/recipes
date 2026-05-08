@@ -1,14 +1,11 @@
-______________________________________________________________________
-
+---
 tags:
-
-- Melanzane
-- Primi
-- Mirko
-- Pasta
-  comments: "true"
-
-______________________________________________________________________
+  - Melanzane
+  - Primi
+  - Mirko
+  - Pasta
+comments: "true"
+---
 
 ![](../images/ravioli-norma.jpeg)
 

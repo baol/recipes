@@ -1,12 +1,9 @@
-______________________________________________________________________
-
+---
 tags:
-
-- Primi
-- Carnacina
-  comments: "true"
-
-______________________________________________________________________
+  - Primi
+  - Carnacina
+comments: "true"
+---
 
 Per 2 persone.
 
@@ -28,10 +25,10 @@ Per 2 persone.
 ## 👩‍🍳 Preparazione
 
 1. Preparare in una terrina un impasto morbido con le uova, la farina, la mollica di pane grattugiata, il parmigiano, sale, pepe e noce moscata. Aggiungere il midollo di bue se desiderato.
-1. Mettere il brodo sul fuoco. Appena bolle, schiacciare l'impasto nel ferro per passatelli (o col tritatutto), facendo uscire attraverso i buchi tanti cilindretti simili a maccheroncelli.
-1. Staccarli con la punta di un coltellino e lasciarli cadere nel brodo.
-1. Abbassare la fiamma al minimo e continuare la cottura per 5 minuti.
-1. Servire con parmigiano grattugiato a parte.
+2. Mettere il brodo sul fuoco. Appena bolle, schiacciare l'impasto nel ferro per passatelli (o col tritatutto), facendo uscire attraverso i buchi tanti cilindretti simili a maccheroncelli.
+3. Staccarli con la punta di un coltellino e lasciarli cadere nel brodo.
+4. Abbassare la fiamma al minimo e continuare la cottura per 5 minuti.
+5. Servire con parmigiano grattugiato a parte.
 
 ## 💡 Consigli
 
