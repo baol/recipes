@@ -1,13 +1,10 @@
-______________________________________________________________________
-
+---
 tags:
-
-- Dolci
-- Torte
-- NonnaPaola
-  comments: "true"
-
-______________________________________________________________________
+  - Dolci
+  - Torte
+  - NonnaPaola
+comments: "true"
+---
 
 ![](../images/pan-di-spagna.jpeg)
 

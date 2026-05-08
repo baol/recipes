@@ -1,12 +1,9 @@
-______________________________________________________________________
-
+---
 tags:
-
-- Dolci
-- Colazione
-  comments: "true"
-
-______________________________________________________________________
+  - Dolci
+  - Colazione
+comments: "true"
+---
 
 ![](../images/muffin.jpeg)
 
@@ -31,12 +28,12 @@ ______________________________________________________________________
 ## 👩‍🍳 Preparazione
 
 1. Accendere il forno a 180°
-1. Mescolare gli ingredienti in polvere
-1. Mescolare i liquidi
-1. Aggiungere i liquidi alle polveri e mescolare appena
-1. Inserire nelle tegliette da muffin, fino a 3/4
-1. Spolverare di zucchero
-1. Informare 20' circa
+2. Mescolare gli ingredienti in polvere
+3. Mescolare i liquidi
+4. Aggiungere i liquidi alle polveri e mescolare appena
+5. Inserire nelle tegliette da muffin, fino a 3/4
+6. Spolverare di zucchero
+7. Informare 20' circa
 
 ## 💡 Consigli
 

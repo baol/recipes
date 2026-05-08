@@ -1,13 +1,10 @@
-______________________________________________________________________
-
+---
 tags:
-
-- Bimby
-- Creme
-- Dolci
-  comments: "true"
-
-______________________________________________________________________
+  - Bimby
+  - Creme
+  - Dolci
+comments: "true"
+---
 
 ![](../images/dulce-de-leche.jpeg)
 
@@ -22,7 +19,7 @@ La crema mou da spalmare sul pane o da versare su gelato, waffel o pancakes.
 ## 👩‍🍳 Preparazione
 
 1. Inserire tutti gli ingredienti nel barattolo del Bimby
-1. Varoma, 1h, Vel. 4
+2. Varoma, 1h, Vel. 4
 
 ## 💡 Consigli
 

@@ -1,13 +1,10 @@
-______________________________________________________________________
-
+---
 tags:
-
-- Mele
-- Dolci
-- Torte
-  comments: "true"
-
-______________________________________________________________________
+  - Mele
+  - Dolci
+  - Torte
+comments: "true"
+---
 
 ![](../images/torta-di-mele.jpeg)
 
@@ -27,11 +24,11 @@ La prima torta che Mirko abbia mai fatto
 ## 👩‍🍳 Preparazione
 
 1. Pre-riscaldare il forno a 180°
-1. Montare burro e zucchero
-1. Aggiungere i tuorli
-1. Aggiungere farina, lievito, latte
-1. Unire gli albumi a neve (mescolando dolcemente dal basso verso l'alto)
-1. Inserire in una teglia imburrata e infarinata
-1. Decorare con fettine di mela tagliate sottili (sedicesimi)
-1. Spolverare con lo zucchero
-1. Informare per circa 45' (provare con uno stecchino sulle labbra se l'impasto al centro e' ancora bagnato)
+2. Montare burro e zucchero
+3. Aggiungere i tuorli
+4. Aggiungere farina, lievito, latte
+5. Unire gli albumi a neve (mescolando dolcemente dal basso verso l'alto)
+6. Inserire in una teglia imburrata e infarinata
+7. Decorare con fettine di mela tagliate sottili (sedicesimi)
+8. Spolverare con lo zucchero
+9. Informare per circa 45' (provare con uno stecchino sulle labbra se l'impasto al centro e' ancora bagnato)

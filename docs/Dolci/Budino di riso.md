@@ -1,21 +1,18 @@
-______________________________________________________________________
-
+---
 tags:
-
-- Mirko
-- Toscana
-- Bimby
-- Frolla
-  comments: "true"
-
-______________________________________________________________________
+  - Mirko
+  - Toscana
+  - Bimby
+  - Frolla
+comments: "true"
+---
 
 ![Budino di riso](../images/budino-di-riso.jpeg)
 
 ## 🧾 Ingredienti
 
-- \[Pasta Frolla\](../Basi/Pasta frolla)
-- \[Crema pasticcera\](../Basi/Crema pasticcera) o \[Crema pasticcera Bimby\](../Basi/Crema pasticcera Bimby) (dose ridotta)
+- [Pasta Frolla](../Basi/Pasta frolla)
+- [Crema pasticcera](../Basi/Crema pasticcera) o [Crema pasticcera Bimby](../Basi/Crema pasticcera Bimby) (dose ridotta)
 
 **Riso al latte**
 
@@ -30,7 +27,7 @@ ______________________________________________________________________
 
 ## 👩‍🍳 Preparazione
 
-**Preparare per prima la \[pasta frolla\](../Basi//Pasta frolla) e riporla in frigo**
+**Preparare per prima la [pasta frolla](../Basi//Pasta frolla) e riporla in frigo**
 
 **Preparazione del riso al latte**
 
@@ -38,7 +35,7 @@ ______________________________________________________________________
 - Lessare il riso nel latte per 20' mescolando spesso.
 - Mantecate con poco burro a fuoco spento e lasciate raffreddare
 
-**Preparate la \[crema pasticcera\](../Basi/Crema pasticcera Bimby) (dose ridotta)**
+**Preparate la [crema pasticcera](../Basi/Crema pasticcera Bimby) (dose ridotta)**
 
 **Preparare i budini di riso**
 
