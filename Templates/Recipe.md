@@ -1,11 +1,8 @@
-______________________________________________________________________
-
+---
 tags:
-
-- Mirko
-  comments: "true"
-
-______________________________________________________________________
+  - Mirko
+comments: "true"
+---
 
 ![](../images/placeholder.jpeg)
 
@@ -25,13 +22,13 @@ Any preamble can go here.
 - Feel free to split your ingredients up
 - and add notes underneath
 - You don't need any bold headings if you don't want
-- 15 of \[[Another recipe]\], pre-made
+- 15 of [[Another recipe]], pre-made
 
 ## 👩‍🍳 Preparazione
 
 1. Numbered lists
-1. Feel free to include any markdown you like in your steps
-1. You can also split these up in sections, with bold or level 3+ headings
+2. Feel free to include any markdown you like in your steps
+3. You can also split these up in sections, with bold or level 3+ headings
 
 ## 💡 Consigli
 
