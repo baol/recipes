@@ -15,7 +15,7 @@ Per 2 persone.
 - 2 uova
 - 2 cucchiai rasi di farina setacciata
 - 2 cucchiai di parmigiano grattugiato
-- 30 gr. di midollo di bue *(opzionale)*
+- 30 gr. di midollo di bue _(opzionale)_
 - Sale, pepe e noce moscata
 
 **Brodo**
