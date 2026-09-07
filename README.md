@@ -37,31 +37,9 @@ Obsidian vault and lets the site generator derive navigation from the files.
    `![](../images/my-recipe.jpeg)`.
 5. Preview the site and run the formatting check before opening a pull request.
 
-Recipe pages generally use these sections:
-
-```markdown
----
-tags:
-  - Dolci
-comments: "true"
----
-
-![](../images/my-recipe.jpeg)
-
-Una breve introduzione.
-
-## 🧾 Ingredienti
-
-- 100 g ingrediente
-
-## 👩‍🍳 Preparazione
-
-1. Primo passaggio.
-
-## 💡 Consigli
-
-Eventuali note e varianti.
-```
+The [recipe template](Templates/Recipe.md) is the single source of truth for
+recipe structure and contains examples of supported Markdown. Update it directly
+when the shared format changes instead of duplicating those conventions here.
 
 ### Markdown compatibility
 
