@@ -14,7 +14,7 @@ comments: "true"
 - 100 g Farina 0 (o mix con farina di farro o di grano saraceno per un sapore diverso, o Farina 00 per renderli più soffici)
 - 15 g Zucchero
 - 1 Uovo
-- 1 bicchiere Latte (200ml)
+- 1 bicchiere Latte (~120ml)
 - Olio
 - 1/2 Bustina di lievito per dolci
 - 1 pizzico Sale
@@ -31,10 +31,11 @@ comments: "true"
 ## 👩‍🍳 Preparazione
 
 1. Mescolare i solidi
-2. Aggiungere l'uovo e poi i liquidi al centro e mescolare bene
-3. Se possibile far riposare l'impasto un paio d'ore (o una notte in frigorifero)
-4. Cuocere in padella a 180°
+2. Aggiungere l'uovo, un cucchiaio di olio, e mescolare bene.
+3. Aggiungere il latte a poco a poco per non formare grumi e fino a raggiungere la consistenza desiderata (che deve essere piuttosto liquida, ma mantenere la forma quando versata nella padella calda)
+4. Se possibile far riposare l'impasto un paio d'ore (o una notte in frigorifero)
+5. Cuocere in padella a 180°
 
 ## 💡 Consigli
 
-Usare un mestolo (40-50ml) per dosare l'impasto in modo uniforme
+Usare un mestolo (40-50ml) per dosare l'impasto in modo uniforme, versarlo al centro, e lasciarlo distribuire da solo. Diventeranno perfettamente rotondi e tutti uguali!
