@@ -8,7 +8,7 @@ tags:
 comments: "true"
 ---
 
-Le quantità indicate preparano **1 porzione**.
+**1 porzione**.
 
 ## 🧾 Ingredienti
 
@@ -28,6 +28,6 @@ Le quantità indicate preparano **1 porzione**.
 
 ## 💡 Consigli
 
-La proporzione classica è **1:1:1**. Non shakerare: la miscelazione mantiene il drink limpido e consente di controllarne la diluizione.
+La proporzione classica è **1:1:1**. Non shakerare: la miscelazione mantiene il drink limpido.
 
-Per una variante più aromatica, battere delicatamente tra i palmi un piccolo rametto di rosmarino e usarlo come seconda guarnizione. Non immergerlo a lungo: deve profumare il primo sorso senza aggiungere note amare o resinose.
+Per una variante più aromatica, battere delicatamente tra i palmi una foglia di basilico o un piccolo rametto di rosmarino e usarlo come seconda guarnizione. Non immergerlo a lungo.

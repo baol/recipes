@@ -8,29 +8,24 @@ tags:
 comments: "true"
 ---
 
-Le quantità indicate preparano **1 porzione**.
+_2 porzioni_
 
 ## 🧾 Ingredienti
 
-- 80 ml Succo di pera limpido, oppure componente alla pera preparata come indicato sotto
-- 10 ml Succo di lime appena spremuto
-- 5 ml Sciroppo di zucchero 1:1 (opzionale)
-- 60 ml Soda o acqua frizzante, ben fredda
-- 1 rametto piccolo di rosmarino fresco, più 1 per guarnire
-- Ghiaccio a cubetti
-- 1 fettina sottile di pera e 1 spicchio di lime per guarnire
+- 2 pere Conference mature
+- 1 lime (- 10 ml Succo di lime appena spremuto)
+- 2 rametti di rosmarino fresco
+- 2 cucchiaini di sciroppo d’agave
+- 150–250 ml di acqua frizzante
+- ghiaccio
+- 2 fettina sottile di pera per guarnire
 
 ## 👩‍🍳 Preparazione
 
-1. Per ottenere la componente alla pera, frullare 100 g di pera matura sbucciata con 30 ml di acqua fredda e filtrare attraverso un colino fine, senza premere eccessivamente la polpa. Prelevarne 80 ml. In alternativa, usare succo di pera limpido non zuccherato.
-2. Battere una sola volta il rametto di rosmarino tra i palmi per liberarne il profumo e inserirlo in uno shaker. Non pestarlo.
-3. Aggiungere la componente alla pera, 10 ml di lime, l'eventuale sciroppo e ghiaccio. Shakerare delicatamente per 8–10 secondi.
-4. Filtrare in un bicchiere **highball** pieno di ghiaccio fresco, trattenendo il rosmarino.
-5. Completare con soda o acqua frizzante e mescolare una sola volta dal basso verso l'alto.
-6. Guarnire con la fettina di pera, lo spicchio di lime e un rametto di rosmarino fresco.
-
-## 💡 Consigli
-
-Partire da **10 ml di lime**: deve dare freschezza senza coprire la pera. Assaggiare prima di aggiungerne altro, procedendo 2–3 ml alla volta; se la pera è poco dolce, bilanciare con lo sciroppo invece di ridurre il lime.
-
-Il rosmarino diventa resinoso e amaro se pestato o lasciato a lungo nel drink. Una leggera battuta e un'infusione breve nello shaker sono sufficienti; usare un rametto nuovo soltanto come guarnizione.
+1. Taglia le pere a cubetti. Se sono ancora dure, frullale con 2–3 cucchiai d’acqua fino a ottenere una purea.
+2. Spremi il lime e aggiungilo alla purea di pera.
+3. Aggiungi lo sciroppo d’agave e qualche ago di rosmarino. Frulla brevemente.
+4. Passa il composto attraverso un colino, se vuoi un cocktail più limpido e raffinato.
+5. Riempi due bicchieri tumbler alto con ghiaccio e distribuisci il composto.
+6. Completa lentamente con acqua frizzante e mescola delicatamente.
+7. Guarnisci con un piccolo rametto di rosmarino e una fettina di pera o lime.
