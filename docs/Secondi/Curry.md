@@ -6,9 +6,9 @@ tags:
 comments: "true"
 ---
 
-![Curry](../images/placeholder.jpeg)
+![Curry](../images/curry.jpeg)
 
-Un curry cremoso di pollo da preparare nel Thermomix. Dosi per 4 persone.
+Un curry cremoso di pollo da preparare nel Bimby (Thermomix). Dosi per 4 persone.
 
 ## 🧾 Ingredienti
 
