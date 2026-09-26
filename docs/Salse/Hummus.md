@@ -15,8 +15,6 @@ tags:
 comments: "true"
 ---
 
-![](../images/placeholder.jpeg)
-
 ## 🧾 Ingredienti
 
 **Ingredienti**

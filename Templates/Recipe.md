@@ -5,8 +5,6 @@ author: "Nome autore"
 date_published: "YYYY-MM-DD"
 date_modified: "YYYY-MM-DD"
 schema_type: "Recipe"
-image: "images/placeholder.jpeg"
-image_alt: "Descrizione del piatto mostrato nella foto"
 category: "Categoria"
 cuisine: "Italiana"
 servings: 4
@@ -17,8 +15,6 @@ tags:
   - Mirko
 comments: "true"
 ---
-
-![Descrizione del piatto mostrato nella foto](../images/placeholder.jpeg)
 
 Breve introduzione alla ricetta: caratteristiche del piatto, occasione in cui
 servirlo ed eventuali particolarità della preparazione.

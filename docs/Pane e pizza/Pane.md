@@ -13,8 +13,6 @@ tags:
 comments: "true"
 ---
 
-![](../images/placeholder.jpeg)
-
 Any preamble can go here.
 
 ## 🧾 Ingredienti

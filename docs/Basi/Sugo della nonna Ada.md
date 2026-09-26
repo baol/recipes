@@ -14,8 +14,6 @@ tags:
 comments: "true"
 ---
 
-![](../images/placeholder.jpeg)
-
 Il sugo di carne che la nonna Ada preparava per le tagliatelle. Cuocere fino a che la carne non si sfalda.
 
 ## 🧾 Ingredienti
