@@ -8,7 +8,7 @@ schema_type: "Recipe"
 image: "images/pasta-sigaretta-salata.jpeg"
 image_alt: "Pasta sigaretta salata"
 category: "Basi"
-cuisine: "Italiana"
+cuisine: "Francese"
 tags:
   - Decorazioni
   - Basi

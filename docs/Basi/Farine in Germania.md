@@ -8,7 +8,6 @@ schema_type: "Article"
 image: "images/farine.jpeg"
 image_alt: "Farine in Germania"
 category: "Basi"
-cuisine: "Italiana"
 tags:
   - Basi
   - Pizza

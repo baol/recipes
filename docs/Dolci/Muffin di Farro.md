@@ -8,7 +8,7 @@ schema_type: "Recipe"
 image: "images/muffin.jpeg"
 image_alt: "Muffin di Farro"
 category: "Dolci"
-cuisine: "Italiana"
+cuisine: "Statunitense"
 tags:
   - Dolci
   - Colazione

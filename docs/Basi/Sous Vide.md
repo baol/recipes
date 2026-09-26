@@ -8,7 +8,6 @@ schema_type: "Article"
 image: "images/carote-sous-vide.jpeg"
 image_alt: "Sous Vide"
 category: "Basi"
-cuisine: "Italiana"
 tags:
   - SousVide
   - Basi
