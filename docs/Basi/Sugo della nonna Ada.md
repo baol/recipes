@@ -18,8 +18,6 @@ Il sugo di carne che la nonna Ada preparava per le tagliatelle. Cuocere fino a c
 
 ## 🧾 Ingredienti
 
-**Section 1**
-
 - 1 Carota
 - 1 Cipolla
 - 1 Costa di sedano
