@@ -1,4 +1,14 @@
 ---
+title: "Ravioli alla norma"
+description: "Come preparare Ravioli alla norma: ingredienti, dosi, procedimento e consigli per la riuscita della ricetta."
+author: "Mirko Maischberger"
+date_published: "2025-10-18"
+date_modified: "2026-09-26"
+schema_type: "Recipe"
+image: "images/ravioli-norma.jpeg"
+image_alt: "Ravioli alla norma"
+category: "Primi"
+cuisine: "Italiana"
 tags:
   - Melanzane
   - Primi
@@ -7,7 +17,7 @@ tags:
 comments: "true"
 ---
 
-![](../images/ravioli-norma.jpeg)
+![Ravioli alla norma](../images/ravioli-norma.jpeg)
 
 ## 🧾 Ingredienti
 

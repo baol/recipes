@@ -1,4 +1,12 @@
 ---
+title: "Sugo della nonna Ada"
+description: "Come preparare Sugo della nonna Ada: ingredienti, dosi, procedimento e consigli per la riuscita della ricetta."
+author: "Daniela e Mirko Maischberger"
+date_published: "2025-10-18"
+date_modified: "2026-09-26"
+schema_type: "Recipe"
+category: "Basi"
+cuisine: "Italiana"
 tags:
   - NonnaAda
   - Primi

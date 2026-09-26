@@ -1,4 +1,14 @@
 ---
+title: "Crème Brûlée Sous Vide"
+description: "La ricetta di Crème Brûlée Sous Vide: ingredienti, dosi, preparazione e consigli per realizzarlo in casa."
+author: "Daniela e Mirko Maischberger"
+date_published: "2025-10-18"
+date_modified: "2026-09-26"
+schema_type: "Recipe"
+image: "images/creme-brulee.jpeg"
+image_alt: "Crème Brûlée Sous Vide"
+category: "Dolci"
+cuisine: "Italiana"
 tags:
   - Dolci
   - Creme
@@ -7,7 +17,7 @@ tags:
 comments: "true"
 ---
 
-![](../images/creme-brulee.jpeg)
+![Crème Brûlée Sous Vide](../images/creme-brulee.jpeg)
 
 ## 🧾 Ingredienti
 

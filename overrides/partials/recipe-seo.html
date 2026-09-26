@@ -1,0 +1,34 @@
+{% if page and page.meta and page.meta.description %}
+<meta property="og:title" content="{{ page.meta.title }}" />
+<meta property="og:description" content="{{ page.meta.description }}" />
+<meta property="og:type" content="article" />
+{% if page.meta.image %}
+<meta
+  property="og:image"
+  content="{{ config.site_url }}{{ page.meta.image }}"
+/>
+<meta property="og:image:alt" content="{{ page.meta.image_alt }}" />
+{% endif %} {% endif %} {% if page and page.meta and page.meta.schema_type ==
+"Recipe" and page.meta.title and page.meta.image %}
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "name": {{ page.meta.title | tojson }},
+    "description": {{ page.meta.description | tojson }},
+    "image": {{ (config.site_url ~ page.meta.image) | tojson }},
+    "author": {
+      "@type": "Person",
+      "name": {{ page.meta.author | tojson }}
+    },
+    "datePublished": {{ page.meta.date_published | tojson }},
+    "dateModified": {{ page.meta.date_modified | tojson }},
+    "recipeCategory": {{ page.meta.category | tojson }},
+    "recipeCuisine": {{ page.meta.cuisine | tojson }}{% if page.meta.servings %},
+    "recipeYield": {{ (page.meta.servings ~ " porzioni") | tojson }}{% endif %}{% if page.meta.prep_time %},
+    "prepTime": {{ page.meta.prep_time | tojson }}{% endif %}{% if page.meta.cook_time %},
+    "cookTime": {{ page.meta.cook_time | tojson }}{% endif %}{% if page.meta.total_time %},
+    "totalTime": {{ page.meta.total_time | tojson }}{% endif %}
+  }
+</script>
+{% endif %}

@@ -1,4 +1,14 @@
 ---
+title: "Ravioli zucca e zenzero"
+description: "Come preparare Ravioli zucca e zenzero: ingredienti, dosi, procedimento e consigli per la riuscita della ricetta."
+author: "Mirko Maischberger"
+date_published: "2025-10-18"
+date_modified: "2026-09-26"
+schema_type: "Recipe"
+image: "images/ravioli-zucca-e-zenzero.jpeg"
+image_alt: "Ravioli zucca e zenzero"
+category: "Primi"
+cuisine: "Italiana"
 tags:
   - Zucca
   - Pasta
@@ -8,7 +18,7 @@ tags:
 comments: "true"
 ---
 
-![](../images/ravioli-zucca-e-zenzero.jpeg)
+![Ravioli zucca e zenzero](../images/ravioli-zucca-e-zenzero.jpeg)
 
 ## 🧾 Ingredienti
 

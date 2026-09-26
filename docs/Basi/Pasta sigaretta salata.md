@@ -1,11 +1,21 @@
 ---
+title: "Pasta sigaretta salata"
+description: "Come preparare Pasta sigaretta salata: ingredienti, dosi, procedimento e consigli per la riuscita della ricetta."
+author: "Daniela e Mirko Maischberger"
+date_published: "2025-11-19"
+date_modified: "2026-09-26"
+schema_type: "Recipe"
+image: "images/pasta-sigaretta-salata.jpeg"
+image_alt: "Pasta sigaretta salata"
+category: "Basi"
+cuisine: "Italiana"
 tags:
   - Decorazioni
   - Basi
 comments: "true"
 ---
 
-![](../images/pasta-sigaretta-salata.jpeg)
+![Pasta sigaretta salata](../images/pasta-sigaretta-salata.jpeg)
 
 ## 🧾 Ingredienti
 

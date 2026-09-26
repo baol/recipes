@@ -1,4 +1,12 @@
 ---
+title: "Purè di patate"
+description: "Come preparare Purè di patate: ingredienti, dosi, procedimento e consigli per la riuscita della ricetta."
+author: "Daniela e Mirko Maischberger"
+date_published: "2026-04-14"
+date_modified: "2026-09-26"
+schema_type: "Recipe"
+category: "Basi"
+cuisine: "Italiana"
 tags:
   - Basi
 comments: "true"

@@ -1,11 +1,21 @@
 ---
+title: "Savoiardi"
+description: "La ricetta di Savoiardi: ingredienti, dosi, preparazione e consigli per realizzarlo in casa."
+author: "Daniela e Mirko Maischberger"
+date_published: "2025-10-18"
+date_modified: "2026-09-26"
+schema_type: "Recipe"
+image: "images/savoiardi.jpeg"
+image_alt: "Savoiardi"
+category: "Dolci"
+cuisine: "Italiana"
 tags:
   - Biscotti
   - Dolci
 comments: "true"
 ---
 
-![](../images/savoiardi.jpeg)
+![Savoiardi](../images/savoiardi.jpeg)
 
 ## 🧾 Ingredienti
 

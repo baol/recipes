@@ -1,4 +1,14 @@
 ---
+title: "Torta di Mele"
+description: "La ricetta di Torta di Mele: ingredienti, dosi, preparazione e consigli per realizzarlo in casa."
+author: "Daniela e Mirko Maischberger"
+date_published: "2025-10-18"
+date_modified: "2026-09-26"
+schema_type: "Recipe"
+image: "images/torta-di-mele.jpeg"
+image_alt: "Torta di Mele"
+category: "Dolci"
+cuisine: "Italiana"
 tags:
   - Mele
   - Dolci
@@ -6,7 +16,7 @@ tags:
 comments: "true"
 ---
 
-![](../images/torta-di-mele.jpeg)
+![Torta di Mele](../images/torta-di-mele.jpeg)
 
 La prima torta che Mirko abbia mai fatto
 

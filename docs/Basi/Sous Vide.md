@@ -1,11 +1,21 @@
 ---
+title: "Sous Vide"
+description: "Guida a Sous Vide: informazioni pratiche, indicazioni e consigli da consultare in cucina."
+author: "Daniela e Mirko Maischberger"
+date_published: "2025-10-18"
+date_modified: "2026-09-26"
+schema_type: "Article"
+image: "images/carote-sous-vide.jpeg"
+image_alt: "Sous Vide"
+category: "Basi"
+cuisine: "Italiana"
 tags:
   - SousVide
   - Basi
 comments: "true"
 ---
 
-![](../images/carote-sous-vide.jpeg)
+![Sous Vide](../images/carote-sous-vide.jpeg)
 
 ## 👩‍🍳 Cooking times
 

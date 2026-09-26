@@ -1,4 +1,18 @@
 ---
+title: "Curry di pollo con il Bimby"
+description: "Un curry di pollo cremoso con latte di cocco, spezie e tamarindo, preparato nel Bimby in poco più di mezz'ora."
+author: "Mirko Maischberger"
+date_published: "2026-09-22"
+date_modified: "2026-09-26"
+schema_type: "Recipe"
+image: "images/curry.jpeg"
+image_alt: "Curry cremoso di pollo servito con riso basmati"
+category: "Secondo piatto"
+cuisine: "Indiana"
+servings: 4
+prep_time: "PT5M"
+cook_time: "PT26M"
+total_time: "PT31M"
 tags:
   - Secondi
   - Curry
@@ -6,9 +20,11 @@ tags:
 comments: "true"
 ---
 
-![Curry](../images/curry.jpeg)
+![Curry cremoso di pollo servito con riso basmati](../images/curry.jpeg)
 
 Un curry cremoso di pollo da preparare nel Bimby (Thermomix). Dosi per 4 persone.
+
+**Preparazione:** 5 minuti · **Cottura:** 26 minuti · **Tempo totale:** 31 minuti
 
 ## 🧾 Ingredienti
 

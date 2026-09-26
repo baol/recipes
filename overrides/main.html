@@ -1,8 +1,9 @@
 {% extends "base.html" %} {% block extrahead %} {{ super() }}
+{% include "partials/recipe-seo.html" %}
 <link rel="apple-touch-icon" href="{{ 'images/icon-512x512.png' | url }}" />
 <link rel="manifest" href="{{ 'manifest.json' | url }}" />
 <meta name="theme-color" content="#263238" />
-{% endblock %}` {% block content %} {{ super() }}
+{% endblock %} {% block content %} {{ super() }}
 <button
     id="installBtn"
     style="

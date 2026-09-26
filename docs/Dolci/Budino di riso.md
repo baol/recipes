@@ -1,4 +1,14 @@
 ---
+title: "Budino di riso"
+description: "La ricetta di Budino di riso: ingredienti, dosi, preparazione e consigli per realizzarlo in casa."
+author: "Mirko Maischberger"
+date_published: "2025-11-24"
+date_modified: "2026-09-26"
+schema_type: "Recipe"
+image: "images/budino-di-riso.jpeg"
+image_alt: "Budino di riso"
+category: "Dolci"
+cuisine: "Italiana"
 tags:
   - Mirko
   - Toscana

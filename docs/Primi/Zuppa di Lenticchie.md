@@ -1,4 +1,14 @@
 ---
+title: "Zuppa di Lenticchie"
+description: "Come preparare Zuppa di Lenticchie: ingredienti, dosi, procedimento e consigli per la riuscita della ricetta."
+author: "Mirko Maischberger"
+date_published: "2025-12-22"
+date_modified: "2026-09-26"
+schema_type: "Recipe"
+image: "images/zuppa-di-lenticchie.jpeg"
+image_alt: "Zuppa di lenticchie"
+category: "Primi"
+cuisine: "Italiana"
 tags:
   - Mirko
   - Legumi

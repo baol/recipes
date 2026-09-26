@@ -1,11 +1,21 @@
 ---
+title: "Muffin di Farro"
+description: "La ricetta di Muffin di Farro: ingredienti, dosi, preparazione e consigli per realizzarlo in casa."
+author: "Daniela e Mirko Maischberger"
+date_published: "2025-10-18"
+date_modified: "2026-09-26"
+schema_type: "Recipe"
+image: "images/muffin.jpeg"
+image_alt: "Muffin di Farro"
+category: "Dolci"
+cuisine: "Italiana"
 tags:
   - Dolci
   - Colazione
 comments: "true"
 ---
 
-![](../images/muffin.jpeg)
+![Muffin di Farro](../images/muffin.jpeg)
 
 ## 🧾 Ingredienti
 
