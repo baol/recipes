@@ -1,4 +1,12 @@
 ---
+title: "Crema pasticcera"
+description: "Come preparare Crema pasticcera: ingredienti, dosi, procedimento e consigli per la riuscita della ricetta."
+author: "Daniela e Mirko Maischberger"
+date_published: "2025-11-24"
+date_modified: "2026-09-26"
+schema_type: "Recipe"
+category: "Basi"
+cuisine: "Italiana"
 tags:
   - NonnaPaola
 comments: "true"

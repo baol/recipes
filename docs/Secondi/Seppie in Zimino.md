@@ -1,4 +1,14 @@
 ---
+title: "Seppie in Zimino"
+description: "Come preparare Seppie in Zimino: ingredienti, dosi, procedimento e consigli per la riuscita della ricetta."
+author: "Daniela e Mirko Maischberger"
+date_published: "2025-10-18"
+date_modified: "2026-09-26"
+schema_type: "Recipe"
+image: "images/seppie-in-zimino-destrutturate.jpeg"
+image_alt: "Seppie in Zimino"
+category: "Secondi"
+cuisine: "Italiana"
 tags:
   - Secondi
   - Pesce
@@ -6,7 +16,7 @@ tags:
 comments: "true"
 ---
 
-![](../images/seppie-in-zimino-destrutturate.jpeg)
+![Seppie in Zimino](../images/seppie-in-zimino-destrutturate.jpeg)
 
 ## 🧾 Ingredienti
 

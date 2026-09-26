@@ -1,11 +1,21 @@
 ---
+title: "Uova"
+description: "Guida a Uova: informazioni pratiche, indicazioni e consigli da consultare in cucina."
+author: "Daniela e Mirko Maischberger"
+date_published: "2025-10-18"
+date_modified: "2026-09-26"
+schema_type: "Article"
+image: "images/uovo-sodo.jpeg"
+image_alt: "Uova"
+category: "Basi"
+cuisine: "Italiana"
 tags:
   - Uova
   - Basi
 comments: "true"
 ---
 
-![](../images/uovo-sodo.jpeg)
+![Uova](../images/uovo-sodo.jpeg)
 
 ## 🧾 Ingredienti
 

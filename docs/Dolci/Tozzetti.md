@@ -1,10 +1,20 @@
 ---
+title: "Tozzetti"
+description: "La ricetta di Tozzetti: ingredienti, dosi, preparazione e consigli per realizzarlo in casa."
+author: "Mirko Maischberger"
+date_published: "2025-12-04"
+date_modified: "2026-09-26"
+schema_type: "Recipe"
+image: "images/tozzetti.jpeg"
+image_alt: "Tozzetti"
+category: "Dolci"
+cuisine: "Italiana"
 tags:
   - Mirko
 comments: "true"
 ---
 
-![](../images/tozzetti.jpeg)
+![Tozzetti](../images/tozzetti.jpeg)
 
 ## 🧾 Ingredienti
 

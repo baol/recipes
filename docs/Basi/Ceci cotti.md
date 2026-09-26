@@ -1,11 +1,21 @@
 ---
+title: "Ceci cotti"
+description: "Come preparare Ceci cotti: ingredienti, dosi, procedimento e consigli per la riuscita della ricetta."
+author: "Daniela e Mirko Maischberger"
+date_published: "2025-10-18"
+date_modified: "2026-09-26"
+schema_type: "Recipe"
+image: "images/ceci-cotti.jpeg"
+image_alt: "Ceci cotti"
+category: "Basi"
+cuisine: "Italiana"
 tags:
   - Basi
   - Ceci
 comments: "true"
 ---
 
-![](../images/ceci-cotti.jpeg)
+![Ceci cotti](../images/ceci-cotti.jpeg)
 
 ## 🧾 Ingredienti
 

@@ -1,4 +1,14 @@
 ---
+title: "Pizza"
+description: "Come preparare Pizza: ingredienti, dosi, procedimento e consigli per la riuscita della ricetta."
+author: "Daniela e Mirko Maischberger"
+date_published: "2025-10-18"
+date_modified: "2026-09-26"
+schema_type: "Recipe"
+image: "images/pizza-roccbox.jpeg"
+image_alt: "Pizza"
+category: "Pane e pizza"
+cuisine: "Italiana"
 tags:
   - Pizza
   - Stefano
@@ -6,7 +16,7 @@ tags:
 comments: "true"
 ---
 
-![](../images/pizza-roccbox.jpeg)
+![Pizza](../images/pizza-roccbox.jpeg)
 
 ## 🧾 Ingredienti
 

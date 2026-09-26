@@ -1,4 +1,14 @@
 ---
+title: "Peperoni ripieni al tonno"
+description: "Come preparare Peperoni ripieni al tonno: ingredienti, dosi, procedimento e consigli per la riuscita della ricetta."
+author: "Mirko Maischberger"
+date_published: "2025-10-18"
+date_modified: "2026-09-26"
+schema_type: "Recipe"
+image: "images/peperoni-ripieni-al-tonno.jpeg"
+image_alt: "Peperoni ripieni al tonno"
+category: "Secondi"
+cuisine: "Italiana"
 tags:
   - Peperoni
   - Antipasti
@@ -8,7 +18,7 @@ tags:
 comments: "true"
 ---
 
-![](../images/peperoni-ripieni-al-tonno.jpeg)
+![Peperoni ripieni al tonno](../images/peperoni-ripieni-al-tonno.jpeg)
 
 ## 🧾 Ingredienti
 

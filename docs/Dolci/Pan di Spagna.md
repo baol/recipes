@@ -1,4 +1,14 @@
 ---
+title: "Pan di Spagna"
+description: "La ricetta di Pan di Spagna: ingredienti, dosi, preparazione e consigli per realizzarlo in casa."
+author: "Daniela e Mirko Maischberger"
+date_published: "2025-10-18"
+date_modified: "2026-09-26"
+schema_type: "Recipe"
+image: "images/pan-di-spagna.jpeg"
+image_alt: "Pan di Spagna"
+category: "Dolci"
+cuisine: "Italiana"
 tags:
   - Dolci
   - Torte
@@ -6,7 +16,7 @@ tags:
 comments: "true"
 ---
 
-![](../images/pan-di-spagna.jpeg)
+![Pan di Spagna](../images/pan-di-spagna.jpeg)
 
 La ricetta originale di Nonna Paola
 

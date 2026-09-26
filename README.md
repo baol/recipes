@@ -41,6 +41,41 @@ The [recipe template](Templates/Recipe.md) is the single source of truth for
 recipe structure and contains examples of supported Markdown. Update it directly
 when the shared format changes instead of duplicating those conventions here.
 
+### Recipe metadata
+
+New recipes must provide the metadata included in the recipe template. These
+fields form the editorial source for page metadata and future structured recipe
+data:
+
+| Field            | Format                    | Purpose                                  |
+| ---------------- | ------------------------- | ---------------------------------------- |
+| `title`          | Text                      | Full recipe name                         |
+| `description`    | One or two sentences      | Unique summary of the recipe             |
+| `author`         | Text                      | Recipe author                            |
+| `date_published` | `YYYY-MM-DD`              | Original publication date                |
+| `date_modified`  | `YYYY-MM-DD`              | Date of the latest substantive update    |
+| `schema_type`    | `Recipe` or `Article`     | Structured-data type for the page        |
+| `image`          | Site-root-relative path   | Main recipe image                        |
+| `image_alt`      | Descriptive text          | Accessible description of the main image |
+| `category`       | Text                      | Course or recipe category                |
+| `cuisine`        | Text                      | Culinary tradition                       |
+| `servings`       | Positive whole number     | Number of servings                       |
+| `prep_time`      | ISO 8601 duration         | Active preparation time                  |
+| `cook_time`      | ISO 8601 duration         | Cooking time                             |
+| `total_time`     | ISO 8601 duration         | Overall preparation time                 |
+| `tags`           | YAML list                 | Site navigation and discovery terms      |
+| `comments`       | Quoted `"true"`/`"false"` | Whether comments are displayed           |
+
+Durations use the ISO 8601 notation: `PT20M` means 20 minutes, `PT1H` means one
+hour, and `PT1H30M` means one hour and 30 minutes. Keep `description` concise and
+specific, and describe what is visible in `image_alt` rather than repeating the
+recipe title. Metadata must match the information shown in the recipe body.
+Use paths such as `images/pasta-e-ceci.jpeg` for `image`; unlike the image link
+in the Markdown body, this path is relative to the root of the published site.
+Use `Article` for reference pages that are not recipes. Do not add an `image`,
+servings, or times when the corresponding information is unavailable: missing
+data is preferable to placeholder or estimated structured data.
+
 ### Markdown compatibility
 
 Use standard Markdown links with explicit relative paths. Obsidian can resolve

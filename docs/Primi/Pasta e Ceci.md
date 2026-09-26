@@ -1,4 +1,14 @@
 ---
+title: "Pasta e Ceci"
+description: "Come preparare Pasta e Ceci: ingredienti, dosi, procedimento e consigli per la riuscita della ricetta."
+author: "Mirko Maischberger"
+date_published: "2025-10-18"
+date_modified: "2026-09-26"
+schema_type: "Recipe"
+image: "images/pasta-e-ceci.jpeg"
+image_alt: "Pasta e Ceci"
+category: "Primi"
+cuisine: "Italiana"
 tags:
   - Mirko
   - Pasta
@@ -7,7 +17,7 @@ tags:
 comments: "true"
 ---
 
-![](../images/pasta-e-ceci.jpeg)
+![Pasta e Ceci](../images/pasta-e-ceci.jpeg)
 
 Nella foto presentati con tubetti freschi all'uovo (cfr. [pasta al torchio](../Basi/Pasta al torchio.md))
 

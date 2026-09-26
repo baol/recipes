@@ -1,4 +1,14 @@
 ---
+title: "Assassina"
+description: "Come preparare Assassina: ingredienti, dosi, procedimento e consigli per la riuscita della ricetta."
+author: "Daniela e Mirko Maischberger"
+date_published: "2025-10-18"
+date_modified: "2026-09-26"
+schema_type: "Recipe"
+image: "images/pasta-assassina.jpeg"
+image_alt: "Assassina"
+category: "Primi"
+cuisine: "Italiana"
 tags:
   - Primi
   - Pasta
@@ -6,7 +16,7 @@ tags:
 comments: "true"
 ---
 
-![](../images/pasta-assassina.jpeg)
+![Assassina](../images/pasta-assassina.jpeg)
 
 ## 🧾 Ingredienti
 

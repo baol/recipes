@@ -1,11 +1,21 @@
 ---
+title: "Paella di carne"
+description: "Come preparare Paella di carne: ingredienti, dosi, procedimento e consigli per la riuscita della ricetta."
+author: "Daniela e Mirko Maischberger"
+date_published: "2025-10-18"
+date_modified: "2026-09-26"
+schema_type: "Recipe"
+image: "images/paella-valenciana.jpeg"
+image_alt: "Paella di carne"
+category: "Primi"
+cuisine: "Spagnola"
 tags:
   - Allibhoy
   - Riso
 comments: "true"
 ---
 
-![](../images/paella-valenciana.jpeg)
+![Paella di carne](../images/paella-valenciana.jpeg)
 
 ## 🧾 Ingredienti
 

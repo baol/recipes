@@ -1,4 +1,14 @@
 ---
+title: "Dulce de leche (la mou) con il Bimby"
+description: "La ricetta di Dulce de leche (la mou) con il Bimby: ingredienti, dosi, preparazione e consigli per realizzarlo in casa."
+author: "Daniela e Mirko Maischberger"
+date_published: "2025-10-18"
+date_modified: "2026-09-26"
+schema_type: "Recipe"
+image: "images/dulce-de-leche.jpeg"
+image_alt: "Dulce de leche (la mou) con il Bimby"
+category: "Dolci"
+cuisine: "Italiana"
 tags:
   - Bimby
   - Creme
@@ -6,7 +16,7 @@ tags:
 comments: "true"
 ---
 
-![](../images/dulce-de-leche.jpeg)
+![Dulce de leche (la mou) con il Bimby](../images/dulce-de-leche.jpeg)
 
 La crema mou da spalmare sul pane o da versare su gelato, waffel o pancakes.
 

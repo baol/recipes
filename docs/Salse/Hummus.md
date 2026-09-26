@@ -1,4 +1,12 @@
 ---
+title: "Hummus"
+description: "Come preparare Hummus: ingredienti, dosi, procedimento e consigli per la riuscita della ricetta."
+author: "Daniela e Mirko Maischberger"
+date_published: "2025-10-18"
+date_modified: "2026-09-26"
+schema_type: "Recipe"
+category: "Salse"
+cuisine: "Italiana"
 tags:
   - Creme
   - Antipasti

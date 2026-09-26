@@ -1,4 +1,14 @@
 ---
+title: "Polpette di polpo"
+description: "Come preparare Polpette di polpo: ingredienti, dosi, procedimento e consigli per la riuscita della ricetta."
+author: "Daniela e Mirko Maischberger"
+date_published: "2025-11-24"
+date_modified: "2026-09-26"
+schema_type: "Recipe"
+image: "images/polpette-di-polpo.jpeg"
+image_alt: "Polpette di polpo"
+category: "Secondi"
+cuisine: "Italiana"
 tags:
   - Pesce
   - Polpo
@@ -6,7 +16,7 @@ tags:
 comments: "true"
 ---
 
-![](../images/polpette-di-polpo.jpeg)
+![Polpette di polpo](../images/polpette-di-polpo.jpeg)
 
 ## 🧾 Ingredienti
 

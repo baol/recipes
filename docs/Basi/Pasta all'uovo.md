@@ -1,4 +1,14 @@
 ---
+title: "Pasta all'uovo"
+description: "Come preparare Pasta all'uovo: ingredienti, dosi, procedimento e consigli per la riuscita della ricetta."
+author: "Daniela e Mirko Maischberger"
+date_published: "2025-10-18"
+date_modified: "2026-09-26"
+schema_type: "Recipe"
+image: "images/pasta-all-uovo.jpeg"
+image_alt: "Pasta all'uovo"
+category: "Basi"
+cuisine: "Italiana"
 tags:
   - Pasta
   - Uova
@@ -8,7 +18,7 @@ tags:
 comments: "true"
 ---
 
-![](../images/pasta-all-uovo.jpeg)
+![Pasta all'uovo](../images/pasta-all-uovo.jpeg)
 
 ## 🧾 Ingredienti
 

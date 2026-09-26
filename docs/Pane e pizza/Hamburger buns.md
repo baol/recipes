@@ -1,11 +1,21 @@
 ---
+title: "Hamburger buns"
+description: "Come preparare Hamburger buns: ingredienti, dosi, procedimento e consigli per la riuscita della ricetta."
+author: "Mirko Maischberger"
+date_published: "2026-02-21"
+date_modified: "2026-09-26"
+schema_type: "Recipe"
+image: "images/hamburger-bun.jpeg"
+image_alt: "Hamburger buns"
+category: "Pane e pizza"
+cuisine: "Italiana"
 tags:
   - Mirko
   - Allrecipes
 comments: "true"
 ---
 
-![](../images/hamburger-bun.jpeg)
+![Hamburger buns](../images/hamburger-bun.jpeg)
 
 Adattato da https://www.allrecipes.com/recipe/233652/homemade-hamburger-buns/
 

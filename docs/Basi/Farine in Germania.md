@@ -1,12 +1,21 @@
 ---
-comments: "true"
+title: "Farine in Germania"
+description: "Guida a Farine in Germania: informazioni pratiche, indicazioni e consigli da consultare in cucina."
+author: "Daniela e Mirko Maischberger"
+date_published: "2025-10-18"
+date_modified: "2026-09-26"
+schema_type: "Article"
+image: "images/farine.jpeg"
+image_alt: "Farine in Germania"
+category: "Basi"
+cuisine: "Italiana"
 tags:
   - Basi
   - Pizza
   - Dolci
 ---
 
-![](../images/farine.jpeg)
+![Farine in Germania](../images/farine.jpeg)
 Tabella conversione Italia Germania
 
 | Farina italiana                           | Farina tedesca                  |

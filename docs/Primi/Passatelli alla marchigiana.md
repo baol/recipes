@@ -1,4 +1,12 @@
 ---
+title: "Passatelli alla marchigiana"
+description: "Come preparare Passatelli alla marchigiana: ingredienti, dosi, procedimento e consigli per la riuscita della ricetta."
+author: "Daniela e Mirko Maischberger"
+date_published: "2026-04-16"
+date_modified: "2026-09-26"
+schema_type: "Recipe"
+category: "Primi"
+cuisine: "Italiana"
 tags:
   - Primi
   - Carnacina

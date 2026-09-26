@@ -1,4 +1,14 @@
 ---
+title: "Pancakes Classici"
+description: "La ricetta di Pancakes Classici: ingredienti, dosi, preparazione e consigli per realizzarlo in casa."
+author: "Daniela e Mirko Maischberger"
+date_published: "2025-10-18"
+date_modified: "2026-09-26"
+schema_type: "Recipe"
+image: "images/pancakes.jpeg"
+image_alt: "Pancakes Classici"
+category: "Dolci"
+cuisine: "Italiana"
 tags:
   - Colazione
   - Dolci
@@ -6,7 +16,7 @@ tags:
 comments: "true"
 ---
 
-![](../images/pancakes.jpeg)
+![Pancakes Classici](../images/pancakes.jpeg)
 
 ## 🧾 Ingredienti
 
