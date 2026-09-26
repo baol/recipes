@@ -6,6 +6,7 @@ readme = "README.md"
 requires-python = "==3.11.15"
 dependencies = [
     "zensical==0.0.64",
+    "Pillow>=11,<13",
 ]
 
 [build-system]
@@ -13,4 +14,4 @@ requires = ["setuptools", "setuptools-scm[simple]>=8", "wheel"]
 build-backend = "setuptools.build_meta"
 
 [tool.setuptools]
-packages = []
+packages = ["recipe_seo"]

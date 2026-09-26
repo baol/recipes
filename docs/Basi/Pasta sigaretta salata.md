@@ -30,4 +30,4 @@ comments: "true"
 2. Lavorare sullo stampo in silicone con una spatola.
 3. Infornare a 160º ventilato per pochi minuti (~6)
 
-![](../images/pasta-sigaretta-salata-stampo.jpeg)
+![Stampo per la pasta sigaretta salata](../images/pasta-sigaretta-salata-stampo.jpeg)

@@ -39,12 +39,12 @@ comments: "true"
 1. Lavere e pulire i peperoni.
 2. Sbollentare i peperoni per 2-5 minuti.
 
-![](../images/peperoni-sbollentati.jpeg)
+![Peperoni sbollentati prima della farcitura](../images/peperoni-sbollentati.jpeg)
 
 3. Tritare e mescolare gli altri ingredienti per il ripieno
 
-![](../images/peperoni-al-tonno-ripieno.jpeg)
+![Ripieno al tonno per i peperoni](../images/peperoni-al-tonno-ripieno.jpeg)
 
 4. Infornare 20' a 180°C
 
-![](../images/peperoni-al-tonno-in-teglia.jpeg)
+![Peperoni ripieni al tonno disposti in teglia](../images/peperoni-al-tonno-in-teglia.jpeg)

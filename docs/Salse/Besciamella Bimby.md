@@ -14,7 +14,7 @@ tags:
 comments: "true"
 ---
 
-![](../images/bimby.jpeg)
+![Bimby per la preparazione della ricetta](../images/bimby.jpeg)
 
 ## 🧾 Ingredienti
 
