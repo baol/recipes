@@ -1,6 +1,6 @@
 ---
 title: "Pane"
-description: "Come preparare Pane: ingredienti, dosi, procedimento e consigli per la riuscita della ricetta."
+description: "Pane con lievito madre e semi di sesamo, preparato con pieghe successive e cotto con vapore o in una pentola Dutch oven."
 author: "Mirko Maischberger"
 date_published: "2026-05-25"
 date_modified: "2026-09-26"
@@ -36,5 +36,5 @@ comments: "true"
 8. controllare dopo un'ora e mezza, due con il dito se la lievitazione e' a un buon punto (ci vorranno un po' di prove prima di capire il metodo)
 9. inumidire la parte superiore e cospargere di semi di sesamo
 10. fare un taglio (tutto attorno a 3/4 dal basso)
-11. informare per 20' a 230 gradi con il vapore o nel Dutch oven gia' caldo
+11. infornare per 20' a 230 gradi con il vapore o nel Dutch oven gia' caldo
 12. abbassare la temperatura a 200 gradi (togliere il coperchio se si e' usato il Dutch oven) e continuare a cuocere per altri 20'
