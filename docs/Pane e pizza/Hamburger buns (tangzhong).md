@@ -6,7 +6,7 @@ date_published: "2026-05-25"
 date_modified: "2026-09-26"
 schema_type: "Recipe"
 category: "Pane e pizza"
-cuisine: "Italiana"
+cuisine: "Statunitense"
 tags:
   - Pane
 comments: "true"

@@ -6,7 +6,6 @@ date_published: "2026-09-11"
 date_modified: "2026-09-26"
 schema_type: "Recipe"
 category: "Cocktails & Mocktails"
-cuisine: "Italiana"
 tags:
   - Mocktail
   - Analcolico

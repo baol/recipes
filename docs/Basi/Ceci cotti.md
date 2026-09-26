@@ -8,7 +8,6 @@ schema_type: "Recipe"
 image: "images/ceci-cotti.jpeg"
 image_alt: "Ceci cotti"
 category: "Basi"
-cuisine: "Italiana"
 tags:
   - Basi
   - Ceci

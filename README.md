@@ -58,7 +58,7 @@ data:
 | `image`          | Site-root-relative path   | Main recipe image                        |
 | `image_alt`      | Descriptive text          | Accessible description of the main image |
 | `category`       | Text                      | Course or recipe category                |
-| `cuisine`        | Text                      | Culinary tradition                       |
+| `cuisine`        | Text                      | Culinary tradition, when attributable    |
 | `servings`       | Positive whole number     | Number of servings                       |
 | `prep_time`      | ISO 8601 duration         | Active preparation time                  |
 | `cook_time`      | ISO 8601 duration         | Cooking time                             |
@@ -73,8 +73,9 @@ recipe title. Metadata must match the information shown in the recipe body.
 Use paths such as `images/pasta-e-ceci.jpeg` for `image`; unlike the image link
 in the Markdown body, this path is relative to the root of the published site.
 Use `Article` for reference pages that are not recipes. Do not add an `image`,
-servings, or times when the corresponding information is unavailable: missing
-data is preferable to placeholder or estimated structured data.
+`cuisine`, servings, or times when the corresponding information is unavailable:
+missing data is preferable to placeholder, generic, or estimated structured
+data.
 
 ### Markdown compatibility
 

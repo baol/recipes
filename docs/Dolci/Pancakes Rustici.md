@@ -8,7 +8,7 @@ schema_type: "Recipe"
 image: "images/pancakes.jpeg"
 image_alt: "Pancakes Rustici"
 category: "Dolci"
-cuisine: "Italiana"
+cuisine: "Statunitense"
 tags:
   - Colazione
   - Dolci

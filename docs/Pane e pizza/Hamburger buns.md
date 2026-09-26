@@ -8,7 +8,7 @@ schema_type: "Recipe"
 image: "images/hamburger-bun.jpeg"
 image_alt: "Hamburger buns"
 category: "Pane e pizza"
-cuisine: "Italiana"
+cuisine: "Statunitense"
 tags:
   - Mirko
   - Allrecipes

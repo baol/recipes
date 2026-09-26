@@ -8,7 +8,6 @@ schema_type: "Recipe"
 image: "images/cipolla-sottaceto.jpeg"
 image_alt: "Cipolle"
 category: "Basi"
-cuisine: "Italiana"
 tags:
   - Sottaceti
   - Cipolle

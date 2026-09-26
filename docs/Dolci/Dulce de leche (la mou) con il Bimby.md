@@ -8,7 +8,7 @@ schema_type: "Recipe"
 image: "images/dulce-de-leche.jpeg"
 image_alt: "Dulce de leche (la mou) con il Bimby"
 category: "Dolci"
-cuisine: "Italiana"
+cuisine: "Latinoamericana"
 tags:
   - Bimby
   - Creme

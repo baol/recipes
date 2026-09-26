@@ -6,7 +6,7 @@ date_published: "2026-04-14"
 date_modified: "2026-09-26"
 schema_type: "Recipe"
 category: "Basi"
-cuisine: "Italiana"
+cuisine: "Francese"
 tags:
   - Basi
 comments: "true"

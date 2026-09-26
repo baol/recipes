@@ -8,7 +8,6 @@ schema_type: "Article"
 image: "images/uovo-sodo.jpeg"
 image_alt: "Uova"
 category: "Basi"
-cuisine: "Italiana"
 tags:
   - Uova
   - Basi

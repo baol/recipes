@@ -8,7 +8,7 @@ schema_type: "Recipe"
 image: "images/creme-brulee.jpeg"
 image_alt: "Crème Brûlée Sous Vide"
 category: "Dolci"
-cuisine: "Italiana"
+cuisine: "Francese"
 tags:
   - Dolci
   - Creme
