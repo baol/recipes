@@ -5,6 +5,8 @@ author: "Mirko Maischberger"
 date_published: "2026-05-25"
 date_modified: "2026-09-26"
 schema_type: "Recipe"
+image: "images/pane.jpeg"
+image_alt: "Pane fatto in casa tagliato a metà, con crosta dorata e mollica in vista"
 category: "Pane e pizza"
 cuisine: "Italiana"
 tags:
@@ -13,7 +15,7 @@ tags:
 comments: "true"
 ---
 
-Any preamble can go here.
+![Pane fatto in casa tagliato a metà, con crosta dorata e mollica in vista](../images/pane.jpeg)
 
 ## 🧾 Ingredienti
 
