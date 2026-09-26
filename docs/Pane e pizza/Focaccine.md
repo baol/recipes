@@ -13,8 +13,6 @@ tags:
 comments: "true"
 ---
 
-![](../images/placeholder.jpeg)
-
 Soffici focaccine grigliate perfette da servire con pollo, agnello o verdure alla brace. Ottime anche con hummus o burro al peperoncino e aglio.
 
 ## 🧾 Ingredienti

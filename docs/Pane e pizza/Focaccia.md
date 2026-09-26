@@ -12,8 +12,6 @@ tags:
 comments: "true"
 ---
 
-![](../images/placeholder.jpeg)
-
 Per una leccarda da forno standard.
 
 ## 🧾 Ingredienti
