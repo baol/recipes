@@ -14,8 +14,7 @@ prep_time: "PT20M"
 cook_time: "PT40M"
 total_time: "PT1H"
 tags:
-  - Autore
-  - Categoria
+  - Mirko
 comments: "true"
 ---
 
