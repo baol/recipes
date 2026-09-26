@@ -15,7 +15,7 @@ tags:
 comments: "true"
 ---
 
-![Placeholder](../images/bimby.jpeg)
+![Bimby per la preparazione della crema pasticcera](../images/bimby.jpeg)
 
 ## 🧾 Ingredienti
 

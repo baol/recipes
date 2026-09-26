@@ -22,8 +22,6 @@ Il brodo di carne delle feste!
 
 ## 🧾 Ingredienti
 
-**Section 1**
-
 - 500 g Gallina (1/2 Gallina)
 - 500 g Muscolo di manzo
 - 1 costa Sedano
