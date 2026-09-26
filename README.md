@@ -143,3 +143,36 @@ Recommended order of work:
 
 These steps preserve the current Obsidian-friendly workflow while making the
 published result more predictable and easier to maintain.
+
+## Recipe metadata and images
+
+The `recipe_seo` Markdown extension runs inside normal `zensical build` and
+`zensical serve` rendering. It supplies ingredient lists and preparation steps
+to the JSON-LD template directly from the recipe body, including prose steps.
+Serving-count bullets become yield metadata, not ingredients. Times are taken
+only from front matter. Keep the `Ingredienti` and `Preparazione` level-two
+headings; missing sections on recipes with images fail rendering.
+
+The extension reads local image dimensions and keeps the first image eager while
+lazy-loading subsequent photos. No generated HTML files are rewritten, and no
+additional build command is needed. Run tests with:
+
+```bash
+uv run python -m unittest discover -s tests
+```
+
+### Hosting follow-up
+
+These settings live outside the repository and are not changed by a deployment:
+
+1. In [repository Pages settings](https://github.com/baol/recipes/settings/pages),
+   enable **Enforce HTTPS**. The audit found it disabled.
+2. At the DNS provider, configure `www` as a CNAME to `baol.github.io`, keeping
+   `maischberger.it` as the Pages custom domain. Verify that GitHub provisions a
+   certificate covering `www.maischberger.it` and redirects it to the apex domain.
+3. After deployment, verify both HTTP and HTTPS hostname redirects, run Google's
+   Rich Results Test on a recipe, and submit `https://maischberger.it/sitemap.xml`
+   in Search Console.
+
+See GitHub's [HTTPS guidance](https://docs.github.com/en/pages/getting-started-with-github-pages/securing-your-github-pages-site-with-https)
+and [custom-domain guidance](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/about-custom-domains-and-github-pages).

@@ -53,11 +53,11 @@ comments: "true"
 
 - Riempire i ravioli con l'impasto
 
-![](../images/ravioli-zucca-zenzero-chiusura.jpeg)
+![Chiusura dei ravioli di zucca e zenzero](../images/ravioli-zucca-zenzero-chiusura.jpeg)
 
 - Chiudere i ravioli con le mani e ritagliarli
 
-![](../images/ravioli-zucca-e-zenzero-chiusi.jpeg)
+![Ravioli di zucca e zenzero dopo la chiusura](../images/ravioli-zucca-e-zenzero-chiusi.jpeg)
 
 - Cuocere e condire con sugo a piacere!
 

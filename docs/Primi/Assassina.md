@@ -41,7 +41,7 @@ comments: "true"
 - Preparate il brodo di pomodoro con sale, concentrato, acqua e passata in un pentolino e far bollire qualche minuto, tenere caldo.
 - Soffriggere l'agio a pezzi grossi, il concentrato di pomodoro e il peperoncino in una pentola abbastanza grande da ospitare gli spaghetti per lungo e possibilmente anti-aderente.
 
-![](../images/pasta-assassina-padella.jpeg)
+![Pasta all’assassina in padella](../images/pasta-assassina-padella.jpeg)
 
 - Far tostare un po' gli spaghetti nel soffritto.
 - Aggiungere il brodo di pomodoro sui bordi un mestolo alla volta, e aspettare che gli spaghetti si attacchino un po'. Tra un mestolo e l'altro voltare gli spaghetti.

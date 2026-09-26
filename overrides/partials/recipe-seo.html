@@ -1,7 +1,7 @@
 {% if page and page.meta and page.meta.description %}
 <meta property="og:title" content="{{ page.meta.title }}" />
 <meta property="og:description" content="{{ page.meta.description }}" />
-<meta property="og:type" content="article" />
+<meta property="og:type" content="{{ page.meta.og_type | default('article') }}" />
 {% if page.meta.image %}
 <meta
   property="og:image"
@@ -15,6 +15,8 @@
     "@context": "https://schema.org",
     "@type": "Recipe",
     "name": {{ page.meta.title | tojson }},
+    "recipeIngredient": {{ page.meta.recipe_ingredients | tojson }},
+    "recipeInstructions": {{ page.meta.recipe_instructions | tojson }},
     "description": {{ page.meta.description | tojson }},
     "image": {{ (config.site_url ~ page.meta.image) | tojson }},
     "author": {
