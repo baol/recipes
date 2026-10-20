@@ -37,7 +37,7 @@ Un curry cremoso di pollo da preparare nel Bimby (Thermomix). Dosi per 4 persone
 - 1 cucchiaino di pasta di tamarindo, oppure 1 cucchiaio per un gusto più acidulo
 - 2 cucchiai di concentrato di pomodoro
 - 200 ml di latte di cocco, oppure acqua e panna
-- 500 g di pollo
+- 500 g di coscia e sovracoscia di pollo disossate
 - Sale q.b.
 
 ## 👩‍🍳 Preparazione
@@ -48,6 +48,8 @@ Un curry cremoso di pollo da preparare nel Bimby (Thermomix). Dosi per 4 persone
 4. Aggiungi la pasta di tamarindo, il concentrato di pomodoro per migliorare il colore, il pollo, il latte di cocco e il sale. Cuoci: **20 min / 100 °C / antiorario / vel cucchiaio**.
 
 ## 💡 Consigli
+
+Per un risultato migliore, preferisci coscia e sovracoscia disossate al petto di pollo.
 
 Servi il curry con riso basmati, coriandolo fresco e, a piacere, yogurt naturale.
 
