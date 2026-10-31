@@ -43,3 +43,7 @@ Il crostino nero toscano di Manu.
 ## 💡 Consigli
 
 Volendo, bagnare velocemente il pane nel brodo caldo prima di spalmare.
+
+Il composto deve restare morbido: se si asciuga aggiungere un cucchiaio di brodo.
+
+Una spruzzata di limone alla fine sgrassa e rinfresca (come nella ricetta 113 dell'Artusi, che usa anche funghi secchi e lega con un pizzico di pangrattato).
