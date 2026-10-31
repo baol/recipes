@@ -28,16 +28,16 @@ Il crostino nero toscano di Manu.
 - 2 Acciughe
 - Salvia
 - Olio
-- Brodo, vino o acqua
+- 1/2 bicchiere (100 ml) di brodo, vino o acqua
 - Capperi (facoltativi)
 - Pane toscano tostato
 
 ## 👩‍🍳 Preparazione
 
 1. Soffriggere in olio le acciughe, la cipolla tritata, l'aglio e la salvia a fuoco basso
-2. Aggiungere i fegatini e bagnare con brodo, vino o acqua
+2. Aggiungere i fegatini e bagnare con il brodo, vino o acqua (aggiungerne un goccio se si asciuga)
 3. Cuocere a fuoco lento 10-20' finché non si sfaldano, non di più altrimenti diventano stopposi
-4. Schiacciare con una forchetta (o un colpo di Minipimer) e aggiungere i capperi
+4. Aggiungere i capperi e schiacciare con una forchetta (o un colpo di Minipimer)
 5. Spalmare sul pane tostato
 
 ## 💡 Consigli
