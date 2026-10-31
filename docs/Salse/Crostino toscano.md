@@ -29,7 +29,7 @@ Il crostino nero toscano di Manu.
 - Salvia
 - Olio
 - 1/2 bicchiere (100 ml) di brodo, vino o acqua
-- Capperi (facoltativi)
+- Capperi
 - Pane toscano tostato
 
 ## 👩‍🍳 Preparazione
