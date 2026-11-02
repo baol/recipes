@@ -2444,7 +2444,7 @@
 
 
 <p><strong>Usiamo i cookie!</strong></p>
-<p>Utilizziamo i cookie per riconoscere le tue visite ripetute e le tue preferenze, nonché per misurare l'efficacia della nostra documentazione e se gli utenti trovano ciò che stanno cercando. Con il tuo consenso, ci aiuti a migliorare la nostra documentazione.</p>
+<p>Usiamo i cookie per ricordare le tue preferenze e capire quali ricette vengono lette e cercate. Con il tuo consenso ci aiuti a migliorare il sito.</p>
 <input class="md-toggle" type="checkbox" id="__settings" >
 <div class="md-consent__settings">
   <ul class="task-list">
@@ -2517,9 +2517,52 @@
         
       <script id="__config" type="application/json">{"annotate":null,"base":".","features":["search.suggest"],"redirect":null,"search":"./assets/javascripts/workers/search.7d14d953.min.js","tags":null,"translations":{"clipboard.copied":"Copiato","clipboard.copy":"Copia","search.result.more.one":"1 altro in questa pagina","search.result.more.other":"# altri in questa pagina","search.result.none":"Nessun documento trovato","search.result.one":"1 documento trovato","search.result.other":"# documenti trovati","search.result.placeholder":"Scrivi per iniziare a cercare","search.result.term.missing":"Non presente","select.version":"Seleziona la versione"},"version":null}</script>
     
-    
+     
       <script src="./assets/javascripts/bundle.c04ba553.min.js"></script>
       
     
+<script>
+    // Accessibility fixes for theme markup that can't be changed in templates.
+    (function () {
+        // A <label> may not carry aria-label: move the name into hidden text.
+        document.querySelectorAll("label[aria-label]").forEach(function (label) {
+            const text = document.createElement("span");
+            text.textContent = label.getAttribute("aria-label");
+            text.style.cssText =
+                "position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap";
+            label.appendChild(text);
+            label.removeAttribute("aria-label");
+        });
+
+        // The search widget lives in a shadow DOM built by the theme script.
+        const names = { "lucide-search": "Cerca", "lucide-list-filter": "Filtri" };
+        function fixSearch(root) {
+            const input = root.querySelector("input[role=combobox]");
+            if (input) {
+                // Plain search box: it doesn't manage combobox state.
+                input.removeAttribute("role");
+                input.setAttribute("aria-label", "Cerca");
+            }
+            root.querySelectorAll("button:not([aria-label])").forEach((button) => {
+                const icon = button.querySelector("svg");
+                const key = icon && [...icon.classList].find((c) => names[c]);
+                if (key) button.setAttribute("aria-label", names[key]);
+            });
+        }
+        // Wait for the widget, then re-apply whenever it re-renders.
+        let tries = 0;
+        const timer = setInterval(() => {
+            const host = [...document.body.children].find((el) => el.shadowRoot);
+            if (host || ++tries > 50) clearInterval(timer);
+            if (!host) return;
+            fixSearch(host.shadowRoot);
+            new MutationObserver(() => fixSearch(host.shadowRoot)).observe(host.shadowRoot, {
+                childList: true,
+                subtree: true,
+            });
+        }, 200);
+    })();
+</script>
+
   </body>
 </html>
