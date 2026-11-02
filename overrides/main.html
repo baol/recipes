@@ -51,3 +51,47 @@
     });
 </script>
 {% endblock %}
+{% block scripts %} {{ super() }}
+<script>
+    // Accessibility fixes for theme markup that can't be changed in templates.
+    (function () {
+        // A <label> may not carry aria-label: move the name into hidden text.
+        document.querySelectorAll("label[aria-label]").forEach(function (label) {
+            const text = document.createElement("span");
+            text.textContent = label.getAttribute("aria-label");
+            text.style.cssText =
+                "position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap";
+            label.appendChild(text);
+            label.removeAttribute("aria-label");
+        });
+
+        // The search widget lives in a shadow DOM built by the theme script.
+        const names = { "lucide-search": "Cerca", "lucide-list-filter": "Filtri" };
+        function fixSearch(root) {
+            const input = root.querySelector("input[role=combobox]");
+            if (input) {
+                // Plain search box: it doesn't manage combobox state.
+                input.removeAttribute("role");
+                input.setAttribute("aria-label", "Cerca");
+            }
+            root.querySelectorAll("button:not([aria-label])").forEach((button) => {
+                const icon = button.querySelector("svg");
+                const key = icon && [...icon.classList].find((c) => names[c]);
+                if (key) button.setAttribute("aria-label", names[key]);
+            });
+        }
+        // Wait for the widget, then re-apply whenever it re-renders.
+        let tries = 0;
+        const timer = setInterval(() => {
+            const host = [...document.body.children].find((el) => el.shadowRoot);
+            if (host || ++tries > 50) clearInterval(timer);
+            if (!host) return;
+            fixSearch(host.shadowRoot);
+            new MutationObserver(() => fixSearch(host.shadowRoot)).observe(host.shadowRoot, {
+                childList: true,
+                subtree: true,
+            });
+        }, 200);
+    })();
+</script>
+{% endblock %}
