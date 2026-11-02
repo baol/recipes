@@ -25,7 +25,7 @@ text = "Noto"
 
 [project.extra.consent]
 title = "Usiamo i cookie!"
-description = "Utilizziamo i cookie per riconoscere le tue visite ripetute e le tue preferenze, nonché per misurare l'efficacia della nostra documentazione e se gli utenti trovano ciò che stanno cercando. Con il tuo consenso, ci aiuti a migliorare la nostra documentazione."
+description = "Usiamo i cookie per ricordare le tue preferenze e capire quali ricette vengono lette e cercate. Con il tuo consenso ci aiuti a migliorare il sito."
 
 [project.extra.analytics]
 provider = "google"
