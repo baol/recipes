@@ -20,7 +20,7 @@ La puttanesca come la faccio io.
 ## 🧾 Ingredienti
 
 - Olio abbondante (2 cucchiai a persona)
-- Aglio
+- Aglio (1 spicchio a persona)
 - Capperi (5 a persona)
 - Olive nere (5 a persona)
 - Origano (nell'originale prezzemolo)
