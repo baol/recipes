@@ -26,17 +26,18 @@ La puttanesca come la faccio io.
 - Origano (nell'originale prezzemolo)
 - Sale e pepe
 - Peperoncino (se lo avete anche un Habanero che ha un buon aroma)
-- Passata di pomodoro
+- Pomodori pelati schiacciati o pomodorini (80 g a persona; o passata se non li avete)
 
 ## 👩‍🍳 Preparazione
 
 1. Soffriggere l'aglio e il peperoncino (e volendo un'alice dissalata e un po' di concentrato) in abbondante olio per 4 o 5 minuti a fiamma moderata
 2. Aggiungere i capperi dissalati e sminuzzati
-3. Aggiungere le olive a pezzetti (schiacciarle con le mani su un tagliere per denocciolarne)
-4. Cospargere di un bel pizzico di origano a persona
-5. Aggiustare di sale e pepe
+3. Aggiungere le olive a pezzetti (schiacciarle con le mani su un tagliere per denocciolarle)
+4. Aggiungere il pomodoro e cuocere 10-15'
+5. Cospargere di un bel pizzico di origano a persona
+6. Aggiustare di sale e pepe
 
-Scolare la pasta un po' al dente e mantecare con un po' d'acqua di cottura per un minuto o due.
+Scolare la pasta un po' al dente e mantecare un minuto nel sugo con un po' d'acqua di cottura.
 
 ## 💡 Consigli
 
