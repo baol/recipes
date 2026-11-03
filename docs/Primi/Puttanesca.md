@@ -3,7 +3,7 @@ title: "Puttanesca"
 description: "Come preparare Puttanesca: ingredienti, dosi, procedimento e consigli per la riuscita della ricetta."
 author: "Mirko Maischberger"
 date_published: "2025-11-23"
-date_modified: "2026-09-26"
+date_modified: "2026-11-03"
 schema_type: "Recipe"
 category: "Primi"
 cuisine: "Italiana"
@@ -20,6 +20,7 @@ La puttanesca come la faccio io.
 ## 🧾 Ingredienti
 
 - Olio abbondante (2 cucchiai a persona)
+- Aglio
 - Capperi (5 a persona)
 - Olive nere (5 a persona)
 - Origano (nell'originale prezzemolo)
