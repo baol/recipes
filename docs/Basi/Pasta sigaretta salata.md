@@ -19,7 +19,7 @@ comments: "true"
 
 ## 🧾 Ingredienti
 
-- 20 g Burro
+- 20 g Burro morbido
 - 20 g Farina
 - 20 g Formaggio grattugiato
 - 20 g Albume
