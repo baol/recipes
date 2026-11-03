@@ -20,7 +20,7 @@ comments: "true"
 ## 🧾 Ingredienti
 
 - 20 g Burro morbido
-- 20 g Farina
+- 20 g Farina 00
 - 20 g Parmigiano grattugiato finissimo
 - 20 g Albume
 
