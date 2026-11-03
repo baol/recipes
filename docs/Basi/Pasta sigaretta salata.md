@@ -26,7 +26,7 @@ comments: "true"
 
 ## 👩‍🍳 Preparazione
 
-1. Mescolare fino ad ottenere un impasto omogeneo
+1. Lavorare burro e Parmigiano, aggiungere l'albume poco alla volta e infine la farina, fino ad ottenere un impasto omogeneo
 2. Lavorare sullo stampo in silicone con una spatola.
 3. Infornare a 160º ventilato per pochi minuti (~6)
 
