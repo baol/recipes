@@ -43,11 +43,13 @@ class RecipeTreeprocessor(Treeprocessor):
                     meta.setdefault('servings', int(servings[1]))
                 elif value:
                     ingredients.append(value)
-            steps = [
-                {'@type': 'HowToStep', 'text': value}
-                for block in section_blocks(root, 'Preparazione')
-                if (value := text(block))
-            ]
+            steps = []
+            for block in section_blocks(root, 'Preparazione'):
+                if value := text(block):
+                    # Anchor each step so structured data can link to it.
+                    anchor = f'passo-{len(steps) + 1}'
+                    block.set('id', anchor)
+                    steps.append({'@type': 'HowToStep', 'text': value, 'url': f'#{anchor}'})
             if not ingredients or not steps:
                 raise ValueError(f'Missing recipe sections: {context.page.path}')
             meta['recipe_ingredients'] = ingredients

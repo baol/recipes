@@ -25,7 +25,7 @@ class RecipeSeoTests(unittest.TestCase):
 
     def test_recipe_preserves_prose_and_excludes_serving_counts(self):
         meta = {'schema_type': 'Recipe', 'image': 'images/pizza.jpg'}
-        self.render('''## 🧾 Ingredienti
+        html = self.render('''## 🧾 Ingredienti
 
 - 2 Servings
 - 350 g **Farina**
@@ -43,11 +43,12 @@ Infornare a piacere.
 Not a step.
 ''', meta)
         self.assertEqual(meta['servings'], 2)
+        self.assertIn('<li id="passo-2">', html)
         self.assertEqual(meta['recipe_ingredients'], ['350 g Farina'])
         self.assertEqual(meta['recipe_instructions'], [
-            {'@type': 'HowToStep', 'text': 'Iniziare il giorno prima.'},
-            {'@type': 'HowToStep', 'text': 'Impastare bene.'},
-            {'@type': 'HowToStep', 'text': 'Infornare a piacere.'},
+            {'@type': 'HowToStep', 'text': 'Iniziare il giorno prima.', 'url': '#passo-1'},
+            {'@type': 'HowToStep', 'text': 'Impastare bene.', 'url': '#passo-2'},
+            {'@type': 'HowToStep', 'text': 'Infornare a piacere.', 'url': '#passo-3'},
         ])
 
     def test_local_images_receive_dimensions_and_loading_during_render(self):
