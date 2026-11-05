@@ -17,3 +17,10 @@ Aprire in anteprima locale, a larghezza telefono, ogni pagina cambiata:
 - [ ] foto al posto giusto tra i passi
 - [ ] link funzionanti
 - [ ] testo leggibile, niente Markdown grezzo visibile
+
+Principi di design (vedi README):
+
+- [ ] con JavaScript disattivato si naviga e si leggono le ricette
+- [ ] in un browser testuale (`w3m -dump` o `links`) la pagina si legge in ordine, senza doppioni
+- [ ] tutto si usa da tastiera, con il focus visibile
+- [ ] l'inizio della ricetta (titolo e ingredienti) si vede nella prima schermata, su telefono, tablet e PC
