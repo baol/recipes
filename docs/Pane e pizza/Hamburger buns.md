@@ -43,11 +43,11 @@ Adattato da https://www.allrecipes.com/recipe/233652/homemade-hamburger-buns/
 7. Rovescia l'impasto sulla spianatoia e fai una palla
 8. Metti l'impasto a lievitare in una ciotola pulita e unta.
 9. Lascia lievitare per circa 2 ore fino a raddoppio (usa un contenitore graduato o cilindrico)
-10. Trasferisci sulla spianatoio infarinata, forma un rettangolo also circa 1 centimetro e mezzo
+10. Trasferisci sulla spianatoia infarinata, forma un rettangolo alto circa 1 centimetro e mezzo
 11. Taglia in 8 pezzi uguali
 12. Forma delle palline premendo con la mano aperta e facendo movimenti circolari (pirlatura)
 13. Disponi le palline su una teglia, non troppo distanziate in modo che si toccheranno durante la cottura.
-14. Lasciare lievitare coperte con un panno unodo per circa un ora
+14. Lasciare lievitare coperte con un panno umido per circa un'ora
 15. Accendi il forno.
 16. Il secondo uovo va mescolato con un po' di latte e serve per spalmare le pagnottine prima di cospargerle di sesamo
 17. Infornare a 180 gradi per 15-17 minuti
