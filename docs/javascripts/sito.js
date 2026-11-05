@@ -14,3 +14,15 @@
     // Keep the current category's chip in view.
     document.querySelector(".ricette-chip.is-current")?.scrollIntoView({ inline: "center", block: "nearest" });
 })();
+
+// The site name in the header also leads home, like the logo.
+(() => {
+    const logo = document.querySelector(".md-header__button.md-logo");
+    const name = document.querySelector(".md-header__topic:first-child .md-ellipsis");
+    if (!logo || !name || name.querySelector("a")) return;
+    const link = document.createElement("a");
+    link.href = logo.getAttribute("href");
+    link.className = "sito-home";
+    link.textContent = name.textContent.trim();
+    name.replaceChildren(link);
+})();
