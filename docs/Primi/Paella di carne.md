@@ -32,7 +32,7 @@ comments: "true"
 - 1 Pomodoro pelato
 - 1.5 litri Brodo di pollo
 - 250 g Riso Bomba
-- 3 rametti di rosmarimo
+- 3 rametti di rosmarino
 
 ## 👩‍🍳 Preparazione
 
