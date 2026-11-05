@@ -20,7 +20,7 @@ comments: "true"
 
 ## 🧾 Ingredienti
 
-- 500 g Polpo bollito (tenere l'acqua di cottura)
+- 500 g Polpo bollito, circa 1 kg crudo (tenere l'acqua di cottura)
 - 3 foglie Alloro
 - 1 ciuffo Prezzemolo
 - 1 spicchio Aglio
