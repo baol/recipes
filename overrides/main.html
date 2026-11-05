@@ -4,7 +4,7 @@
 <link rel="manifest" href="{{ 'manifest.json' | url }}" />
 <meta name="theme-color" content="#263238" />
 {% endblock %} {% block site_nav %} {% if nav %}
-<nav class="ricette-nav" aria-label="Ricette">
+<nav class="ricette-nav" id="ricette-nav" aria-label="Ricette" popover>
     <ul>
         {% for item in nav.items if item.children %}
         <li>
@@ -20,6 +20,7 @@
         {% endfor %}
     </ul>
 </nav>
+<button class="ricette-apri" type="button" popovertarget="ricette-nav">☰ Ricette</button>
 {% endif %} {% endblock %} {% block content %} {{ super() }}
 {% if page.meta and page.meta.cucina_abbinamenti %}
 <script type="application/json" id="cucina-abbinamenti">
