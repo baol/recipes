@@ -50,6 +50,6 @@ Adattato da https://www.allrecipes.com/recipe/233652/homemade-hamburger-buns/
 14. Lasciare lievitare coperte con un panno unodo per circa un ora
 15. Accendi il forno.
 16. Il secondo uovo va mescolato con un po' di latte e serve per spalmare le pagnottine prima di cospargerle di sesamo
-17. Informare a 180 gradi per 15-17 minuti
+17. Infornare a 180 gradi per 15-17 minuti
 
 ![Panini per hamburger fatti in casa](../images/hamburger-buns.jpeg)
