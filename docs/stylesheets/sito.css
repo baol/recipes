@@ -12,6 +12,10 @@
 .md-header__button[for="__drawer"] {
   display: none;
 }
+/* With the drawer gone, the logo is the way back home on every screen. */
+.md-header__button.md-logo {
+  display: inline-block;
+}
 
 /* Category chips (narrow screens) */
 .ricette-chips {
