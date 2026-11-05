@@ -36,7 +36,7 @@ Dose per 4 persone.
 - Pepe rosa
 - Pepe nero
 - Alcune foglie di cavolo riccio o cavolo nero per guarnire
-- Ditalini o ditalini all'uovo (due vuova o 200 grammi di pasta secca ogni due persone)
+- Ditalini o ditalini all'uovo (un uovo o 100 grammi di pasta secca ogni due persone)
 - 1 spruzzata Limone
 
 ## 👩‍🍳 Preparazione
@@ -47,5 +47,5 @@ Dose per 4 persone.
 4. Aggiungere il brodo e le lenticchie secche e bollire per 30 minuti semi-coperto, aggiungendo l'acqua man mano se si asciuga.
 5. Opzionalmente frullare circa 1/5 della zuppa con un frullatore a immersione.
 6. Aggiustare di sale e pepe.
-7. Aggingere le foglie di cavolo e cuocere per 5 minuti.
+7. Aggiungere le foglie di cavolo e cuocere per 5 minuti.
 8. Servire con una foglia di cavolo a crudo e qualche goccia di limone.
