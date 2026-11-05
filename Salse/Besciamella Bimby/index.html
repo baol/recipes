@@ -62,6 +62,8 @@
     
       <link rel="stylesheet" href="../../stylesheets/cucina.css">
     
+      <link rel="stylesheet" href="../../stylesheets/sito.css">
+    
     <script>__md_scope=new URL("../..",location),__md_scope.pathname.endsWith("/")||(__md_scope=new URL(__md_scope.pathname+"/",location)),__md_hash=e=>[...e].reduce(((e,t)=>(e<<5)-e+t.charCodeAt(0)),0),__md_get=(e,t=localStorage,_=__md_scope)=>JSON.parse(t.getItem(_.pathname+"."+e)),__md_set=(e,t,_=localStorage,a=__md_scope)=>{try{_.setItem(a.pathname+"."+e,JSON.stringify(t))}catch(e){}},document.documentElement.setAttribute("data-platform",navigator.platform)</script>
     
       
@@ -197,2015 +199,344 @@
     
     <div class="md-container" data-md-component="container">
       
-      
+       
         
           
         
-      
+       
+<nav class="ricette-chips" aria-label="Categorie">
+    <div class="ricette-chips__row">
+        
+        <button type="button" class="ricette-chip" aria-expanded="false" aria-controls="categoria-1">Basi</button>
+        
+        <button type="button" class="ricette-chip" aria-expanded="false" aria-controls="categoria-2">Cocktails & Mocktails</button>
+        
+        <button type="button" class="ricette-chip" aria-expanded="false" aria-controls="categoria-3">Dolci</button>
+        
+        <button type="button" class="ricette-chip" aria-expanded="false" aria-controls="categoria-4">Pane e pizza</button>
+        
+        <button type="button" class="ricette-chip" aria-expanded="false" aria-controls="categoria-5">Primi</button>
+        
+        <button type="button" class="ricette-chip is-current" aria-expanded="false" aria-controls="categoria-6">Salse</button>
+        
+        <button type="button" class="ricette-chip" aria-expanded="false" aria-controls="categoria-7">Secondi</button>
+        
+    </div>
+    
+    <ul class="ricette-chips__panel" id="categoria-1" hidden>
+        
+        <li><a href="../../Basi/Brodo%20di%20carne/" >Brodo di carne</a></li>
+        
+        <li><a href="../../Basi/Ceci%20cotti/" >Ceci cotti</a></li>
+        
+        <li><a href="../../Basi/Cipolle%20sottaceto/" >Cipolle sottaceto</a></li>
+        
+        <li><a href="../../Basi/Crema%20pasticcera%20Bimby/" >Crema pasticcera Bimby</a></li>
+        
+        <li><a href="../../Basi/Crema%20pasticcera/" >Crema pasticcera</a></li>
+        
+        <li><a href="../../Basi/Farine%20in%20Germania/" >Farine in Germania</a></li>
+        
+        <li><a href="../../Basi/Pasta%20al%20torchio/" >Pasta al torchio</a></li>
+        
+        <li><a href="../../Basi/Pasta%20all'uovo/" >Pasta all'uovo</a></li>
+        
+        <li><a href="../../Basi/Pasta%20frolla/" >Pasta frolla</a></li>
+        
+        <li><a href="../../Basi/Pasta%20sigaretta%20salata/" >Pasta sigaretta salata</a></li>
+        
+        <li><a href="../../Basi/Polenta%20Bimby/" >Polenta Bimby</a></li>
+        
+        <li><a href="../../Basi/Pur%C3%A8%20di%20patate/" >Purè di patate</a></li>
+        
+        <li><a href="../../Basi/Sous%20Vide/" >Sous Vide</a></li>
+        
+        <li><a href="../../Basi/Sugo%20della%20nonna%20Ada/" >Sugo della nonna Ada</a></li>
+        
+        <li><a href="../../Basi/Uova/" >Uova</a></li>
+        
+    </ul>
+    
+    <ul class="ricette-chips__panel" id="categoria-2" hidden>
+        
+        <li><a href="../../Cocktails%20%26%20Mocktails/Americano/" >Americano</a></li>
+        
+        <li><a href="../../Cocktails%20%26%20Mocktails/Boulevardier/" >Boulevardier</a></li>
+        
+        <li><a href="../../Cocktails%20%26%20Mocktails/Daiquiri/" >Daiquiri</a></li>
+        
+        <li><a href="../../Cocktails%20%26%20Mocktails/Margarita/" >Margarita</a></li>
+        
+        <li><a href="../../Cocktails%20%26%20Mocktails/Mocktail%20pera%20lime%20e%20rosmarino/" >Mocktail pera lime e rosmarino</a></li>
+        
+        <li><a href="../../Cocktails%20%26%20Mocktails/Negroni/" >Negroni</a></li>
+        
+    </ul>
+    
+    <ul class="ricette-chips__panel" id="categoria-3" hidden>
+        
+        <li><a href="../../Dolci/Budino%20di%20riso/" >Budino di riso</a></li>
+        
+        <li><a href="../../Dolci/Cr%C3%A8me%20Br%C3%BBl%C3%A9e%20Sous%20Vide/" >Crème Brûlée Sous Vide</a></li>
+        
+        <li><a href="../../Dolci/Dulce%20de%20leche%20(la%20mou)%20con%20il%20Bimby/" >Dulce de leche (la mou) con il Bimby</a></li>
+        
+        <li><a href="../../Dolci/Muffin%20di%20Farro/" >Muffin di Farro</a></li>
+        
+        <li><a href="../../Dolci/Pan%20di%20Spagna/" >Pan di Spagna</a></li>
+        
+        <li><a href="../../Dolci/Pancakes%20Classici/" >Pancakes Classici</a></li>
+        
+        <li><a href="../../Dolci/Savoiardi/" >Savoiardi</a></li>
+        
+        <li><a href="../../Dolci/Torta%20di%20Mele/" >Torta di Mele</a></li>
+        
+        <li><a href="../../Dolci/Tozzetti/" >Tozzetti</a></li>
+        
+    </ul>
+    
+    <ul class="ricette-chips__panel" id="categoria-4" hidden>
+        
+        <li><a href="../../Pane%20e%20pizza/Focaccia/" >Focaccia</a></li>
+        
+        <li><a href="../../Pane%20e%20pizza/Focaccine/" >Focaccine</a></li>
+        
+        <li><a href="../../Pane%20e%20pizza/Hamburger%20buns%20(tangzhong)/" >Hamburger buns (tangzhong)</a></li>
+        
+        <li><a href="../../Pane%20e%20pizza/Hamburger%20buns/" >Hamburger buns</a></li>
+        
+        <li><a href="../../Pane%20e%20pizza/Pane/" >Pane</a></li>
+        
+        <li><a href="../../Pane%20e%20pizza/Pizza/" >Pizza</a></li>
+        
+    </ul>
+    
+    <ul class="ricette-chips__panel" id="categoria-5" hidden>
+        
+        <li><a href="../../Primi/Assassina/" >Assassina</a></li>
+        
+        <li><a href="../../Primi/Paella%20di%20carne/" >Paella di carne</a></li>
+        
+        <li><a href="../../Primi/Passatelli%20alla%20marchigiana/" >Passatelli alla marchigiana</a></li>
+        
+        <li><a href="../../Primi/Pasta%20e%20Ceci/" >Pasta e Ceci</a></li>
+        
+        <li><a href="../../Primi/Puttanesca/" >Puttanesca</a></li>
+        
+        <li><a href="../../Primi/Ravioli%20alla%20norma/" >Ravioli alla norma</a></li>
+        
+        <li><a href="../../Primi/Ravioli%20zucca%20e%20zenzero/" >Ravioli zucca e zenzero</a></li>
+        
+        <li><a href="../../Primi/Zuppa%20di%20Lenticchie/" >Zuppa di Lenticchie</a></li>
+        
+    </ul>
+    
+    <ul class="ricette-chips__panel" id="categoria-6" hidden>
+        
+        <li><a href="././" aria-current="page">Besciamella Bimby</a></li>
+        
+        <li><a href="../Crostino%20toscano/" >Crostino toscano</a></li>
+        
+        <li><a href="../Hummus/" >Hummus</a></li>
+        
+        <li><a href="../Pico%20de%20Gallo/" >Pico de Gallo</a></li>
+        
+        <li><a href="../Salsa%20Roja%20all'Habanero/" >Salsa Roja all'Habanero</a></li>
+        
+    </ul>
+    
+    <ul class="ricette-chips__panel" id="categoria-7" hidden>
+        
+        <li><a href="../../Secondi/Curry/" >Curry di pollo con il Bimby</a></li>
+        
+        <li><a href="../../Secondi/Peperoni%20ripieni%20al%20tonno/" >Peperoni ripieni al tonno</a></li>
+        
+        <li><a href="../../Secondi/Polpette%20di%20polpo/" >Polpette di polpo</a></li>
+        
+        <li><a href="../../Secondi/Seppie%20in%20Zimino/" >Seppie in Zimino</a></li>
+        
+    </ul>
+    
+</nav>
+ 
       <main class="md-main" data-md-component="main">
         <div class="md-main__inner md-grid">
-          
-            
-              
-              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
-                <div class="md-sidebar__scrollwrap">
-                  <div class="md-sidebar__inner">
+           
+<nav class="ricette-nav" aria-label="Ricette">
+    <ul>
+        
+        <li>
+            <details >
+                <summary><span>Basi</span><small>15</small></summary>
+                <ul>
                     
-
-
-
-<nav class="md-nav md-nav--primary" aria-label="Navigazione" data-md-level="0">
-  <label class="md-nav__title" for="__drawer">
-    <a href="../.." title="Le Ricette di Daniela e Mirko" class="md-nav__button md-logo" aria-label="Le Ricette di Daniela e Mirko" data-md-component="logo">
-      
-  <img src="../../images/100allora.png" alt="Le Ricette di Daniela e Mirko" width="236" height="127">
-
-    </a>
-    Le Ricette di Daniela e Mirko
-  </label>
-  
-    <div class="md-nav__source">
-      <a href="https://github.com/baol/recipes" title="Apri repository" class="md-source" data-md-component="source">
-  <div class="md-source__icon md-icon">
-    
-    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 7.3.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2026 Fonticons, Inc.--><path fill="currentColor" d="M439.6 236.1 244 40.5c-5.4-5.5-12.8-8.5-20.4-8.5s-15 3-20.4 8.4L162.5 81l51.5 51.5c27.1-9.1 52.7 16.8 43.4 43.7l49.7 49.7c34.2-11.8 61.2 31 35.5 56.7-26.5 26.5-70.2-2.9-56-37.3L240.3 199v121.9c25.3 12.5 22.3 41.8 9.1 55-6.4 6.4-15.2 10.1-24.3 10.1s-17.8-3.6-24.3-10.1c-17.6-17.6-11.1-46.9 11.2-56v-123c-20.8-8.5-24.6-30.7-18.6-45L142.6 101 8.5 235.1C3 240.6 0 247.9 0 255.5s3 15 8.5 20.4l195.6 195.7c5.4 5.4 12.7 8.4 20.4 8.4s15-3 20.4-8.4l194.7-194.7c5.4-5.4 8.4-12.8 8.4-20.4s-3-15-8.4-20.4"/></svg>
-  </div>
-  <div class="md-source__repository">
-    GitHub
-  </div>
-</a>
-    </div>
-  
-  <ul class="md-nav__list" data-md-scrollfix>
-    
-      
-      
-  
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="../.." class="md-nav__link">
+                    <li><a href="../../Basi/Brodo%20di%20carne/" >Brodo di carne</a></li>
+                    
+                    <li><a href="../../Basi/Ceci%20cotti/" >Ceci cotti</a></li>
+                    
+                    <li><a href="../../Basi/Cipolle%20sottaceto/" >Cipolle sottaceto</a></li>
+                    
+                    <li><a href="../../Basi/Crema%20pasticcera%20Bimby/" >Crema pasticcera Bimby</a></li>
+                    
+                    <li><a href="../../Basi/Crema%20pasticcera/" >Crema pasticcera</a></li>
+                    
+                    <li><a href="../../Basi/Farine%20in%20Germania/" >Farine in Germania</a></li>
+                    
+                    <li><a href="../../Basi/Pasta%20al%20torchio/" >Pasta al torchio</a></li>
+                    
+                    <li><a href="../../Basi/Pasta%20all'uovo/" >Pasta all'uovo</a></li>
+                    
+                    <li><a href="../../Basi/Pasta%20frolla/" >Pasta frolla</a></li>
+                    
+                    <li><a href="../../Basi/Pasta%20sigaretta%20salata/" >Pasta sigaretta salata</a></li>
+                    
+                    <li><a href="../../Basi/Polenta%20Bimby/" >Polenta Bimby</a></li>
+                    
+                    <li><a href="../../Basi/Pur%C3%A8%20di%20patate/" >Purè di patate</a></li>
+                    
+                    <li><a href="../../Basi/Sous%20Vide/" >Sous Vide</a></li>
+                    
+                    <li><a href="../../Basi/Sugo%20della%20nonna%20Ada/" >Sugo della nonna Ada</a></li>
+                    
+                    <li><a href="../../Basi/Uova/" >Uova</a></li>
+                    
+                </ul>
+            </details>
+        </li>
+        
+        <li>
+            <details >
+                <summary><span>Cocktails & Mocktails</span><small>6</small></summary>
+                <ul>
+                    
+                    <li><a href="../../Cocktails%20%26%20Mocktails/Americano/" >Americano</a></li>
+                    
+                    <li><a href="../../Cocktails%20%26%20Mocktails/Boulevardier/" >Boulevardier</a></li>
+                    
+                    <li><a href="../../Cocktails%20%26%20Mocktails/Daiquiri/" >Daiquiri</a></li>
+                    
+                    <li><a href="../../Cocktails%20%26%20Mocktails/Margarita/" >Margarita</a></li>
+                    
+                    <li><a href="../../Cocktails%20%26%20Mocktails/Mocktail%20pera%20lime%20e%20rosmarino/" >Mocktail pera lime e rosmarino</a></li>
+                    
+                    <li><a href="../../Cocktails%20%26%20Mocktails/Negroni/" >Negroni</a></li>
+                    
+                </ul>
+            </details>
+        </li>
+        
+        <li>
+            <details >
+                <summary><span>Dolci</span><small>9</small></summary>
+                <ul>
+                    
+                    <li><a href="../../Dolci/Budino%20di%20riso/" >Budino di riso</a></li>
+                    
+                    <li><a href="../../Dolci/Cr%C3%A8me%20Br%C3%BBl%C3%A9e%20Sous%20Vide/" >Crème Brûlée Sous Vide</a></li>
+                    
+                    <li><a href="../../Dolci/Dulce%20de%20leche%20(la%20mou)%20con%20il%20Bimby/" >Dulce de leche (la mou) con il Bimby</a></li>
+                    
+                    <li><a href="../../Dolci/Muffin%20di%20Farro/" >Muffin di Farro</a></li>
+                    
+                    <li><a href="../../Dolci/Pan%20di%20Spagna/" >Pan di Spagna</a></li>
+                    
+                    <li><a href="../../Dolci/Pancakes%20Classici/" >Pancakes Classici</a></li>
+                    
+                    <li><a href="../../Dolci/Savoiardi/" >Savoiardi</a></li>
+                    
+                    <li><a href="../../Dolci/Torta%20di%20Mele/" >Torta di Mele</a></li>
+                    
+                    <li><a href="../../Dolci/Tozzetti/" >Tozzetti</a></li>
+                    
+                </ul>
+            </details>
+        </li>
+        
+        <li>
+            <details >
+                <summary><span>Pane e pizza</span><small>6</small></summary>
+                <ul>
+                    
+                    <li><a href="../../Pane%20e%20pizza/Focaccia/" >Focaccia</a></li>
+                    
+                    <li><a href="../../Pane%20e%20pizza/Focaccine/" >Focaccine</a></li>
+                    
+                    <li><a href="../../Pane%20e%20pizza/Hamburger%20buns%20(tangzhong)/" >Hamburger buns (tangzhong)</a></li>
+                    
+                    <li><a href="../../Pane%20e%20pizza/Hamburger%20buns/" >Hamburger buns</a></li>
+                    
+                    <li><a href="../../Pane%20e%20pizza/Pane/" >Pane</a></li>
+                    
+                    <li><a href="../../Pane%20e%20pizza/Pizza/" >Pizza</a></li>
+                    
+                </ul>
+            </details>
+        </li>
+        
+        <li>
+            <details >
+                <summary><span>Primi</span><small>8</small></summary>
+                <ul>
+                    
+                    <li><a href="../../Primi/Assassina/" >Assassina</a></li>
+                    
+                    <li><a href="../../Primi/Paella%20di%20carne/" >Paella di carne</a></li>
+                    
+                    <li><a href="../../Primi/Passatelli%20alla%20marchigiana/" >Passatelli alla marchigiana</a></li>
+                    
+                    <li><a href="../../Primi/Pasta%20e%20Ceci/" >Pasta e Ceci</a></li>
+                    
+                    <li><a href="../../Primi/Puttanesca/" >Puttanesca</a></li>
+                    
+                    <li><a href="../../Primi/Ravioli%20alla%20norma/" >Ravioli alla norma</a></li>
+                    
+                    <li><a href="../../Primi/Ravioli%20zucca%20e%20zenzero/" >Ravioli zucca e zenzero</a></li>
+                    
+                    <li><a href="../../Primi/Zuppa%20di%20Lenticchie/" >Zuppa di Lenticchie</a></li>
+                    
+                </ul>
+            </details>
+        </li>
+        
+        <li>
+            <details open>
+                <summary><span>Salse</span><small>5</small></summary>
+                <ul>
+                    
+                    <li><a href="././" aria-current="page">Besciamella Bimby</a></li>
+                    
+                    <li><a href="../Crostino%20toscano/" >Crostino toscano</a></li>
+                    
+                    <li><a href="../Hummus/" >Hummus</a></li>
+                    
+                    <li><a href="../Pico%20de%20Gallo/" >Pico de Gallo</a></li>
+                    
+                    <li><a href="../Salsa%20Roja%20all'Habanero/" >Salsa Roja all'Habanero</a></li>
+                    
+                </ul>
+            </details>
+        </li>
+        
+        <li>
+            <details >
+                <summary><span>Secondi</span><small>4</small></summary>
+                <ul>
+                    
+                    <li><a href="../../Secondi/Curry/" >Curry di pollo con il Bimby</a></li>
+                    
+                    <li><a href="../../Secondi/Peperoni%20ripieni%20al%20tonno/" >Peperoni ripieni al tonno</a></li>
+                    
+                    <li><a href="../../Secondi/Polpette%20di%20polpo/" >Polpette di polpo</a></li>
+                    
+                    <li><a href="../../Secondi/Seppie%20in%20Zimino/" >Seppie in Zimino</a></li>
+                    
+                </ul>
+            </details>
+        </li>
         
-  
-  
-  <span class="md-ellipsis">
-    
-  
-  Le ricette di Daniela e Mirko
-
-    
-  </span>
-  
-  
-
-      </a>
-    </li>
-  
-
-    
-      
-      
-  
-  
-  
-  
-    
-    
-    
-    
-    
-    <li class="md-nav__item md-nav__item--nested">
-      
-        
-        
-        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2" >
-        
-          
-          <label class="md-nav__link" for="__nav_2" id="__nav_2_label" tabindex="0">
-            
-  
-  
-  <span class="md-ellipsis">
-    
-  
-  Basi
-
-    
-  </span>
-  
-  
-
-            <span class="md-nav__icon md-icon"></span>
-          </label>
-        
-        
-          <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_2_label" aria-expanded="false">
-            <label class="md-nav__title" for="__nav_2">
-              <span class="md-nav__icon md-icon"></span>
-              
-  
-  Basi
-
-            </label>
-            <ul class="md-nav__list" data-md-scrollfix>
-              
-                
-                  
-  
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="../../Basi/Brodo%20di%20carne/" class="md-nav__link">
-        
-  
-  
-  <span class="md-ellipsis">
-    
-  
-  Brodo di carne
-
-    
-  </span>
-  
-  
-
-      </a>
-    </li>
-  
-
-                
-              
-                
-                  
-  
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="../../Basi/Ceci%20cotti/" class="md-nav__link">
-        
-  
-  
-  <span class="md-ellipsis">
-    
-  
-  Ceci cotti
-
-    
-  </span>
-  
-  
-
-      </a>
-    </li>
-  
-
-                
-              
-                
-                  
-  
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="../../Basi/Cipolle%20sottaceto/" class="md-nav__link">
-        
-  
-  
-  <span class="md-ellipsis">
-    
-  
-  Cipolle sottaceto
-
-    
-  </span>
-  
-  
-
-      </a>
-    </li>
-  
-
-                
-              
-                
-                  
-  
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="../../Basi/Crema%20pasticcera%20Bimby/" class="md-nav__link">
-        
-  
-  
-  <span class="md-ellipsis">
-    
-  
-  Crema pasticcera Bimby
-
-    
-  </span>
-  
-  
-
-      </a>
-    </li>
-  
-
-                
-              
-                
-                  
-  
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="../../Basi/Crema%20pasticcera/" class="md-nav__link">
-        
-  
-  
-  <span class="md-ellipsis">
-    
-  
-  Crema pasticcera
-
-    
-  </span>
-  
-  
-
-      </a>
-    </li>
-  
-
-                
-              
-                
-                  
-  
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="../../Basi/Farine%20in%20Germania/" class="md-nav__link">
-        
-  
-  
-  <span class="md-ellipsis">
-    
-  
-  Farine in Germania
-
-    
-  </span>
-  
-  
-
-      </a>
-    </li>
-  
-
-                
-              
-                
-                  
-  
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="../../Basi/Pasta%20al%20torchio/" class="md-nav__link">
-        
-  
-  
-  <span class="md-ellipsis">
-    
-  
-  Pasta al torchio
-
-    
-  </span>
-  
-  
-
-      </a>
-    </li>
-  
-
-                
-              
-                
-                  
-  
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="../../Basi/Pasta%20all'uovo/" class="md-nav__link">
-        
-  
-  
-  <span class="md-ellipsis">
-    
-  
-  Pasta all'uovo
-
-    
-  </span>
-  
-  
-
-      </a>
-    </li>
-  
-
-                
-              
-                
-                  
-  
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="../../Basi/Pasta%20frolla/" class="md-nav__link">
-        
-  
-  
-  <span class="md-ellipsis">
-    
-  
-  Pasta frolla
-
-    
-  </span>
-  
-  
-
-      </a>
-    </li>
-  
-
-                
-              
-                
-                  
-  
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="../../Basi/Pasta%20sigaretta%20salata/" class="md-nav__link">
-        
-  
-  
-  <span class="md-ellipsis">
-    
-  
-  Pasta sigaretta salata
-
-    
-  </span>
-  
-  
-
-      </a>
-    </li>
-  
-
-                
-              
-                
-                  
-  
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="../../Basi/Polenta%20Bimby/" class="md-nav__link">
-        
-  
-  
-  <span class="md-ellipsis">
-    
-  
-  Polenta Bimby
-
-    
-  </span>
-  
-  
-
-      </a>
-    </li>
-  
-
-                
-              
-                
-                  
-  
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="../../Basi/Pur%C3%A8%20di%20patate/" class="md-nav__link">
-        
-  
-  
-  <span class="md-ellipsis">
-    
-  
-  Purè di patate
-
-    
-  </span>
-  
-  
-
-      </a>
-    </li>
-  
-
-                
-              
-                
-                  
-  
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="../../Basi/Sous%20Vide/" class="md-nav__link">
-        
-  
-  
-  <span class="md-ellipsis">
-    
-  
-  Sous Vide
-
-    
-  </span>
-  
-  
-
-      </a>
-    </li>
-  
-
-                
-              
-                
-                  
-  
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="../../Basi/Sugo%20della%20nonna%20Ada/" class="md-nav__link">
-        
-  
-  
-  <span class="md-ellipsis">
-    
-  
-  Sugo della nonna Ada
-
-    
-  </span>
-  
-  
-
-      </a>
-    </li>
-  
-
-                
-              
-                
-                  
-  
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="../../Basi/Uova/" class="md-nav__link">
-        
-  
-  
-  <span class="md-ellipsis">
-    
-  
-  Uova
-
-    
-  </span>
-  
-  
-
-      </a>
-    </li>
-  
-
-                
-              
-            </ul>
-          </nav>
-        
-      
-    </li>
-  
-
-    
-      
-      
-  
-  
-  
-  
-    
-    
-    
-    
-    
-    <li class="md-nav__item md-nav__item--nested">
-      
-        
-        
-        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3" >
-        
-          
-          <label class="md-nav__link" for="__nav_3" id="__nav_3_label" tabindex="0">
-            
-  
-  
-  <span class="md-ellipsis">
-    
-  
-  Cocktails & Mocktails
-
-    
-  </span>
-  
-  
-
-            <span class="md-nav__icon md-icon"></span>
-          </label>
-        
-        
-          <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="false">
-            <label class="md-nav__title" for="__nav_3">
-              <span class="md-nav__icon md-icon"></span>
-              
-  
-  Cocktails & Mocktails
-
-            </label>
-            <ul class="md-nav__list" data-md-scrollfix>
-              
-                
-                  
-  
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="../../Cocktails%20%26%20Mocktails/Americano/" class="md-nav__link">
-        
-  
-  
-  <span class="md-ellipsis">
-    
-  
-  Americano
-
-    
-  </span>
-  
-  
-
-      </a>
-    </li>
-  
-
-                
-              
-                
-                  
-  
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="../../Cocktails%20%26%20Mocktails/Boulevardier/" class="md-nav__link">
-        
-  
-  
-  <span class="md-ellipsis">
-    
-  
-  Boulevardier
-
-    
-  </span>
-  
-  
-
-      </a>
-    </li>
-  
-
-                
-              
-                
-                  
-  
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="../../Cocktails%20%26%20Mocktails/Daiquiri/" class="md-nav__link">
-        
-  
-  
-  <span class="md-ellipsis">
-    
-  
-  Daiquiri
-
-    
-  </span>
-  
-  
-
-      </a>
-    </li>
-  
-
-                
-              
-                
-                  
-  
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="../../Cocktails%20%26%20Mocktails/Margarita/" class="md-nav__link">
-        
-  
-  
-  <span class="md-ellipsis">
-    
-  
-  Margarita
-
-    
-  </span>
-  
-  
-
-      </a>
-    </li>
-  
-
-                
-              
-                
-                  
-  
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="../../Cocktails%20%26%20Mocktails/Mocktail%20pera%20lime%20e%20rosmarino/" class="md-nav__link">
-        
-  
-  
-  <span class="md-ellipsis">
-    
-  
-  Mocktail pera lime e rosmarino
-
-    
-  </span>
-  
-  
-
-      </a>
-    </li>
-  
-
-                
-              
-                
-                  
-  
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="../../Cocktails%20%26%20Mocktails/Negroni/" class="md-nav__link">
-        
-  
-  
-  <span class="md-ellipsis">
-    
-  
-  Negroni
-
-    
-  </span>
-  
-  
-
-      </a>
-    </li>
-  
-
-                
-              
-            </ul>
-          </nav>
-        
-      
-    </li>
-  
-
-    
-      
-      
-  
-  
-  
-  
-    
-    
-    
-    
-    
-    <li class="md-nav__item md-nav__item--nested">
-      
-        
-        
-        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4" >
-        
-          
-          <label class="md-nav__link" for="__nav_4" id="__nav_4_label" tabindex="0">
-            
-  
-  
-  <span class="md-ellipsis">
-    
-  
-  Dolci
-
-    
-  </span>
-  
-  
-
-            <span class="md-nav__icon md-icon"></span>
-          </label>
-        
-        
-          <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_4_label" aria-expanded="false">
-            <label class="md-nav__title" for="__nav_4">
-              <span class="md-nav__icon md-icon"></span>
-              
-  
-  Dolci
-
-            </label>
-            <ul class="md-nav__list" data-md-scrollfix>
-              
-                
-                  
-  
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="../../Dolci/Budino%20di%20riso/" class="md-nav__link">
-        
-  
-  
-  <span class="md-ellipsis">
-    
-  
-  Budino di riso
-
-    
-  </span>
-  
-  
-
-      </a>
-    </li>
-  
-
-                
-              
-                
-                  
-  
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="../../Dolci/Cr%C3%A8me%20Br%C3%BBl%C3%A9e%20Sous%20Vide/" class="md-nav__link">
-        
-  
-  
-  <span class="md-ellipsis">
-    
-  
-  Crème Brûlée Sous Vide
-
-    
-  </span>
-  
-  
-
-      </a>
-    </li>
-  
-
-                
-              
-                
-                  
-  
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="../../Dolci/Dulce%20de%20leche%20(la%20mou)%20con%20il%20Bimby/" class="md-nav__link">
-        
-  
-  
-  <span class="md-ellipsis">
-    
-  
-  Dulce de leche (la mou) con il Bimby
-
-    
-  </span>
-  
-  
-
-      </a>
-    </li>
-  
-
-                
-              
-                
-                  
-  
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="../../Dolci/Muffin%20di%20Farro/" class="md-nav__link">
-        
-  
-  
-  <span class="md-ellipsis">
-    
-  
-  Muffin di Farro
-
-    
-  </span>
-  
-  
-
-      </a>
-    </li>
-  
-
-                
-              
-                
-                  
-  
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="../../Dolci/Pan%20di%20Spagna/" class="md-nav__link">
-        
-  
-  
-  <span class="md-ellipsis">
-    
-  
-  Pan di Spagna
-
-    
-  </span>
-  
-  
-
-      </a>
-    </li>
-  
-
-                
-              
-                
-                  
-  
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="../../Dolci/Pancakes%20Classici/" class="md-nav__link">
-        
-  
-  
-  <span class="md-ellipsis">
-    
-  
-  Pancakes Classici
-
-    
-  </span>
-  
-  
-
-      </a>
-    </li>
-  
-
-                
-              
-                
-                  
-  
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="../../Dolci/Savoiardi/" class="md-nav__link">
-        
-  
-  
-  <span class="md-ellipsis">
-    
-  
-  Savoiardi
-
-    
-  </span>
-  
-  
-
-      </a>
-    </li>
-  
-
-                
-              
-                
-                  
-  
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="../../Dolci/Torta%20di%20Mele/" class="md-nav__link">
-        
-  
-  
-  <span class="md-ellipsis">
-    
-  
-  Torta di Mele
-
-    
-  </span>
-  
-  
-
-      </a>
-    </li>
-  
-
-                
-              
-                
-                  
-  
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="../../Dolci/Tozzetti/" class="md-nav__link">
-        
-  
-  
-  <span class="md-ellipsis">
-    
-  
-  Tozzetti
-
-    
-  </span>
-  
-  
-
-      </a>
-    </li>
-  
-
-                
-              
-            </ul>
-          </nav>
-        
-      
-    </li>
-  
-
-    
-      
-      
-  
-  
-  
-  
-    
-    
-    
-    
-    
-    <li class="md-nav__item md-nav__item--nested">
-      
-        
-        
-        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5" >
-        
-          
-          <label class="md-nav__link" for="__nav_5" id="__nav_5_label" tabindex="0">
-            
-  
-  
-  <span class="md-ellipsis">
-    
-  
-  Pane e pizza
-
-    
-  </span>
-  
-  
-
-            <span class="md-nav__icon md-icon"></span>
-          </label>
-        
-        
-          <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_5_label" aria-expanded="false">
-            <label class="md-nav__title" for="__nav_5">
-              <span class="md-nav__icon md-icon"></span>
-              
-  
-  Pane e pizza
-
-            </label>
-            <ul class="md-nav__list" data-md-scrollfix>
-              
-                
-                  
-  
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="../../Pane%20e%20pizza/Focaccia/" class="md-nav__link">
-        
-  
-  
-  <span class="md-ellipsis">
-    
-  
-  Focaccia
-
-    
-  </span>
-  
-  
-
-      </a>
-    </li>
-  
-
-                
-              
-                
-                  
-  
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="../../Pane%20e%20pizza/Focaccine/" class="md-nav__link">
-        
-  
-  
-  <span class="md-ellipsis">
-    
-  
-  Focaccine
-
-    
-  </span>
-  
-  
-
-      </a>
-    </li>
-  
-
-                
-              
-                
-                  
-  
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="../../Pane%20e%20pizza/Hamburger%20buns%20(tangzhong)/" class="md-nav__link">
-        
-  
-  
-  <span class="md-ellipsis">
-    
-  
-  Hamburger buns (tangzhong)
-
-    
-  </span>
-  
-  
-
-      </a>
-    </li>
-  
-
-                
-              
-                
-                  
-  
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="../../Pane%20e%20pizza/Hamburger%20buns/" class="md-nav__link">
-        
-  
-  
-  <span class="md-ellipsis">
-    
-  
-  Hamburger buns
-
-    
-  </span>
-  
-  
-
-      </a>
-    </li>
-  
-
-                
-              
-                
-                  
-  
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="../../Pane%20e%20pizza/Pane/" class="md-nav__link">
-        
-  
-  
-  <span class="md-ellipsis">
-    
-  
-  Pane
-
-    
-  </span>
-  
-  
-
-      </a>
-    </li>
-  
-
-                
-              
-                
-                  
-  
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="../../Pane%20e%20pizza/Pizza/" class="md-nav__link">
-        
-  
-  
-  <span class="md-ellipsis">
-    
-  
-  Pizza
-
-    
-  </span>
-  
-  
-
-      </a>
-    </li>
-  
-
-                
-              
-            </ul>
-          </nav>
-        
-      
-    </li>
-  
-
-    
-      
-      
-  
-  
-  
-  
-    
-    
-    
-    
-    
-    <li class="md-nav__item md-nav__item--nested">
-      
-        
-        
-        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_6" >
-        
-          
-          <label class="md-nav__link" for="__nav_6" id="__nav_6_label" tabindex="0">
-            
-  
-  
-  <span class="md-ellipsis">
-    
-  
-  Primi
-
-    
-  </span>
-  
-  
-
-            <span class="md-nav__icon md-icon"></span>
-          </label>
-        
-        
-          <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_6_label" aria-expanded="false">
-            <label class="md-nav__title" for="__nav_6">
-              <span class="md-nav__icon md-icon"></span>
-              
-  
-  Primi
-
-            </label>
-            <ul class="md-nav__list" data-md-scrollfix>
-              
-                
-                  
-  
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="../../Primi/Assassina/" class="md-nav__link">
-        
-  
-  
-  <span class="md-ellipsis">
-    
-  
-  Assassina
-
-    
-  </span>
-  
-  
-
-      </a>
-    </li>
-  
-
-                
-              
-                
-                  
-  
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="../../Primi/Paella%20di%20carne/" class="md-nav__link">
-        
-  
-  
-  <span class="md-ellipsis">
-    
-  
-  Paella di carne
-
-    
-  </span>
-  
-  
-
-      </a>
-    </li>
-  
-
-                
-              
-                
-                  
-  
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="../../Primi/Passatelli%20alla%20marchigiana/" class="md-nav__link">
-        
-  
-  
-  <span class="md-ellipsis">
-    
-  
-  Passatelli alla marchigiana
-
-    
-  </span>
-  
-  
-
-      </a>
-    </li>
-  
-
-                
-              
-                
-                  
-  
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="../../Primi/Pasta%20e%20Ceci/" class="md-nav__link">
-        
-  
-  
-  <span class="md-ellipsis">
-    
-  
-  Pasta e Ceci
-
-    
-  </span>
-  
-  
-
-      </a>
-    </li>
-  
-
-                
-              
-                
-                  
-  
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="../../Primi/Puttanesca/" class="md-nav__link">
-        
-  
-  
-  <span class="md-ellipsis">
-    
-  
-  Puttanesca
-
-    
-  </span>
-  
-  
-
-      </a>
-    </li>
-  
-
-                
-              
-                
-                  
-  
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="../../Primi/Ravioli%20alla%20norma/" class="md-nav__link">
-        
-  
-  
-  <span class="md-ellipsis">
-    
-  
-  Ravioli alla norma
-
-    
-  </span>
-  
-  
-
-      </a>
-    </li>
-  
-
-                
-              
-                
-                  
-  
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="../../Primi/Ravioli%20zucca%20e%20zenzero/" class="md-nav__link">
-        
-  
-  
-  <span class="md-ellipsis">
-    
-  
-  Ravioli zucca e zenzero
-
-    
-  </span>
-  
-  
-
-      </a>
-    </li>
-  
-
-                
-              
-                
-                  
-  
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="../../Primi/Zuppa%20di%20Lenticchie/" class="md-nav__link">
-        
-  
-  
-  <span class="md-ellipsis">
-    
-  
-  Zuppa di Lenticchie
-
-    
-  </span>
-  
-  
-
-      </a>
-    </li>
-  
-
-                
-              
-            </ul>
-          </nav>
-        
-      
-    </li>
-  
-
-    
-      
-      
-  
-  
-    
-  
-  
-  
-    
-    
-    
-    
-    
-    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
-      
-        
-        
-        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_7" checked>
-        
-          
-          <label class="md-nav__link" for="__nav_7" id="__nav_7_label" tabindex="0">
-            
-  
-  
-  <span class="md-ellipsis">
-    
-  
-  Salse
-
-    
-  </span>
-  
-  
-
-            <span class="md-nav__icon md-icon"></span>
-          </label>
-        
-        
-          <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_7_label" aria-expanded="true">
-            <label class="md-nav__title" for="__nav_7">
-              <span class="md-nav__icon md-icon"></span>
-              
-  
-  Salse
-
-            </label>
-            <ul class="md-nav__list" data-md-scrollfix>
-              
-                
-                  
-  
-  
-    
-  
-  
-  
-    <li class="md-nav__item md-nav__item--active">
-      
-      
-      
-      
-      
-        <label class="md-nav__link md-nav__link--active" for="__toc">
-          
-  
-  
-  <span class="md-ellipsis">
-    
-  
-  Besciamella Bimby
-
-    
-  </span>
-  
-  
-
-          <span class="md-nav__icon md-icon"></span>
-        </label>
-      
-      <a href="././" class="md-nav__link md-nav__link--active">
-        
-  
-  
-  <span class="md-ellipsis">
-    
-  
-  Besciamella Bimby
-
-    
-  </span>
-  
-  
-
-      </a>
-      
-        
-
-
-<nav class="md-nav md-nav--secondary" aria-label="Indice">
-  
-  
-  
-  
-    <label class="md-nav__title" for="__toc">
-      <span class="md-nav__icon md-icon"></span>
-      Indice
-    </label>
-    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
-      
-        <li class="md-nav__item">
-  <a href="#ingredienti" class="md-nav__link">
-    <span class="md-ellipsis">
-      <span class="md-typeset">
-        🧾 Ingredienti
-      </span>
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#preparazione" class="md-nav__link">
-    <span class="md-ellipsis">
-      <span class="md-typeset">
-        👩‍🍳 Preparazione
-      </span>
-    </span>
-  </a>
-  
-</li>
-      
     </ul>
-  
 </nav>
-      
-    </li>
-  
-
-                
-              
-                
-                  
-  
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="../Crostino%20toscano/" class="md-nav__link">
-        
-  
-  
-  <span class="md-ellipsis">
-    
-  
-  Crostino toscano
-
-    
-  </span>
-  
-  
-
-      </a>
-    </li>
-  
-
-                
-              
-                
-                  
-  
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="../Hummus/" class="md-nav__link">
-        
-  
-  
-  <span class="md-ellipsis">
-    
-  
-  Hummus
-
-    
-  </span>
-  
-  
-
-      </a>
-    </li>
-  
-
-                
-              
-                
-                  
-  
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="../Pico%20de%20Gallo/" class="md-nav__link">
-        
-  
-  
-  <span class="md-ellipsis">
-    
-  
-  Pico de Gallo
-
-    
-  </span>
-  
-  
-
-      </a>
-    </li>
-  
-
-                
-              
-                
-                  
-  
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="../Salsa%20Roja%20all'Habanero/" class="md-nav__link">
-        
-  
-  
-  <span class="md-ellipsis">
-    
-  
-  Salsa Roja all'Habanero
-
-    
-  </span>
-  
-  
-
-      </a>
-    </li>
-  
-
-                
-              
-            </ul>
-          </nav>
-        
-      
-    </li>
-  
-
-    
-      
-      
-  
-  
-  
-  
-    
-    
-    
-    
-    
-    <li class="md-nav__item md-nav__item--nested">
-      
-        
-        
-        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_8" >
-        
-          
-          <label class="md-nav__link" for="__nav_8" id="__nav_8_label" tabindex="0">
-            
-  
-  
-  <span class="md-ellipsis">
-    
-  
-  Secondi
-
-    
-  </span>
-  
-  
-
-            <span class="md-nav__icon md-icon"></span>
-          </label>
-        
-        
-          <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_8_label" aria-expanded="false">
-            <label class="md-nav__title" for="__nav_8">
-              <span class="md-nav__icon md-icon"></span>
-              
-  
-  Secondi
-
-            </label>
-            <ul class="md-nav__list" data-md-scrollfix>
-              
-                
-                  
-  
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="../../Secondi/Curry/" class="md-nav__link">
-        
-  
-  
-  <span class="md-ellipsis">
-    
-  
-  Curry di pollo con il Bimby
-
-    
-  </span>
-  
-  
-
-      </a>
-    </li>
-  
-
-                
-              
-                
-                  
-  
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="../../Secondi/Peperoni%20ripieni%20al%20tonno/" class="md-nav__link">
-        
-  
-  
-  <span class="md-ellipsis">
-    
-  
-  Peperoni ripieni al tonno
-
-    
-  </span>
-  
-  
-
-      </a>
-    </li>
-  
-
-                
-              
-                
-                  
-  
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="../../Secondi/Polpette%20di%20polpo/" class="md-nav__link">
-        
-  
-  
-  <span class="md-ellipsis">
-    
-  
-  Polpette di polpo
-
-    
-  </span>
-  
-  
-
-      </a>
-    </li>
-  
-
-                
-              
-                
-                  
-  
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="../../Secondi/Seppie%20in%20Zimino/" class="md-nav__link">
-        
-  
-  
-  <span class="md-ellipsis">
-    
-  
-  Seppie in Zimino
-
-    
-  </span>
-  
-  
-
-      </a>
-    </li>
-  
-
-                
-              
-            </ul>
-          </nav>
-        
-      
-    </li>
-  
-
-    
-  </ul>
-</nav>
-                  </div>
-                </div>
-              </div>
-            
-            
-              
-              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
-                <div class="md-sidebar__scrollwrap">
-                  
-                    
-                    
-                    
-                    
-                      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
-                      <div class="md-sidebar-button__wrapper">
-                        <label class="md-sidebar-button" for="__toc"></label>
-                      </div>
-                    
-                  
-                  <div class="md-sidebar__inner">
-                    
-
-
-<nav class="md-nav md-nav--secondary" aria-label="Indice">
-  
-  
-  
-  
-    <label class="md-nav__title" for="__toc">
-      <span class="md-nav__icon md-icon"></span>
-      Indice
-    </label>
-    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
-      
-        <li class="md-nav__item">
-  <a href="#ingredienti" class="md-nav__link">
-    <span class="md-ellipsis">
-      <span class="md-typeset">
-        🧾 Ingredienti
-      </span>
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#preparazione" class="md-nav__link">
-    <span class="md-ellipsis">
-      <span class="md-typeset">
-        👩‍🍳 Preparazione
-      </span>
-    </span>
-  </a>
-  
-</li>
-      
-    </ul>
-  
-</nav>
-                  </div>
-                </div>
-              </div>
-            
-          
+ 
           
             <div class="md-content" data-md-component="content">
               
@@ -2547,6 +878,8 @@
       <script src="../../assets/javascripts/bundle.c04ba553.min.js"></script>
       
         <script src="../../javascripts/cucina.js"></script>
+      
+        <script src="../../javascripts/sito.js"></script>
       
     
 <script>
