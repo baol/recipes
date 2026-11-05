@@ -32,6 +32,7 @@ comments: "true"
 
 1. Inserire le verdure in un barattolo
 2. Riempire il barattolo della soluzione di acqua, aceto sale e zucchero (a freddo per un colore e una consistenza migliori)
+3. Lasciare in frigo un giorno prima di consumare
 
 ## 💡 Consigli
 
