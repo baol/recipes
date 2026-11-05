@@ -9,7 +9,7 @@
         {% for item in nav.items if item.children %}
         <li>
             <details name="categoria" {% if item.active %}open{% endif %}>
-                <summary><span>{{ item.title }}</span> <small>({{ item.children | length }})</small></summary>
+                <summary><span>{{ item.title }}</span> <small><span class="par">(</span>{{ item.children | length }}<span class="par">)</span></small></summary>
                 <ul>
                     {% for child in item.children %}
                     <li><a href="{{ child.url | url }}" {% if child.active %}aria-current="page"{% endif %}>{{ child.title }}</a></li>
