@@ -43,7 +43,7 @@ Aggiungere la panna liquida e mescolare senza incorporare aria.
 
 Dividere in contenitori richiudibili in 5 o 6 porzioni da 150g circa (eg Weck Gourmet Jars 165 ml Jars RR80 with Glass Lid).
 ![Crème brûlée preparata sous vide](../images/creme-brulee-sous-vide.jpeg)
-Se si sono formare bolle in superficie, scoppiarle con il bruciatore.
+Se si sono formate bolle in superficie, scoppiarle con il bruciatore.
 
 Chiudere i barattoli senza stringere troppo.
 
