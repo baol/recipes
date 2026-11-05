@@ -35,9 +35,9 @@ La prima torta che Mirko abbia mai fatto
 
 1. Pre-riscaldare il forno a 180°
 2. Montare burro e zucchero
-3. Aggiungere i tuorli
+3. Separare l'uovo e aggiungere il tuorlo
 4. Aggiungere farina, lievito, latte
-5. Unire gli albumi a neve (mescolando dolcemente dal basso verso l'alto)
+5. Unire l'albume montato a neve (mescolando dolcemente dal basso verso l'alto)
 6. Inserire in una teglia imburrata e infarinata
 7. Decorare con fettine di mela tagliate sottili (sedicesimi)
 8. Spolverare con lo zucchero
