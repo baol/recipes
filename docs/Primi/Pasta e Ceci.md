@@ -40,7 +40,7 @@ Nella foto presentati con tubetti freschi all'uovo (cfr. [pasta al torchio](../B
 1. Rosolare aglio e rosmarino 5 minuti a fuoco basso
 2. Levare il rosmarino e aggiungere cipolla, sedano e carota a cubetti piccoli o frullati, e il concentrato di pomodoro
 3. Soffriggere una decina di minuti a fuoco basso
-4. Aggiungere i ceci (di cui 2 mestoli frullati con il Minipimer) con la loro acqua
+4. Aggiungere i ceci (di cui 2 mestoli frullati con il Minipimer) con la loro acqua e aggiustare di sale
 5. Cuocere la pasta (fresca all'uovo) per qualche minuto insieme ai ceci brodosi
    - Se si usa pasta secca che richiede una cottura piu' lunga, scolare al dente e fare insaporire ed asciugare nell'acqua con i ceci e il soffritto.
 
