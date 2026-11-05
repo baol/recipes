@@ -40,7 +40,7 @@ comments: "true"
 
 **Sugo**
 
-- Arissa
+- Harissa
 - Aglio
 - Concentrato di pomodoro
 - Poca passata di pomodoro
