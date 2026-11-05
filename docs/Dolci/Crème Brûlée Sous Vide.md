@@ -37,7 +37,7 @@ comments: "true"
 
 Riscaldare un contenitore capiente pieno d’acqua a 80° con il riscaldatore sous-vide.
 
-Mescolare i tuorli con lo zucchero.
+Mescolare i tuorli con lo zucchero e il sale.
 
 Aggiungere la panna liquida e mescolare senza incorporare aria.
 
