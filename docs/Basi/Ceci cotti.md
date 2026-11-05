@@ -20,15 +20,11 @@ comments: "true"
 ## 🧾 Ingredienti
 
 - 250 g Ceci secchi
-- 1 Chiodo di garofano
-- 1 Bacca di ginepro
-- 1 Foglia di alloro
-- Sale q.b.
 
 ## 👩‍🍳 Preparazione
 
 - Coprire di acqua e lasciare in ammollo per 24-72h cambiando l'acqua ogni giorno
-- Cuocere in pentola a pressione coperti da 1 o 2 dita d'acqua, con gli aromi e il sale, per 45' dal fischio a fuoco basso
+- Cuocere in pentola a pressione coperti da 1 o 2 dita d'acqua per 45' dal fischio a fuoco basso
 
 ## 💡 Consigli
 
