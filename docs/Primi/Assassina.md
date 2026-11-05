@@ -27,7 +27,7 @@ comments: "true"
 - 1 Aglio (o aglione)
 - Olio EVO
 - 2 cucchiai Concentrato di pomodoro
-- q Peperoncino
+- q.b. Peperoncino
 
 **Brodo di pomodoro**
 
@@ -39,7 +39,7 @@ comments: "true"
 ## 👩‍🍳 Preparazione
 
 - Preparate il brodo di pomodoro con sale, concentrato, acqua e passata in un pentolino e far bollire qualche minuto, tenere caldo.
-- Soffriggere l'agio a pezzi grossi, il concentrato di pomodoro e il peperoncino in una pentola abbastanza grande da ospitare gli spaghetti per lungo e possibilmente anti-aderente.
+- Soffriggere l'aglio a pezzi grossi, il concentrato di pomodoro e il peperoncino in una pentola abbastanza grande da ospitare gli spaghetti per lungo e possibilmente anti-aderente.
 
 ![Pasta all’assassina in padella](../images/pasta-assassina-padella.jpeg)
 
