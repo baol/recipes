@@ -4,6 +4,34 @@
 written in Markdown so that they can be maintained in Obsidian or any text
 editor, reviewed on GitHub, and published as a searchable static website.
 
+## Design principles
+
+The site must work for everyone, on any device, before it works well for anyone.
+
+1. **Content and navigation work without JavaScript.** Every recipe, the
+   recipe list, the categories and the link back home are plain HTML: links,
+   lists and `<details>`/`<summary>`. Scripts only add extras on top (search,
+   the cooking view, timers, keeping the screen on), and the page stays
+   complete when they are off or fail.
+2. **The site reads in a text-only browser.** In `links`, `lynx` or `w3m`, or
+   with CSS turned off, a page is a title, one list of recipes and the recipe
+   in reading order. Nothing appears twice, and nothing important exists only
+   as an image or a style.
+3. **Accessible by construction.** Use real elements: `<a href>` to go
+   somewhere, `<button>` to do something, `<nav>` with a label, headings in
+   order. Add ARIA only when HTML has no element for the job. Everything works
+   with the keyboard, focus stays visible, and text keeps at least 4.5:1
+   contrast.
+4. **One markup, many layouts.** Phone, tablet and desktop get the same HTML;
+   CSS rearranges it (a column on wide screens, rows on narrow ones). No
+   content is hidden on one screen size without being reachable on the others.
+5. **Recipes come first.** The start of a recipe (title, ingredients, the
+   cooking view button) is visible on the first screen. Photos stay at full
+   quality but never push the recipe out of view.
+
+Every pull request is checked against these principles: see the manual QA
+checklist in the pull request template.
+
 ## Repository structure
 
 | Path                  | Purpose                                                     |
