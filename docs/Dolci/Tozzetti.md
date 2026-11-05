@@ -34,7 +34,7 @@ comments: "true"
 3. Mescolare tutti gli ingredienti (salvo le mandorle)
 4. Se l'impasto e' troppo morbido aggiungere un po' di farina
 5. Incorporare le mandorle dopo averle lasciate raffreddare un po' e averle strofinate in uno strofinaccio.
-6. Disporre sulla leccarda dei bastoncini di impasto larghi 3cm e alti 2cm a una certa distanza tra loro.
+6. Disporre sulla leccarda dei bastoncini di impasto larghi 3cm e alti 2cm a una certa distanza tra loro e spolverare di zucchero.
 7. Infornare per 20' a 180º
 8. Lasciare raffreddare
 9. Tagliare a fette di 1 o 2 cm.
