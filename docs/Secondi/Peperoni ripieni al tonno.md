@@ -42,10 +42,11 @@ comments: "true"
 ![Peperoni sbollentati prima della farcitura](../images/peperoni-sbollentati.jpeg)
 
 3. Tritare e mescolare gli altri ingredienti per il ripieno
-4. Farcire i peperoni e disporli in teglia
 
 ![Ripieno al tonno per i peperoni](../images/peperoni-al-tonno-ripieno.jpeg)
 
-5. Infornare 20' a 180°C
+4. Farcire i peperoni e disporli in teglia
 
 ![Peperoni ripieni al tonno disposti in teglia](../images/peperoni-al-tonno-in-teglia.jpeg)
+
+5. Infornare 20' a 180°C

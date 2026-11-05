@@ -5,6 +5,7 @@ from pathlib import Path
 from urllib.parse import unquote, urlsplit
 
 from markdown.extensions import Extension
+from markdown.preprocessors import Preprocessor
 from markdown.treeprocessors import Treeprocessor
 from PIL import Image
 from zensical.extensions.context import ContextPreprocessor
@@ -91,8 +92,25 @@ class RecipeTreeprocessor(Treeprocessor):
             img.set('loading', 'eager' if index == 0 else 'lazy')
 
 
+NESTED = re.compile(r'^ {2,3}(?=[-*+] |\d+\. |!\[)')
+LIST_ITEM = re.compile(r'^(?: {0,3}[-*+] | {0,3}\d+\. | {4})')
+
+
+class NestedListPreprocessor(Preprocessor):
+    """Prettier indents sub-items by 2-3 spaces; Python-Markdown needs 4."""
+
+    def run(self, lines):
+        out = []
+        for line in lines:
+            if NESTED.match(line) and out and LIST_ITEM.match(out[-1]):
+                line = '    ' + line.lstrip(' ')
+            out.append(line)
+        return out
+
+
 class RecipeExtension(Extension):
     def extendMarkdown(self, md):
+        md.preprocessors.register(NestedListPreprocessor(md), 'recipe_nested_lists', 25)
         # After inline markup, before TOC anchors and relative URL rewriting.
         md.treeprocessors.register(RecipeTreeprocessor(md), 'recipe_seo', 8)
 

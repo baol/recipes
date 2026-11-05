@@ -36,6 +36,18 @@ Obsidian vault and lets the site generator derive navigation from the files.
 4. Put images in `docs/images/` and link them relative to the recipe—for example,
    `![](../images/my-recipe.jpeg)`.
 5. Preview the site and run the formatting check before opening a pull request.
+6. Open every changed page in the local preview at phone width and check it by
+   hand (see the checklist in the pull request template).
+
+Conventions checked automatically by `tests/test_recipe_conventions.py`:
+
+- Preparation steps are a numbered list (`1.`), never `-` bullets. Numbering
+  continues across photos and bold sub-headings; a short closing sentence may
+  stay unnumbered.
+- When the yield is known, the first ingredient is
+  `- Dose per N persone` (or `muffin`, `pancakes`, `bicchieri`). It drives
+  `recipeYield` and portion scaling; leave it out when unknown.
+- Links have no space between `]` and `(`.
 
 The [recipe template](Templates/Recipe.md) is the single source of truth for
 recipe structure and contains examples of supported Markdown. Update it directly
@@ -59,7 +71,6 @@ data:
 | `image_alt`      | Descriptive text          | Accessible description of the main image |
 | `category`       | Text                      | Course or recipe category                |
 | `cuisine`        | Text                      | Culinary tradition, when attributable    |
-| `servings`       | Positive whole number     | Number of servings                       |
 | `prep_time`      | ISO 8601 duration         | Active preparation time                  |
 | `cook_time`      | ISO 8601 duration         | Cooking time                             |
 | `total_time`     | ISO 8601 duration         | Overall preparation time                 |
