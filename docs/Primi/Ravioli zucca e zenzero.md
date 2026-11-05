@@ -43,7 +43,7 @@ comments: "true"
 
 ## 👩‍🍳 Preparazione
 
-- Cuocere in forno per 20 - 40 minuti (fino a che sia la zucca che le fette di cipolla non sono facili da spappolare con una forchetta)
+- Cuocere in forno zucca e cipolla a 160° ventilato per 20 - 40 minuti (fino a che sia la zucca che le fette di cipolla non sono facili da spappolare con una forchetta)
   - Le cipolle a fette cosparse di zucchero mascobado
   - La zucca a fette
 - Tritare il rosmarino
