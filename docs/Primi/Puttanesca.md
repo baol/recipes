@@ -36,7 +36,8 @@ La puttanesca come la faccio io.
 4. Aggiungere il pomodoro e cuocere 10-15'
 5. Cospargere di un bel pizzico di origano a persona
 6. Aggiustare di sale e pepe
-7. Scolare la pasta un po' al dente e mantecare un minuto nel sugo con un po' d'acqua di cottura.
+
+Scolare la pasta un po' al dente e mantecare un minuto nel sugo con un po' d'acqua di cottura.
 
 ## 💡 Consigli
 
