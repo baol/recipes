@@ -13,6 +13,8 @@ tags:
   - Basi
   - Ceci
 comments: "true"
+cucina_abbinamenti:
+  "ammollo": [Ceci]
 ---
 
 ![Ceci cotti](../images/ceci-cotti.jpeg)

@@ -14,6 +14,8 @@ tags:
   - Dolci
   - Cucchiaio
 comments: "true"
+cucina_abbinamenti:
+  "i solidi": [Farina, Zucchero, lievito, Sale]
 ---
 
 ![Pancakes Classici](../images/pancakes.jpeg)

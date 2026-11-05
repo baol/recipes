@@ -16,6 +16,8 @@ tags:
   - Kenwood
   - Basi
 comments: "true"
+cucina_abbinamenti:
+  "sfarinato": [Semola]
 ---
 
 ![Pasta al torchio](../images/pasta-al-torchio.jpeg)

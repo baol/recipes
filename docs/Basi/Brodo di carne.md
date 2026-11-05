@@ -14,6 +14,17 @@ tags:
   - Primi
   - Basi
 comments: "true"
+cucina_abbinamenti:
+  "la carne e le verdure":
+    - Gallina
+    - Muscolo
+    - Sedano
+    - Carota
+    - Cipolla
+    - Pomodoro
+    - Chiodo
+    - alloro
+    - ginepro
 ---
 
 ![Brodo di carne](../images/brodo-di-carne.jpeg)

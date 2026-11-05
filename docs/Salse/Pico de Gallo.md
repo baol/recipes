@@ -10,6 +10,8 @@ cuisine: "Messicana"
 tags:
   - Messicana
 comments: "true"
+cucina_abbinamenti:
+  "mescola tutto": [pomodori, jalapeño, cipolla, Lime, Sale, Coriandolo]
 ---
 
 Ottimo per Fajitas e Nachos

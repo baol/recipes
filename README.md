@@ -49,6 +49,26 @@ Conventions checked automatically by `tests/test_recipe_conventions.py`:
   `recipeYield` and portion scaling; leave it out when unknown.
 - Links have no space between `]` and `(`.
 
+### Cooking view
+
+Every recipe page has a **Modalità cucina** button
+(`docs/javascripts/cucina.js`, `docs/stylesheets/cucina.css`). It reads the
+_Ingredienti_ and _Preparazione_ sections, starts with a mise en place screen
+(all ingredients, and the dose when a `Dose per` line exists), then shows one
+step at a time with that step's ingredients first and highlighted.
+
+Ingredients are matched to steps automatically by their words. Generic phrases
+are handled too: "tutti gli ingredienti", "gli altri ingredienti",
+"a parte …", ingredient group names ("il soffritto", "i liquidi"), "tuorli" and
+"albumi" for eggs, "soffriggere"/"rosolare" for oil and "salare" for salt.
+When a step uses words the ingredient list does not, add a correction to the
+recipe's front matter, mapping the phrase to parts of ingredient names:
+
+```yaml
+cucina_abbinamenti:
+  "tre spezie": [Cumino, Curry, Timo]
+```
+
 The [recipe template](Templates/Recipe.md) is the single source of truth for
 recipe structure and contains examples of supported Markdown. Update it directly
 when the shared format changes instead of duplicating those conventions here.

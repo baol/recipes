@@ -15,6 +15,8 @@ tags:
   - SousVide
   - Uova
 comments: "true"
+cucina_abbinamenti:
+  "bruciatore": [Cannello]
 ---
 
 ![Crème Brûlée Sous Vide](../images/creme-brulee.jpeg)

@@ -14,6 +14,8 @@ tags:
   - Legumi
   - Primi
 comments: "true"
+cucina_abbinamenti:
+  "tre spezie": [Cumino, Curry, Timo]
 ---
 
 ![Zuppa di lenticchie](../images/zuppa-di-lenticchie.jpeg)
