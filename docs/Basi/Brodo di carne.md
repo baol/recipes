@@ -34,7 +34,7 @@ Il brodo di carne delle feste!
 
 ## 👩‍🍳 Preparazione
 
-Mettere la carne e le verdure intere in una grossa pentola con alcuni litri d'acqua e bollire a fuoco basso per 2-4 ore senza coperchio. Rimuovere la schiuma dalla superficie di tanto in tanto con una schiumarola.
+Mettere la carne e le verdure intere in una grossa pentola con 3 o 4 litri d'acqua e bollire a fuoco basso per 2-4 ore senza coperchio. Rimuovere la schiuma dalla superficie di tanto in tanto con una schiumarola.
 
 A fine cottura filtrare con un panno di cotone neutro alimentare.
 
