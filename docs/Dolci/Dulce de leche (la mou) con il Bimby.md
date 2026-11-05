@@ -33,4 +33,4 @@ La crema mou da spalmare sul pane o da versare su gelato, waffel o pancakes.
 
 ## 💡 Consigli
 
-Dopo un’ora controllare densità (in un piattino per raffreddarla) e il colore (dovrebbe caramellare un po’).
+Dopo un’ora controllare densità (in un piattino per raffreddarla) e il colore (dovrebbe caramellare un po’). Se non è pronto, proseguire a Varoma 10' alla volta.
