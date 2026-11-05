@@ -24,7 +24,7 @@ comments: "true"
 
 - 4 Persone
 - 320 g Spaghetti (con poco amido, tipo i Barilla)
-- 1 Aglio (o aglione)
+- 4-6 spicchi d'Aglio (o un pezzo di aglione)
 - Olio EVO
 - 2 cucchiai Concentrato di pomodoro
 - q.b. Peperoncino
