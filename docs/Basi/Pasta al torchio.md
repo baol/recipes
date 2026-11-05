@@ -23,8 +23,8 @@ comments: "true"
 ## 🧾 Ingredienti
 
 - 3 Servings
-- 2 Uova o 32g di acqua
-- 160-200 g Farina di Semola
+- 1 Uovo + 10 g di acqua (o 65 g di acqua): idratazione 32%
+- 200 g Semola rimacinata
 
 ## 👩‍🍳 Preparazione
 
