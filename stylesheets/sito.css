@@ -147,8 +147,12 @@
     border-radius: 9px;
     font-size: 15px;
   }
-  .ricette-nav summary span {
+  .ricette-nav summary > span {
     flex: 1;
+  }
+  /* The parentheses are only for text browsers. */
+  .ricette-nav summary .par {
+    display: none;
   }
   .ricette-nav summary small {
     font-size: 12px;
