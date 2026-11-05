@@ -31,6 +31,7 @@ Il brodo di carne delle feste!
 - 1 Chiodo di garofano
 - 1 Foglia di alloro
 - 1 Bacca di ginepro
+- Sale q.b.
 
 ## 👩‍🍳 Preparazione
 
