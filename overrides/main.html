@@ -20,7 +20,10 @@
         {% endfor %}
     </ul>
 </nav>
-<button class="ricette-apri" type="button" popovertarget="ricette-nav">☰ Ricette</button>
+<button class="ricette-apri" type="button" popovertarget="ricette-nav">
+    <span aria-hidden="true">☰</span>
+    <span class="ricette-dove">{% for item in nav.items if item.active and item.children %}{{ item.title }} › {{ page.title }}{% else %}Ricette{% endfor %}</span>
+</button>
 {% endif %} {% endblock %} {% block content %} {{ super() }}
 {% if page.meta and page.meta.cucina_abbinamenti %}
 <script type="application/json" id="cucina-abbinamenti">
