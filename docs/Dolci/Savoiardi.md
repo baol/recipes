@@ -37,7 +37,7 @@ comments: "true"
 5. Incorporare i bianchi a neve e le polveri setacciate nei tuorli a poco a poco mescolando con un cucchiaio di legno dal basso verso l'alto
 6. Inserire in una sac-a-poche e formare dei vermi ben spaziati su una teglia ricoperta di carta da forno o tappetino in silicone
 7. Cospargere i biscotti di zucchero
-8. Informare per 10-11'
+8. Infornare per 10-11'
 
 ## 💡 Consigli
 
