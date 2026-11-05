@@ -35,5 +35,5 @@ comments: "true"
 
 ## 💡 Consigli
 
-- Usare spessore 2 per lasagne e ravioli
-- Usare spessore 1 o 2 per tortellini e cappelletti
+- Usare il penultimo spessore della Imperia per lasagne e ravioli
+- Usare l'ultimo o il penultimo spessore della Imperia per tortellini e cappelletti
