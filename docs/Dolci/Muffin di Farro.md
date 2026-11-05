@@ -25,7 +25,7 @@ comments: "true"
 
 - 4 tazze Farina di Farro 630
 - 1 cucchiaino Sale
-- 1 tazza Zucchero (mascobado)
+- 1 tazza Zucchero (muscovado)
 - 1 bustina Vaniglia
 - 1 bustina Lievito
 
@@ -43,7 +43,7 @@ comments: "true"
 4. Aggiungere i liquidi alle polveri e mescolare appena
 5. Inserire nelle tegliette da muffin, fino a 3/4
 6. Spolverare di zucchero
-7. Informare 20' circa
+7. Infornare 20' circa
 
 ## 💡 Consigli
 
