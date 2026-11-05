@@ -41,3 +41,5 @@ Per cuocere la pizza a pranzo iniziare l'impasto verso le 11 del mattino **del g
 - Tirare fuori le palline 3-4 ore prima di usarle
 
 Infornare nel forno di casa su una leccarda calda o in un forno da pizza (e.g. Roccbox) dopo aver steso e condito a piacere.
+
+Nel Roccbox: 400-450° per circa 90", girando la pizza di 90° ogni 25".
