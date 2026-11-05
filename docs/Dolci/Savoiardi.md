@@ -31,7 +31,7 @@ comments: "true"
 ## 👩‍🍳 Preparazione
 
 1. Pre-riscaldare il forno a 200°
-2. Montare gli albumi a neve e aggiungere 100 g di zucchero poco a poco
+2. Montare gli albumi a neve con un pizzico di sale e aggiungere 100 g di zucchero poco a poco
 3. Montare tuorli e 40 g di zucchero
 4. Setacciare farina, fecola e vanillina
 5. Incorporare i bianchi a neve e le polveri setacciate nei tuorli a poco a poco mescolando con un cucchiaio di legno dal basso verso l'alto
