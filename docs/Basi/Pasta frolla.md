@@ -41,3 +41,5 @@ Formare una palla e mettere in frigo per 40', quindi stendere con un matterello 
 ## 💡 Consigli
 
 Ottima per crostate di marmellata e biscotti.
+
+Cuocere a 160° ventilato: la crostata per circa 20', i biscotti per circa 8' (controllare il colore).
