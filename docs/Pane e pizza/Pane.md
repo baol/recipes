@@ -19,7 +19,7 @@ comments: "true"
 
 ## 🧾 Ingredienti
 
-- 800g farina
+- 800g farina tipo 0 forte (o circa 2/3 tipo 0 e 1/3 Manitoba)
 - 480ml acqua (possibile sostituire fino al 50% con bianco d'uovo)
 - 10g sale
 - 200g lievito madre
