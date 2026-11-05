@@ -44,7 +44,7 @@ comments: "true"
 2. Aggiungere l'uovo, un cucchiaio di olio, e mescolare bene.
 3. Aggiungere il latte a poco a poco per non formare grumi e fino a raggiungere la consistenza desiderata (che deve essere piuttosto liquida, ma mantenere la forma quando versata nella padella calda)
 4. Se possibile far riposare l'impasto un paio d'ore (o una notte in frigorifero)
-5. Cuocere in padella a 180°
+5. Cuocere in padella a 180° e girare quando compaiono le bollicine in superficie
 
 ## 💡 Consigli
 
