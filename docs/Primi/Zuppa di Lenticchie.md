@@ -47,5 +47,6 @@ comments: "true"
 4. Aggiungere il brodo e le lenticchie secche e bollire per 30 minuti semi-coperto, aggiungendo l'acqua man mano se si asciuga.
 5. Opzionalmente frullare circa 1/5 della zuppa con un frullatore a immersione.
 6. Aggiustare di sale e pepe.
-7. Aggiungere le foglie di cavolo e cuocere per 5 minuti.
-8. Servire con una foglia di cavolo a crudo e qualche goccia di limone.
+7. Aggiungere i ditalini e cuocerli nella zuppa, allungando con acqua se serve.
+8. Aggiungere le foglie di cavolo e cuocere per 5 minuti.
+9. Servire con una foglia di cavolo a crudo e qualche goccia di limone.
