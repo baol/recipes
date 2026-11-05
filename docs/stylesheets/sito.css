@@ -87,6 +87,12 @@
       text-align: left;
       cursor: pointer;
     }
+    .ricette-dove {
+      min-width: 0;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+    }
     .md-footer-meta {
       padding-bottom: calc(52px + env(safe-area-inset-bottom));
     }
