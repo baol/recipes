@@ -22,7 +22,7 @@ comments: "true"
 
 ## 🧾 Ingredienti
 
-- 3 Servings
+- Dose per 3 persone
 - 1 Uovo + 10 g di acqua (o 65 g di acqua): idratazione 32%
 - 200 g Semola rimacinata
 

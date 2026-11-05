@@ -15,10 +15,9 @@ comments: "true"
 
 ![Bimby per la preparazione della ricetta](../images/bimby.jpeg)
 
-Per 4 persone.
-
 ## 🧾 Ingredienti
 
+- Dose per 4 persone
 - 250 g di farina di mais per polenta non precotta
 - 750–800 ml di acqua
 - 5 g di sale

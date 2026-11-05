@@ -22,7 +22,7 @@ comments: "true"
 
 ## 🧾 Ingredienti
 
-- 3 Servings
+- Dose per 3 persone
 - 2 Uova
 - 80 g Farina tipo 0
 - 80 g Farina di Semola

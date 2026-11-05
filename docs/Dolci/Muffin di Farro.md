@@ -19,7 +19,7 @@ comments: "true"
 
 ## 🧾 Ingredienti
 
-- 12 Muffin
+- Dose per 12 muffin
 
 **Polveri**
 

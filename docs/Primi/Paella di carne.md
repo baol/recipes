@@ -19,7 +19,7 @@ comments: "true"
 
 ## 🧾 Ingredienti
 
-- 4 persone
+- Dose per 4 persone
 - 1/2 g Zafferano tostato
 - Sale
 - Olio EVO abbondante

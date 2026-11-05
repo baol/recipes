@@ -20,7 +20,7 @@ comments: "true"
 
 ## 🧾 Ingredienti
 
-- 2 Servings
+- Dose per 2 persone
 - 350 g Farina manitoba (Farina forte con almeno 12 o 13g di proteine per 100g)
 - 210 ml Acqua (60% idratazione)
 - 7 g Sale fino

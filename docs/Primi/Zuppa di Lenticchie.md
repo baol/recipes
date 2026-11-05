@@ -17,10 +17,10 @@ comments: "true"
 ---
 
 ![Zuppa di lenticchie](../images/zuppa-di-lenticchie.jpeg)
-Dose per 4 persone.
 
 ## 🧾 Ingredienti
 
+- Dose per 4 persone
 - 50ml Olio d'oliva
 - 1 Cipolla media
 - 2 Carote
