@@ -51,7 +51,7 @@ comments: "true"
 - Grattugiare la ricotta salata
 - Mescolare gli ingredienti dei ripieno
 
-- Farcire i ravioli
+- Distribuire il ripieno sulla sfoglia
 
 ![Chiusura dei ravioli di zucca e zenzero](../images/ravioli-zucca-zenzero-chiusura.jpeg)
 
