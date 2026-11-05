@@ -41,4 +41,4 @@ La prima torta che Mirko abbia mai fatto
 6. Inserire in una teglia imburrata e infarinata
 7. Decorare con fettine di mela tagliate sottili (sedicesimi)
 8. Spolverare con lo zucchero
-9. Informare per circa 45' (provare con uno stecchino sulle labbra se l'impasto al centro e' ancora bagnato)
+9. Infornare per circa 45' (provare con uno stecchino sulle labbra se l'impasto al centro e' ancora bagnato)
