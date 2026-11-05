@@ -75,17 +75,22 @@
       bottom: 0;
       z-index: 3;
       width: 100%;
-      height: calc(52px + env(safe-area-inset-bottom));
+      height: calc(56px + env(safe-area-inset-bottom));
       padding: 0 20px env(safe-area-inset-bottom);
       border: 0;
-      border-top: 1px solid var(--ricette-line);
-      background: #16181d;
+      border-top: 1px solid #3a3d46;
+      background: #1e2027;
+      box-shadow: 0 -4px 12px rgba(0, 0, 0, 0.35);
       color: var(--md-default-fg-color);
       font: inherit;
       font-size: 16px;
       font-weight: 600;
       text-align: left;
       cursor: pointer;
+    }
+    .ricette-apri > [aria-hidden] {
+      color: var(--ricette-accent);
+      font-size: 20px;
     }
     .ricette-dove {
       min-width: 0;
@@ -94,7 +99,7 @@
       white-space: nowrap;
     }
     .md-footer-meta {
-      padding-bottom: calc(52px + env(safe-area-inset-bottom));
+      padding-bottom: calc(56px + env(safe-area-inset-bottom));
     }
   }
   /* On the home page the list is in the page, above the content. */
