@@ -22,7 +22,7 @@ comments: "true"
 ## 🧾 Ingredienti
 
 - [Pasta Frolla](../Basi/Pasta frolla)
-- [Crema pasticcera](../Basi/Crema pasticcera) o [Crema pasticcera Bimby](../Basi/Crema pasticcera Bimby) (dose ridotta)
+- [Crema pasticcera](../Basi/Crema pasticcera) o [Crema pasticcera Bimby](../Basi/Crema pasticcera Bimby) (dose ridotta, 300 ml di latte)
 
 **Riso al latte**
 
@@ -45,7 +45,7 @@ comments: "true"
 - Lessare il riso nel latte per 20' mescolando spesso.
 - Mantecate con poco burro a fuoco spento e lasciate raffreddare
 
-**Preparate la [crema pasticcera](../Basi/Crema pasticcera Bimby) (dose ridotta)**
+**Preparate la [crema pasticcera](../Basi/Crema pasticcera Bimby) (dose ridotta, 300 ml di latte)**
 
 **Preparare i budini di riso**
 
