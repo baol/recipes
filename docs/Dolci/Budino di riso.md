@@ -37,22 +37,22 @@ comments: "true"
 
 ## 👩‍🍳 Preparazione
 
-**Preparare per prima la [pasta frolla](../Basi//Pasta frolla) e riporla in frigo**
+1. Preparare per prima la [pasta frolla](../Basi/Pasta%20frolla.md) e riporla in frigo
 
 **Preparazione del riso al latte**
 
-1. Unire tutti gli ingredienti a parte il riso e riscaldare.
-2. Lessare il riso nel latte per 20' mescolando spesso.
-3. Mantecate con poco burro a fuoco spento e lasciate raffreddare
+2. Unire tutti gli ingredienti a parte il riso e riscaldare.
+3. Lessare il riso nel latte per 20' mescolando spesso.
+4. Mantecate con poco burro a fuoco spento e lasciate raffreddare
 
-**Preparate la [crema pasticcera](../Basi/Crema pasticcera Bimby) (dose ridotta, 300 ml di latte)**
+5. Preparate la [crema pasticcera](../Basi/Crema%20pasticcera%20Bimby.md) (dose ridotta, 300 ml di latte)
 
 **Preparare i budini di riso**
 
-4. Stendere la pasta frolla, e ritagliare 10-12 dischi da circa 9-10cm.
-5. Adagiate i dischi infarinati in uno stampo da muffin per formare delle vaschette con le dita
-6. Mescolate riso e crema non piu' caldi
-7. Riempite i gusci di pasta frolla
-8. Infornate a 160º (ventilato) per circa 35'
+6. Stendere la pasta frolla, e ritagliare 10-12 dischi da circa 9-10cm.
+7. Adagiate i dischi infarinati in uno stampo da muffin per formare delle vaschette con le dita
+8. Mescolate riso e crema non piu' caldi
+9. Riempite i gusci di pasta frolla
+10. Infornate a 160º (ventilato) per circa 35'
 
 Servire tiepidi e spolverizzati di zucchero a velo

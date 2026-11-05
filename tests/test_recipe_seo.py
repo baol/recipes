@@ -69,6 +69,12 @@ Not a step.
         lists = list(ElementTree.fromstring(f'<div>{html}</div>').iter('ol'))
         self.assertEqual([ol.get('start') for ol in lists], [None, '3', None])
 
+    def test_three_space_sub_items_stay_nested(self):
+        html = self.render('1. Cuocere\n   - sotto-punto\n2. Servire\n', {})
+        root = ElementTree.fromstring(f'<div>{html}</div>')
+        self.assertEqual(len(root.find('ol').findall('li')), 2)
+        self.assertEqual(root.find('ol/li/ul/li').text, 'sotto-punto')
+
     def test_local_images_receive_dimensions_and_loading_during_render(self):
         (self.docs / 'images').mkdir()
         Image.new('RGB', (120, 80)).save(self.docs / 'images/foto uno.jpg')
