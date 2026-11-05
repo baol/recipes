@@ -506,3 +506,137 @@ html.cucina-aperta body {
     font-size: 15px;
   }
 }
+
+/* Tablets (iPad): larger type to read from the stove; phones are unaffected. */
+@media (min-width: 700px) and (min-height: 700px) {
+  .ck-ing {
+    width: min(380px, 36vw);
+    padding: 20px 16px 16px 20px;
+  }
+  .ck-main {
+    padding: 20px 32px 20px 36px;
+    gap: 12px;
+  }
+  .ck-dose,
+  .ck-mise-dose {
+    font-size: 15px;
+  }
+  .ck-list li {
+    min-height: 34px;
+  }
+  .ck-qty {
+    width: 124px;
+    font-size: 15px;
+  }
+  .ck-name {
+    font-size: 17px;
+  }
+  .ck-list li.ck-on {
+    min-height: 42px;
+  }
+  .ck-on .ck-qty {
+    font-size: 16px;
+  }
+  .ck-on .ck-name {
+    font-size: 18px;
+  }
+  .ck-close {
+    width: 52px;
+    height: 52px;
+  }
+  .ck-title span {
+    font-size: 20px;
+  }
+  .ck-title small,
+  .ck-awake {
+    font-size: 14px;
+  }
+  .ck-bars span {
+    height: 6px;
+  }
+  .ck-num {
+    font-size: 60px;
+  }
+  .ck-section {
+    font-size: 14px;
+  }
+  .ck-text {
+    font-size: clamp(38px, 3.4vw, 48px);
+  }
+  .ck-sub li {
+    font-size: 19px;
+  }
+  .ck-prev-step,
+  .ck-next-step {
+    font-size: 18px;
+  }
+  .ck-timer {
+    height: 48px;
+    font-size: 19px;
+    border-radius: 24px;
+  }
+  .ck-back,
+  .ck-forward {
+    height: 60px;
+    font-size: 19px;
+  }
+  .ck-mise-title {
+    font-size: 30px;
+  }
+  .ck-mise-dose button {
+    width: 48px;
+    height: 48px;
+  }
+  .ck-mise-dose strong {
+    font-size: 18px;
+  }
+  .ck-mise-list {
+    columns: 3 220px;
+  }
+  .ck-mise-list li {
+    min-height: 38px;
+  }
+  .ck-mise-list .ck-qty {
+    font-size: 16px;
+  }
+  .ck-mise-list .ck-name {
+    font-size: 18px;
+  }
+}
+
+/* Tablet portrait: room for the whole list, so no drawer. */
+@media (orientation: portrait) and (min-width: 700px) and (min-height: 700px) {
+  .ck-ing {
+    width: auto;
+    max-height: 46vh;
+    padding: 14px;
+  }
+  .ck-drawer,
+  .ck-chips,
+  .ck-drawer-open .ck-chips {
+    display: none;
+  }
+  .ck-dose {
+    display: flex;
+  }
+  .ck-list,
+  .ck-drawer-open .ck-list {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 3px 16px;
+    align-content: start;
+    padding: 8px 0 0;
+  }
+  .ck-list li.ck-gap {
+    margin-top: 0;
+    padding-top: 0;
+    border-top: 0;
+    border-radius: 9px;
+  }
+  .ck-num {
+    font-size: 64px;
+  }
+  .ck-text {
+    font-size: 40px;
+  }
+}
