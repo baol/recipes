@@ -14,6 +14,8 @@ tags:
   - Basi
   - Frolla
 comments: "true"
+cucina_abbinamenti:
+  "aromi": [Vaniglia, limone]
 ---
 
 ![Pasta frolla](../images/pasta-frolla-preparazione.jpeg)

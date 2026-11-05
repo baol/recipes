@@ -13,6 +13,8 @@ tags:
   - Mirko
   - Pane
 comments: "true"
+cucina_abbinamenti:
+  "impastare": [farina, acqua, sale, lievito]
 ---
 
 ![Pane fatto in casa tagliato a metà, con crosta dorata e mollica in vista](../images/pane.jpeg)

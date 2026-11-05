@@ -16,6 +16,8 @@ tags:
   - SousVide
   - Primi
 comments: "true"
+cucina_abbinamenti:
+  "sfoglia": [Uova, Farina]
 ---
 
 ![Ravioli zucca e zenzero](../images/ravioli-zucca-e-zenzero.jpeg)

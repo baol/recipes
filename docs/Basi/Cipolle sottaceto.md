@@ -15,6 +15,8 @@ tags:
   - AdamRagusea
   - Antipasti
 comments: "true"
+cucina_abbinamenti:
+  "le verdure": [Cipolla]
 ---
 
 ![Cipolle](../images/cipolla-sottaceto.jpeg)
