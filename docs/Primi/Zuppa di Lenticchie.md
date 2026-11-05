@@ -44,7 +44,7 @@ Dose per 4 persone.
 1. Soffriggere cipolle tritate e carote a cubetti per 5 minuti.
 2. Aggiungere l'aglio e le tre spezie.
 3. Aggiungere i pelati passati o spappolati con le mani e cuocere per 5 minuti.
-4. Aggiungere il brodo e le lenticchie secche e bollire per 30 minuti semi-coperto.
+4. Aggiungere il brodo e le lenticchie secche e bollire per 30 minuti semi-coperto, aggiungendo l'acqua man mano se si asciuga.
 5. Opzionalmente frullare circa 1/5 della zuppa con un frullatore a immersione.
 6. Aggiustare di sale e pepe.
 7. Aggingere le foglie di cavolo e cuocere per 5 minuti.
