@@ -35,23 +35,18 @@ comments: "true"
 
 ## 👩‍🍳 Preparazione
 
-Riscaldare un contenitore capiente pieno d’acqua a 80° con il riscaldatore sous-vide.
+1. Riscaldare un contenitore capiente pieno d’acqua a 80° con il riscaldatore sous-vide.
+2. Mescolare i tuorli con lo zucchero e il sale.
+3. Aggiungere la panna liquida e mescolare senza incorporare aria.
+4. Dividere in contenitori richiudibili in 5 o 6 porzioni da 150g circa (eg Weck Gourmet Jars 165 ml Jars RR80 with Glass Lid).
 
-Mescolare i tuorli con lo zucchero e il sale.
-
-Aggiungere la panna liquida e mescolare senza incorporare aria.
-
-Dividere in contenitori richiudibili in 5 o 6 porzioni da 150g circa (eg Weck Gourmet Jars 165 ml Jars RR80 with Glass Lid).
 ![Crème brûlée preparata sous vide](../images/creme-brulee-sous-vide.jpeg)
-Se si sono formate bolle in superficie, scoppiarle con il bruciatore.
 
-Chiudere i barattoli senza stringere troppo.
-
-Immergere nel bagno a 80° per un’ora.
-
-Raffreddare in acqua fredda e conservare in frigo per massimo una settimana.
-
-All’uso cospargere di zucchero e caramellarlo con il bruciatore.
+5. Se si sono formate bolle in superficie, scoppiarle con il bruciatore.
+6. Chiudere i barattoli senza stringere troppo.
+7. Immergere nel bagno a 80° per un’ora.
+8. Raffreddare in acqua fredda e conservare in frigo per massimo una settimana.
+9. All’uso cospargere di zucchero e caramellarlo con il bruciatore.
 
 ## 💡 Consigli
 

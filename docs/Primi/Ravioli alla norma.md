@@ -48,7 +48,7 @@ comments: "true"
 
 ## 👩‍🍳 Preparazione
 
-- Impastare gli ingredienti del ripieno ancora tiepidi.
-- Riempire i ravioli
-- Preparare il sugo facendo stringere un po' il sugo per insaporire
-- Cuocere, scolare, saltare e servire!
+1. Impastare gli ingredienti del ripieno ancora tiepidi.
+2. Riempire i ravioli
+3. Preparare il sugo facendo stringere un po' il sugo per insaporire
+4. Cuocere, scolare, saltare e servire!

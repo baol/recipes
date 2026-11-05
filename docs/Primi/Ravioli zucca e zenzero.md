@@ -43,23 +43,23 @@ comments: "true"
 
 ## 👩‍🍳 Preparazione
 
-- Cuocere in forno zucca e cipolla a 160° ventilato per 20 - 40 minuti (fino a che sia la zucca che le fette di cipolla non sono facili da spappolare con una forchetta)
-  - Le cipolle a fette cosparse di zucchero mascobado
-  - La zucca a fette
-- Tritare il rosmarino
-- Grattugiare lo zenzero
-- Grattugiare la ricotta salata
-- Mescolare gli ingredienti del ripieno
+1. Cuocere in forno zucca e cipolla a 160° ventilato per 20 - 40 minuti (fino a che sia la zucca che le fette di cipolla non sono facili da spappolare con una forchetta)
+   - Le cipolle a fette cosparse di zucchero mascobado
+   - La zucca a fette
+2. Tritare il rosmarino
+3. Grattugiare lo zenzero
+4. Grattugiare la ricotta salata
+5. Mescolare gli ingredienti del ripieno
 
-- Distribuire il ripieno sulla sfoglia
+6. Distribuire il ripieno sulla sfoglia
 
 ![Chiusura dei ravioli di zucca e zenzero](../images/ravioli-zucca-zenzero-chiusura.jpeg)
 
-- Chiudere i ravioli con le mani e ritagliarli
+7. Chiudere i ravioli con le mani e ritagliarli
 
 ![Ravioli di zucca e zenzero dopo la chiusura](../images/ravioli-zucca-e-zenzero-chiusi.jpeg)
 
-- Cuocere e condire con sugo a piacere!
+8. Cuocere e condire con sugo a piacere!
 
 ## 💡 Consigli
 

@@ -29,9 +29,8 @@ Il sugo di carne che la nonna Ada preparava per le tagliatelle. Cuocere fino a c
 
 ## 👩‍🍳 Preparazione
 
-Preparare il soffritto per una decina di minuti con carota, cipolla e sedano tritati a fuoco medio-basso.
-
-Cuocere per almeno un paio d'ore a fuoco basso (aggiungendo acqua se necessario).
+1. Preparare il soffritto per una decina di minuti con carota, cipolla e sedano tritati a fuoco medio-basso.
+2. Cuocere per almeno un paio d'ore a fuoco basso (aggiungendo acqua se necessario).
 
 ## 💡 Consigli
 

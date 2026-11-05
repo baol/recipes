@@ -29,11 +29,11 @@ La ricetta originale di Nonna Paola
 
 ## 👩‍🍳 Preparazione
 
-- Montare gli albumi a neve fino a che non sono in grado di tenere dritta in piedi una forchetta
-- Montare i tuorli con lo zucchero almeno fino a che non cambiano colore e diventano chiari
-- Aggiungere ai tuorli il lievito, la farina e gli albumi a neve poco a poco, mescolando con un cucchiaio di legno dal basso verso l'alto (senza smontare i bianchi)
-- Inserire in una teglia da 20 cm opportunamente imburrata e infarinata
-- Infornare a 170° per circa 50' (verificare con uno stecchino che non sia bagnato al centro)
+1. Montare gli albumi a neve fino a che non sono in grado di tenere dritta in piedi una forchetta
+2. Montare i tuorli con lo zucchero almeno fino a che non cambiano colore e diventano chiari
+3. Aggiungere ai tuorli il lievito, la farina e gli albumi a neve poco a poco, mescolando con un cucchiaio di legno dal basso verso l'alto (senza smontare i bianchi)
+4. Inserire in una teglia da 20 cm opportunamente imburrata e infarinata
+5. Infornare a 170° per circa 50' (verificare con uno stecchino che non sia bagnato al centro)
 
 ## 💡 Consigli
 

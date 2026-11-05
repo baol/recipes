@@ -26,8 +26,22 @@ def section_blocks(root, label):
                 yield element
 
 
+def continue_numbering(root, label):
+    # Numbered steps split by photos or sub-headings keep counting up.
+    active = False
+    count = 0
+    for element in root:
+        if element.tag in ('h1', 'h2'):
+            active = element.tag == 'h2' and label in text(element)
+        elif active and element.tag == 'ol':
+            if count:
+                element.set('start', str(count + 1))
+            count += len(element.findall('li'))
+
+
 class RecipeTreeprocessor(Treeprocessor):
     def run(self, root):
+        continue_numbering(root, 'Preparazione')
         context = ContextPreprocessor.from_markdown(self.md)
         if context is None:
             raise ValueError('recipe_seo requires Zensical page context')

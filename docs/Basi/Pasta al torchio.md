@@ -28,7 +28,7 @@ comments: "true"
 
 ## 👩‍🍳 Preparazione
 
-- Impastare in modo da formare uno sfarinato omogeneo. Velocita' 3 con frusta K, aggiungendo l'acqua a filo partendo dalla sola farina.
-- Passare al torchio
-  ![Pasta estrusa con il torchio della planetaria Kenwood](../images/pasta-al-torchio-kenwood.jpeg)
-- Cucinare subito (non e' facile seccare la pasta senza che si sfaldi e diventi friabile)
+1. Impastare in modo da formare uno sfarinato omogeneo. Velocita' 3 con frusta K, aggiungendo l'acqua a filo partendo dalla sola farina.
+2. Passare al torchio
+   ![Pasta estrusa con il torchio della planetaria Kenwood](../images/pasta-al-torchio-kenwood.jpeg)
+3. Cucinare subito (non e' facile seccare la pasta senza che si sfaldi e diventi friabile)

@@ -38,14 +38,14 @@ comments: "true"
 
 ## 👩‍🍳 Preparazione
 
-- Preparate il brodo di pomodoro con sale, concentrato, acqua e passata in un pentolino e far bollire qualche minuto, tenere caldo.
-- Soffriggere l'aglio a pezzi grossi, il concentrato di pomodoro e il peperoncino in una pentola abbastanza grande da ospitare gli spaghetti per lungo e possibilmente anti-aderente.
+1. Preparate il brodo di pomodoro con sale, concentrato, acqua e passata in un pentolino e far bollire qualche minuto, tenere caldo.
+2. Soffriggere l'aglio a pezzi grossi, il concentrato di pomodoro e il peperoncino in una pentola abbastanza grande da ospitare gli spaghetti per lungo e possibilmente anti-aderente.
 
 ![Pasta all’assassina in padella](../images/pasta-assassina-padella.jpeg)
 
-- Far tostare un po' gli spaghetti nel soffritto.
-- Aggiungere il brodo di pomodoro sui bordi un mestolo alla volta, e aspettare che gli spaghetti si attacchino un po'. Tra un mestolo e l'altro voltare gli spaghetti.
-- Servire quando raggiungono la cottura desiderata, e comunque non senza averli leggermente sbruciacchiati.
+3. Far tostare un po' gli spaghetti nel soffritto.
+4. Aggiungere il brodo di pomodoro sui bordi un mestolo alla volta, e aspettare che gli spaghetti si attacchino un po'. Tra un mestolo e l'altro voltare gli spaghetti.
+5. Servire quando raggiungono la cottura desiderata, e comunque non senza averli leggermente sbruciacchiati.
 
 ## 💡 Consigli
 

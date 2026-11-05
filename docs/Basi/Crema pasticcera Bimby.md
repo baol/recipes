@@ -39,10 +39,10 @@ comments: "true"
 
 ## 👩‍🍳 Preparazione
 
-- Polverizza lo zucchero e la buccia di limone
-  - 20" Vel. Turbo
-- Unire tutti gli ingredienti
-  - 7' Vel. 4, 80°
+1. Polverizza lo zucchero e la buccia di limone
+   - 20" Vel. Turbo
+2. Unire tutti gli ingredienti
+   - 7' Vel. 4, 80°
 
 ## 💡 Consigli
 

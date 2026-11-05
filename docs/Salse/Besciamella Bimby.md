@@ -27,5 +27,5 @@ comments: "true"
 
 ## 👩‍🍳 Preparazione
 
-- Inserire tutti gli ingredienti
-  - 7' - 90° - Vel. 4
+1. Inserire tutti gli ingredienti
+   - 7' - 90° - Vel. 4

@@ -23,8 +23,8 @@ comments: "true"
 
 ## 👩‍🍳 Preparazione
 
-- Coprire di acqua e lasciare in ammollo per 24-72h cambiando l'acqua ogni giorno
-- Cuocere in pentola a pressione coperti da 1 o 2 dita d'acqua per 45' dal fischio a fuoco basso
+1. Coprire di acqua e lasciare in ammollo per 24-72h cambiando l'acqua ogni giorno
+2. Cuocere in pentola a pressione coperti da 1 o 2 dita d'acqua per 45' dal fischio a fuoco basso
 
 ## 💡 Consigli
 

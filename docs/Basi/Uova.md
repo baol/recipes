@@ -23,7 +23,7 @@ comments: "true"
 
 ## 👩‍🍳 Preparazione
 
-Immergere le uova nell'acqua bollente con cautela
+1. Immergere le uova nell'acqua bollente con cautela
 
 | Modo       | Tempo      |
 | ---------- | ---------- |
@@ -32,7 +32,7 @@ Immergere le uova nell'acqua bollente con cautela
 | Sode       | 7-8 minuti |
 | In camicia | 3-4        |
 
-Rimuovere le uova dall'acqua calda e lasciare raffreddare.
+2. Rimuovere le uova dall'acqua calda e lasciare raffreddare.
 
 ## 💡 Consigli
 
