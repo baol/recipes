@@ -19,7 +19,7 @@ comments: "true"
 
 ## 🧾 Ingredienti
 
-**Dose per farcire una torta da 26cm**
+**Dose intera**
 
 - 4 Tuorli
 - 20 g Fecola

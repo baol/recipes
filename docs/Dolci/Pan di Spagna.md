@@ -37,5 +37,5 @@ La ricetta originale di Nonna Paola
 
 ## 💡 Consigli
 
-- Dose doppia di crema pasticcera.
+- Per farcire: [crema pasticcera](../Basi/Crema%20pasticcera%20Bimby.md) con 800 ml - 1 l di latte.
 - Se i bianchi sono ben montati e lo zabaione ben fatto, il lievito serve solo per scaramanzia :)
