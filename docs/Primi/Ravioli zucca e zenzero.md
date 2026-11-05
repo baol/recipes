@@ -26,7 +26,7 @@ comments: "true"
 
 **Ripieno**
 
-- 500 g Zucca butternut (o Okkaido)
+- 500 g Zucca butternut (o Hokkaido)
 - 2 cm Zenzero
 - Noce moscata
 - Cannella
@@ -49,7 +49,7 @@ comments: "true"
 - Tritare il rosmarino
 - Grattugiare lo zenzero
 - Grattugiare la ricotta salata
-- Mescolare gli ingredienti dei ripieno
+- Mescolare gli ingredienti del ripieno
 
 - Distribuire il ripieno sulla sfoglia
 
