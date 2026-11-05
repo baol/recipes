@@ -35,7 +35,8 @@ comments: "true"
 2. Setacciare la farina nel pentolino a poco a poco
 3. Aggiungere gli altri ingredienti
 4. Portare a bollore a fuoco basso mescolando sempre
-5. Dopo 3/4 minuti dal bollore la crema è pronta. Rimuovere la buccia di limone e la bacca di vaniglia.
+
+Dopo 3/4 minuti dal bollore la crema è pronta. Rimuovere la buccia di limone e la bacca di vaniglia.
 
 ## 💡 Consigli
 

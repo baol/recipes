@@ -35,7 +35,8 @@ comments: "true"
 1. Montare il burro con lo zucchero
 2. Aggiungere le uova un po' alla volta e incorporare bene
 3. Aggiungere la farina mescolata al sale, lievito e aromi tutta in una volta
-4. Formare una palla e mettere in frigo per 40', quindi stendere con un matterello (1/2 cm)
+
+Formare una palla e mettere in frigo per 40', quindi stendere con un matterello (1/2 cm)
 
 ## 💡 Consigli
 
