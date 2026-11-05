@@ -1,0 +1,176 @@
+/* Site layout: recipe list on wide screens, category chips on narrow ones,
+   recipe photo that leaves the start of the recipe visible. */
+
+:root {
+  --ricette-accent: #f2c94c;
+  --ricette-line: #262931;
+  --ricette-soft: #c9c6c0;
+  --ricette-muted: #8f8c86;
+}
+
+/* The theme's drawer and page index are replaced by the lists below. */
+.md-header__button[for="__drawer"] {
+  display: none;
+}
+
+/* Category chips (narrow screens) */
+.ricette-chips {
+  border-bottom: 1px solid var(--ricette-line);
+}
+.ricette-chips__row {
+  display: flex;
+  gap: 8px;
+  padding: 8px 16px 10px;
+  overflow-x: auto;
+  scrollbar-width: none;
+}
+.ricette-chip {
+  flex-shrink: 0;
+  height: 38px;
+  padding: 0 14px;
+  border: 1.5px solid #31343c;
+  border-radius: 19px;
+  background: transparent;
+  color: inherit;
+  font: inherit;
+  font-size: 14px;
+  font-weight: 600;
+  cursor: pointer;
+}
+.ricette-chip.is-current {
+  border-color: var(--ricette-accent);
+  color: var(--ricette-accent);
+}
+.ricette-chip[aria-expanded="true"] {
+  border-color: var(--ricette-accent);
+  background: var(--ricette-accent);
+  color: #1a1405;
+}
+.ricette-chips__panel {
+  list-style: none;
+  margin: 0;
+  padding: 0 16px 12px;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+  gap: 2px 12px;
+  max-height: 50vh;
+  overflow-y: auto;
+}
+.ricette-chips__panel[hidden] {
+  display: none;
+}
+
+/* Recipe list (wide screens) */
+.ricette-nav {
+  display: none;
+}
+
+.ricette-chips__panel a,
+.ricette-nav a {
+  display: block;
+  padding: 8px 10px;
+  border-radius: 8px;
+  color: var(--ricette-soft);
+  font-size: 15px;
+  text-decoration: none;
+}
+.ricette-chips__panel a:hover,
+.ricette-nav a:hover {
+  color: var(--md-default-fg-color);
+}
+.ricette-chips__panel a[aria-current="page"],
+.ricette-nav a[aria-current="page"] {
+  color: var(--ricette-accent);
+  background: rgba(242, 201, 76, 0.12);
+  font-weight: 600;
+}
+
+@media screen and (min-width: 60em) {
+  .ricette-chips {
+    display: none;
+  }
+  .ricette-nav {
+    display: block;
+    flex-shrink: 0;
+    align-self: flex-start;
+    position: sticky;
+    top: 2.4rem;
+    width: 15rem;
+    max-height: calc(100vh - 2.4rem);
+    overflow-y: auto;
+    box-sizing: border-box;
+    padding: 1.2rem 0.6rem 1.2rem 0.8rem;
+  }
+  .ricette-nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  .ricette-nav details > ul {
+    padding: 2px 0 6px 8px;
+  }
+  .ricette-nav summary {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    min-height: 40px;
+    padding: 0 10px;
+    border-radius: 9px;
+    font-size: 15px;
+    font-weight: 600;
+    cursor: pointer;
+    list-style: none;
+  }
+  .ricette-nav summary::-webkit-details-marker {
+    display: none;
+  }
+  .ricette-nav summary span {
+    flex: 1;
+  }
+  .ricette-nav summary small {
+    font-size: 12px;
+    font-weight: 500;
+    color: var(--ricette-muted);
+  }
+  .ricette-nav summary::after {
+    content: "›";
+    color: var(--ricette-muted);
+    transition: transform 0.15s;
+  }
+  .ricette-nav details[open] > summary::after {
+    transform: rotate(90deg);
+  }
+  .ricette-nav summary:hover {
+    background: rgba(255, 255, 255, 0.04);
+  }
+}
+
+/* Recipe photo: the first image under the title. */
+.md-content article:has(#ingredienti) > h1 + p:has(> img:only-child) img {
+  display: block;
+  border-radius: 12px;
+}
+@media screen and (min-width: 60em) {
+  .md-content article:has(#ingredienti) > h1 + p:has(> img:only-child) {
+    float: right;
+    width: min(42%, 460px);
+    margin: 0 0 1em 2em;
+  }
+  .md-content article:has(#ingredienti) > h1 + p:has(> img:only-child) img {
+    width: 100%;
+    height: auto;
+    aspect-ratio: 1;
+    object-fit: cover;
+  }
+  .md-content article:has(#ingredienti) #preparazione {
+    clear: both;
+  }
+}
+@media screen and (max-width: 59.984em) {
+  .md-content article:has(#ingredienti) > h1 + p:has(> img:only-child) img {
+    width: 100%;
+    height: min(40vh, 420px);
+    object-fit: cover;
+    object-position: center 55%;
+  }
+}

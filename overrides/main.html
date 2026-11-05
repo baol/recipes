@@ -3,7 +3,39 @@
 <link rel="apple-touch-icon" href="{{ 'images/icon-512x512.png' | url }}" />
 <link rel="manifest" href="{{ 'manifest.json' | url }}" />
 <meta name="theme-color" content="#263238" />
-{% endblock %} {% block content %} {{ super() }}
+{% endblock %} {% block tabs %} {{ super() }} {% if nav %}
+<nav class="ricette-chips" aria-label="Categorie">
+    <div class="ricette-chips__row">
+        {% for item in nav.items if item.children %}
+        <button type="button" class="ricette-chip{% if item.active %} is-current{% endif %}" aria-expanded="false" aria-controls="categoria-{{ loop.index }}">{{ item.title }}</button>
+        {% endfor %}
+    </div>
+    {% for item in nav.items if item.children %}
+    <ul class="ricette-chips__panel" id="categoria-{{ loop.index }}" hidden>
+        {% for child in item.children %}
+        <li><a href="{{ child.url | url }}" {% if child.active %}aria-current="page"{% endif %}>{{ child.title }}</a></li>
+        {% endfor %}
+    </ul>
+    {% endfor %}
+</nav>
+{% endif %} {% endblock %} {% block site_nav %} {% if nav %}
+<nav class="ricette-nav" aria-label="Ricette">
+    <ul>
+        {% for item in nav.items if item.children %}
+        <li>
+            <details {% if item.active %}open{% endif %}>
+                <summary><span>{{ item.title }}</span><small>{{ item.children | length }}</small></summary>
+                <ul>
+                    {% for child in item.children %}
+                    <li><a href="{{ child.url | url }}" {% if child.active %}aria-current="page"{% endif %}>{{ child.title }}</a></li>
+                    {% endfor %}
+                </ul>
+            </details>
+        </li>
+        {% endfor %}
+    </ul>
+</nav>
+{% endif %} {% endblock %} {% block content %} {{ super() }}
 {% if page.meta and page.meta.cucina_abbinamenti %}
 <script type="application/json" id="cucina-abbinamenti">
     {{ page.meta.cucina_abbinamenti | tojson }}
