@@ -53,6 +53,6 @@ comments: "true"
 - Adagiate i dischi infarinati in uno stampo da muffin per formare delle vaschette con le dita
 - Mescolate riso e crema non piu' caldi
 - Riempite i gusci di pasta frolla
-- Informate a 160º (ventilato) per circa 35'
+- Infornate a 160º (ventilato) per circa 35'
 
 Servire tiepidi e spolverizzati di zucchero a velo
