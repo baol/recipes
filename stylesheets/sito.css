@@ -57,74 +57,115 @@
   outline-offset: 2px;
 }
 
+/* Narrow screens: a button at the bottom, in reach of the thumb, opens the
+   list as a sheet from the bottom (HTML popover, no JavaScript). Browsers
+   without popover show the list in the page and no button. */
+.ricette-apri {
+  display: none;
+}
 @media screen and (max-width: 59.984em) {
-  .md-main__inner {
-    flex-wrap: wrap;
+  @supports selector(:popover-open) {
+    .ricette-apri {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      position: fixed;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      z-index: 3;
+      width: 100%;
+      height: calc(52px + env(safe-area-inset-bottom));
+      padding: 0 20px env(safe-area-inset-bottom);
+      border: 0;
+      border-top: 1px solid var(--ricette-line);
+      background: #16181d;
+      color: var(--md-default-fg-color);
+      font: inherit;
+      font-size: 16px;
+      font-weight: 600;
+      text-align: left;
+      cursor: pointer;
+    }
+    .ricette-dove {
+      min-width: 0;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+    }
+    .md-footer-meta {
+      padding-bottom: calc(52px + env(safe-area-inset-bottom));
+    }
   }
   .ricette-nav {
-    position: relative;
-    flex: 0 0 100%;
-    min-width: 0;
-    border-bottom: 1px solid var(--ricette-line);
-    padding-bottom: 10px;
+    box-sizing: border-box;
+    width: 100%;
+    padding: 8px 16px;
+    color: inherit;
   }
-  .ricette-nav:has(details[open]) {
-    padding-bottom: 58px;
+  .ricette-nav:popover-open {
+    inset: auto 0 0 0;
+    max-width: none;
+    max-height: 80vh;
+    margin: 0;
+    padding: 12px 16px calc(16px + env(safe-area-inset-bottom));
+    border: 0;
+    border-radius: 16px 16px 0 0;
+    background: #16181d;
+    overflow-y: auto;
   }
-  .ricette-nav > ul {
-    display: flex;
-    gap: 8px;
-    padding: 8px 16px 0;
-    overflow-x: auto;
-    scrollbar-width: none;
-  }
-  .ricette-nav > ul > li {
-    flex-shrink: 0;
+  .ricette-nav::backdrop {
+    background: rgba(0, 0, 0, 0.55);
   }
   .ricette-nav summary {
     display: flex;
     align-items: center;
-    height: 38px;
-    padding: 0 14px;
-    border: 1.5px solid #31343c;
-    border-radius: 19px;
-    font-size: 14px;
-    white-space: nowrap;
+    min-height: 48px;
+    padding: 0 12px;
+    font-size: 17px;
+  }
+  .ricette-nav summary > span {
+    flex: 1;
   }
   .ricette-nav summary small {
     display: none;
   }
+  .ricette-nav summary::after {
+    content: "";
+    width: 8px;
+    height: 8px;
+    margin-right: 4px;
+    border-right: 2px solid currentColor;
+    border-bottom: 2px solid currentColor;
+    transform: rotate(-45deg);
+  }
   .ricette-nav details[open] > summary {
-    border-color: var(--ricette-accent);
-    background: var(--ricette-accent);
-    color: #1a1405;
+    color: var(--ricette-accent);
+  }
+  .ricette-nav details[open] > summary::after {
+    transform: rotate(45deg);
   }
   .ricette-nav details > ul {
-    position: absolute;
-    left: 0;
-    right: 0;
-    bottom: 10px;
-    display: flex;
-    gap: 6px;
-    padding: 0 16px;
-    overflow-x: auto;
-    scrollbar-width: none;
-  }
-  .ricette-nav details > ul > li {
-    flex-shrink: 0;
+    padding: 0 0 8px 12px;
   }
   .ricette-nav details > ul a {
-    height: 38px;
-    line-height: 38px;
+    min-height: 44px;
+    display: flex;
+    align-items: center;
     padding: 0 12px;
-    font-size: 14px;
-    white-space: nowrap;
-    background: #1e2027;
+    font-size: 16px;
   }
 }
 
 @media screen and (min-width: 60em) {
   .ricette-nav {
+    display: block;
+    inset: auto;
+    margin: 0;
+    border: 0;
+    background: none;
+    color: inherit;
+    height: auto;
     flex-shrink: 0;
     align-self: flex-start;
     position: sticky;
