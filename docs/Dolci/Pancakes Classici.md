@@ -20,7 +20,7 @@ comments: "true"
 
 ## 🧾 Ingredienti
 
-- 3 o 4 Persone
+- 2 o 3 Persone
 - 100 g Farina 0 (o mix con farina di farro o di grano saraceno per un sapore diverso, o Farina 00 per renderli più soffici)
 - 15 g Zucchero
 - 1 Uovo
