@@ -16,6 +16,10 @@
 .md-header__button.md-logo {
   display: inline-block;
 }
+.sito-home {
+  color: inherit;
+  text-decoration: none;
+}
 
 /* Category chips (narrow screens) */
 .ricette-chips {
