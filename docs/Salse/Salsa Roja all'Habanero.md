@@ -25,6 +25,6 @@ Ottima per Fajitas e Nachos
 
 ## 👩‍🍳 Preparazione
 
-- Arrostisci in padella o al forno pomodori, cipolla, aglio e habanero.
-- Frulla tutto con sale e un filo d’olio.
-- Ripassa in padella 5–10 minuti per addensare.
+1. Arrostisci in padella o al forno pomodori, cipolla, aglio e habanero.
+2. Frulla tutto con sale e un filo d’olio.
+3. Ripassa in padella 5–10 minuti per addensare.

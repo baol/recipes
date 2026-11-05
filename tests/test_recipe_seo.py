@@ -51,6 +51,23 @@ Not a step.
             {'@type': 'HowToStep', 'text': 'Infornare a piacere.', 'url': '#passo-3'},
         ])
 
+    def test_numbered_steps_continue_after_photos_and_headings(self):
+        html = self.render('''## Preparazione
+
+1. Primo
+2. Secondo
+
+**Crema**
+
+1. Terzo
+
+## Consigli
+
+1. Non un passo
+''', {})
+        lists = list(ElementTree.fromstring(f'<div>{html}</div>').iter('ol'))
+        self.assertEqual([ol.get('start') for ol in lists], [None, '3', None])
+
     def test_local_images_receive_dimensions_and_loading_during_render(self):
         (self.docs / 'images').mkdir()
         Image.new('RGB', (120, 80)).save(self.docs / 'images/foto uno.jpg')

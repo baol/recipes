@@ -41,18 +41,18 @@ comments: "true"
 
 **Preparazione del riso al latte**
 
-- Unire tutti gli ingredienti a parte il riso e riscaldare.
-- Lessare il riso nel latte per 20' mescolando spesso.
-- Mantecate con poco burro a fuoco spento e lasciate raffreddare
+1. Unire tutti gli ingredienti a parte il riso e riscaldare.
+2. Lessare il riso nel latte per 20' mescolando spesso.
+3. Mantecate con poco burro a fuoco spento e lasciate raffreddare
 
 **Preparate la [crema pasticcera](../Basi/Crema pasticcera Bimby) (dose ridotta, 300 ml di latte)**
 
 **Preparare i budini di riso**
 
-- Stendere la pasta frolla, e ritagliare 10-12 dischi da circa 9-10cm.
-- Adagiate i dischi infarinati in uno stampo da muffin per formare delle vaschette con le dita
-- Mescolate riso e crema non piu' caldi
-- Riempite i gusci di pasta frolla
-- Infornate a 160º (ventilato) per circa 35'
+4. Stendere la pasta frolla, e ritagliare 10-12 dischi da circa 9-10cm.
+5. Adagiate i dischi infarinati in uno stampo da muffin per formare delle vaschette con le dita
+6. Mescolate riso e crema non piu' caldi
+7. Riempite i gusci di pasta frolla
+8. Infornate a 160º (ventilato) per circa 35'
 
 Servire tiepidi e spolverizzati di zucchero a velo

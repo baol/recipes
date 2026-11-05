@@ -41,17 +41,12 @@ comments: "true"
 
 ## 👩‍🍳 Preparazione
 
-Preparare il soffritto (10’ a fuoco medio-basso) in una pentola o padella (dotata di coperchio, per le fasi successive)
-
-Alzare il fuoco e rosolare la seppia qualche minuto
-
-Salare, pepare e sfumare con il vino
-
-Aggiungere il pomodoro e fare insaporire
-
-Aggiungere gli spinaci e lasciar cuocere coperto per 30’
-
-Aggiustare di sale e pepe
+1. Preparare il soffritto (10’ a fuoco medio-basso) in una pentola o padella (dotata di coperchio, per le fasi successive)
+2. Alzare il fuoco e rosolare la seppia qualche minuto
+3. Salare, pepare e sfumare con il vino
+4. Aggiungere il pomodoro e fare insaporire
+5. Aggiungere gli spinaci e lasciar cuocere coperto per 30’
+6. Aggiustare di sale e pepe
 
 ## 💡 Consigli
 

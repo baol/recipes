@@ -33,7 +33,7 @@ comments: "true"
 
 ## 👩‍🍳 Preparazione
 
-Mettere tutti gli ingredienti in un frullatore o nel barattolo del Minipimer e frullare.
+1. Mettere tutti gli ingredienti in un frullatore o nel barattolo del Minipimer e frullare.
 
 ## 💡 Consigli
 

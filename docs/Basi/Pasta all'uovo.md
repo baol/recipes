@@ -30,9 +30,9 @@ comments: "true"
 
 ## 👩‍🍳 Preparazione
 
-- Impastare a mano su una spianatoia, facendo un vulcano di farina con le uova al centro, mescolando inizialmente con la forchetta per dare consistenza alle uova e poi a mano fino a che l'impasto non risulta compatto ed elastico, aggiungendo poco alla volta la farina in più fino alla consistenza desiderata (meglio soda)
-- In alternativa impastare nella planetaria con frusta K
-- Lasciare riposare una mezz'ora coperta prima di procedere a stendere la pasta
+1. Impastare a mano su una spianatoia, facendo un vulcano di farina con le uova al centro, mescolando inizialmente con la forchetta per dare consistenza alle uova e poi a mano fino a che l'impasto non risulta compatto ed elastico, aggiungendo poco alla volta la farina in più fino alla consistenza desiderata (meglio soda)
+2. In alternativa impastare nella planetaria con frusta K
+3. Lasciare riposare una mezz'ora coperta prima di procedere a stendere la pasta
 
 ## 💡 Consigli
 
