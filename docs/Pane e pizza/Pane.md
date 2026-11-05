@@ -23,6 +23,7 @@ comments: "true"
 - 480ml acqua (possibile sostituire fino al 50% con bianco d'uovo)
 - 10g sale
 - 200g lievito madre
+- Semi di sesamo (facoltativi)
 
 ## 👩‍🍳 Preparazione
 
