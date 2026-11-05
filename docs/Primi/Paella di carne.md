@@ -48,6 +48,7 @@ comments: "true"
 - Abbassa il fuoco
 - Cospargere di paprika affumicata (Pimenton)
 - Aggiungi il pomodoro spappolato con la mano
+- Aggiungi le fave
 - Alza il fuoco e mescola
 - Cuoci 2 minuti
 - Versa il brodo
