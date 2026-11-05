@@ -52,9 +52,11 @@ class RecipeTreeprocessor(Treeprocessor):
                 if block.tag != 'li':
                     continue
                 value = text(block)
-                servings = re.fullmatch(r'(\d+)\s+(?:Servings|persone|porzioni)', value)
+                servings = re.fullmatch(
+                    r'Dose per (\d+) (persone|muffin|pancakes|bicchieri)\b.*', value)
                 if servings:
                     meta.setdefault('servings', int(servings[1]))
+                    meta.setdefault('servings_unit', servings[2])
                 elif value:
                     ingredients.append(value)
             steps = []

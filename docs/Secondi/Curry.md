@@ -22,12 +22,13 @@ comments: "true"
 
 ![Curry cremoso di pollo servito con riso basmati](../images/curry.jpeg)
 
-Un curry cremoso di pollo da preparare nel Bimby (Thermomix). Dosi per 4 persone.
+Un curry cremoso di pollo da preparare nel Bimby (Thermomix).
 
 **Preparazione:** 5 minuti · **Cottura:** 26 minuti · **Tempo totale:** 31 minuti
 
 ## 🧾 Ingredienti
 
+- Dose per 4 persone
 - 1 cipolla grande
 - 2 cucchiai di olio
 - 2 cucchiaini di vadouvan

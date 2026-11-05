@@ -27,7 +27,7 @@ class RecipeSeoTests(unittest.TestCase):
         meta = {'schema_type': 'Recipe', 'image': 'images/pizza.jpg'}
         html = self.render('''## 🧾 Ingredienti
 
-- 2 Servings
+- Dose per 6 pancakes (2 o 3 persone)
 - 350 g **Farina**
 
 ## 👩‍🍳 Preparazione
@@ -42,7 +42,8 @@ Infornare a piacere.
 
 Not a step.
 ''', meta)
-        self.assertEqual(meta['servings'], 2)
+        self.assertEqual(meta['servings'], 6)
+        self.assertEqual(meta['servings_unit'], 'pancakes')
         self.assertIn('<li id="passo-2">', html)
         self.assertEqual(meta['recipe_ingredients'], ['350 g Farina'])
         self.assertEqual(meta['recipe_instructions'], [

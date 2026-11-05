@@ -18,7 +18,7 @@ comments: "true"
 
 ## 🧾 Ingredienti
 
-- 4 persone
+- Dose per 4 persone
 - 500 ml Latte
 - 50 g Farina 00
 - 50 g Burro

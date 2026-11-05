@@ -22,7 +22,7 @@ comments: "true"
 
 ## 🧾 Ingredienti
 
-- 6 Servings
+- Dose per 6 persone
 
 **Ripieno**
 

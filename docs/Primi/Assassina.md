@@ -22,7 +22,7 @@ comments: "true"
 
 **In Padella**
 
-- 4 Persone
+- Dose per 4 persone
 - 320 g Spaghetti (con poco amido, tipo i Barilla)
 - 4-6 spicchi d'Aglio (o un pezzo di aglione)
 - Olio EVO

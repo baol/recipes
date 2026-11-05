@@ -13,9 +13,9 @@ tags:
 comments: "true"
 ---
 
-Per 2 persone.
-
 ## 🧾 Ingredienti
+
+- Dose per 2 persone
 
 **Passatelli**
 

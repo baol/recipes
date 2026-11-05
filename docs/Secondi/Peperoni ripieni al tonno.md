@@ -22,7 +22,7 @@ comments: "true"
 
 ## 🧾 Ingredienti
 
-- 4 Servings
+- Dose per 4 persone
 - 4 Peperoni Lunghi/Pontecorvo (Spitzpaprika)
 - 4 Filetti di acciuga
 - 50 g Olive verdi o taggiasche denocciolate

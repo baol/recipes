@@ -20,7 +20,7 @@ comments: "true"
 
 ## 🧾 Ingredienti
 
-- 2 o 3 Persone (circa 6 pancakes)
+- Dose per 6 pancakes (2 o 3 persone)
 - 100 g Farina 0 (o mix con farina di farro o di grano saraceno per un sapore diverso, o Farina 00 per renderli più soffici)
 - 15 g Zucchero
 - 1 Uovo

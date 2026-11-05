@@ -21,7 +21,7 @@ comments: "true"
 
 ## 🧾 Ingredienti
 
-- 2 porzioni
+- Dose per 2 persone
 
 **Ripieno**
 

@@ -23,7 +23,7 @@ Nella foto presentati con tubetti freschi all'uovo (cfr. [pasta al torchio](../B
 
 ## 🧾 Ingredienti
 
-- 4 Persone
+- Dose per 4 persone
 - 250 g di ceci secchi [cotti](../Basi/Ceci cotti.md) o in scatola
 - 200 g pasta fresca all'uovo (o ditaloni secchi)
 - 1/2 Cipolla

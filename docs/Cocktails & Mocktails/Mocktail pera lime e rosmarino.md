@@ -15,10 +15,9 @@ tags:
 comments: "true"
 ---
 
-_2 porzioni_
-
 ## 🧾 Ingredienti
 
+- Dose per 2 bicchieri
 - 2 pere Conference mature
 - 1 lime (- 10 ml Succo di lime appena spremuto)
 - 2 rametti di rosmarino fresco
