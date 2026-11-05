@@ -24,7 +24,7 @@ comments: "true"
 **Polveri**
 
 - 4 tazze Farina di Farro 630
-- 1 cucchiaio Sale
+- 1 cucchiaino Sale
 - 1 tazza Zucchero (mascobado)
 - 1 bustina Vaniglia
 - 1 bustina Lievito
