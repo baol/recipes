@@ -76,6 +76,9 @@ Conventions checked automatically by `tests/test_recipe_conventions.py`:
   `- Dose per N persone` (or `muffin`, `pancakes`, `bicchieri`). It drives
   `recipeYield` and portion scaling; leave it out when unknown.
 - Links have no space between `]` and `(`.
+- `date_modified` is not older than the last commit that changed the file. It
+  feeds `dateModified` and the sitemap's `lastmod`, which tell Google what to
+  re-read.
 
 ### Cooking view
 
@@ -113,7 +116,7 @@ data:
 | `description`    | One or two sentences      | Unique summary of the recipe             |
 | `author`         | Text                      | Recipe author                            |
 | `date_published` | `YYYY-MM-DD`              | Original publication date                |
-| `date_modified`  | `YYYY-MM-DD`              | Date of the latest substantive update    |
+| `date_modified`  | `YYYY-MM-DD`              | Date of the latest change to the file    |
 | `schema_type`    | `Recipe` or `Article`     | Structured-data type for the page        |
 | `image`          | Site-root-relative path   | Main recipe image                        |
 | `image_alt`      | Descriptive text          | Accessible description of the main image |

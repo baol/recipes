@@ -3,7 +3,7 @@ title: "Mocktail pera lime e rosmarino"
 description: "Come preparare Mocktail pera lime e rosmarino: ingredienti, dosi e procedimento per servirlo a casa."
 author: "Daniela e Mirko Maischberger"
 date_published: "2026-09-11"
-date_modified: "2026-09-26"
+date_modified: "2026-11-06"
 schema_type: "Recipe"
 category: "Cocktails & Mocktails"
 tags:
