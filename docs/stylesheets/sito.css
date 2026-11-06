@@ -282,3 +282,14 @@
     transition: none;
   }
 }
+
+/* Per-photo crop on narrow screens, where the subject sits high. */
+@media screen and (max-width: 59.984em) {
+  .md-content
+    article:has(#ingredienti)
+    > h1
+    + p:has(> img:only-child)
+    img[src$="margarita.jpeg"] {
+    object-position: center 5%;
+  }
+}
