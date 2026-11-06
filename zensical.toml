@@ -4,7 +4,7 @@ site_url = "https://maischberger.it/"
 repo_url = "https://github.com/baol/recipes"
 copyright = "Copyright ©️ 2025 Daniela & Mirko Maischberger"
 extra_css = ["stylesheets/cucina.css", "stylesheets/sito.css"]
-extra_javascript = ["javascripts/cucina.js"]
+extra_javascript = ["javascripts/cucina.js", "javascripts/menu.js"]
 
 [project.plugins.search]
 [project.plugins.tags]
