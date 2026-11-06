@@ -265,3 +265,23 @@
     object-position: center 55%;
   }
 }
+
+/* Categories open and close with a short slide, like the theme's sidebar.
+   CSS only: browsers without these features just open them at once. */
+@media (prefers-reduced-motion: no-preference) {
+  @supports (interpolate-size: allow-keywords) {
+    .ricette-nav {
+      interpolate-size: allow-keywords;
+    }
+    .ricette-nav details::details-content {
+      block-size: 0;
+      overflow: hidden;
+      transition:
+        block-size 0.25s ease,
+        content-visibility 0.25s allow-discrete;
+    }
+    .ricette-nav details[open]::details-content {
+      block-size: auto;
+    }
+  }
+}
