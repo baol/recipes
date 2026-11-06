@@ -28,7 +28,7 @@ comments: "true"
 - 30 ml Bitter rosso, tipo Campari
 - 30 ml Vermouth rosso dolce
 - 1 cubo grande di ghiaccio, oppure ghiaccio a cubetti
-- 1 scorza d'arancia per guarnire
+- 1 scorza d'arancia o di lime per guarnire
 
 ## 👩‍🍳 Preparazione
 
@@ -36,7 +36,7 @@ comments: "true"
 2. Versare gin, bitter e vermouth in un mixing glass colmo di ghiaccio.
 3. Mescolare con un bar spoon per circa 20 secondi, finché il cocktail è freddo e leggermente diluito.
 4. Filtrare nel bicchiere sopra un cubo grande di ghiaccio fresco.
-5. Spremere la scorza d'arancia sulla superficie per liberarne gli oli, passarla sul bordo del bicchiere e usarla come guarnizione.
+5. Spremere la scorza d'arancia o di lime sulla superficie per liberarne gli oli, passarla sul bordo del bicchiere e usarla come guarnizione.
 
 ## 💡 Consigli
 
