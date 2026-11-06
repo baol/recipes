@@ -3,8 +3,10 @@ title: "Margarita"
 description: "Come preparare Margarita: ingredienti, dosi e procedimento per servirlo a casa."
 author: "Daniela e Mirko Maischberger"
 date_published: "2026-09-11"
-date_modified: "2026-09-26"
+date_modified: "2026-11-06"
 schema_type: "Recipe"
+image: "images/margarita.jpeg"
+image_alt: "Margarita in una coppa con il bordo di sale e uno spicchio di lime"
 category: "Cocktails & Mocktails"
 cuisine: "Messicana"
 tags:
@@ -14,6 +16,8 @@ tags:
   - Sour
 comments: "true"
 ---
+
+![Margarita in una coppa con il bordo di sale e uno spicchio di lime](../images/margarita.jpeg)
 
 **1 porzione**.
 
