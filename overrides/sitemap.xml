@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  {%- for page in pages -%}
+    {%- if page.canonical_url %}
+      <url>
+        <loc>{{ page.canonical_url }}</loc>
+        {%- if page.meta and page.meta.date_modified %}
+        <lastmod>{{ page.meta.date_modified }}</lastmod>
+        {%- endif %}
+      </url>
+    {%- endif -%}
+  {%- endfor %}
+</urlset>

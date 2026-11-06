@@ -1,6 +1,7 @@
 """Check that every recipe follows the shared Markdown conventions."""
 
 import re
+import subprocess
 import unittest
 from pathlib import Path
 from xml.etree import ElementTree
@@ -69,6 +70,26 @@ class RecipeConventionTests(unittest.TestCase):
             with self.subTest(recipe=str(path)):
                 self.assertEqual(re.findall(r'\]\s+\(', text), [],
                                  'no space between "]" and "(" in links')
+
+    def test_date_modified_is_not_older_than_last_change(self):
+        root = DOCS.parent
+
+        def git(*args):
+            return subprocess.run(['git', *args], cwd=root, capture_output=True,
+                                  text=True).stdout.strip()
+
+        if git('rev-parse', '--is-shallow-repository') != 'false':
+            self.skipTest('needs the full git history')
+        for path, text in recipes():
+            with self.subTest(recipe=str(path)):
+                match = re.search(r'^date_modified: "(\d{4}-\d{2}-\d{2})"', text, re.M)
+                self.assertIsNotNone(match, 'date_modified: "YYYY-MM-DD" is missing')
+                last = git('log', '-1', '--no-merges', '--format=%as', '--',
+                           str(Path('docs') / path))
+                if last:
+                    self.assertGreaterEqual(
+                        match[1], last,
+                        f'the file changed on {last}: update date_modified')
 
 
 if __name__ == '__main__':
