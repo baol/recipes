@@ -3,8 +3,10 @@ title: "Negroni"
 description: "Come preparare Negroni: ingredienti, dosi e procedimento per servirlo a casa."
 author: "Daniela e Mirko Maischberger"
 date_published: "2026-09-11"
-date_modified: "2026-09-26"
+date_modified: "2026-11-06"
 schema_type: "Recipe"
+image: "images/negroni.jpeg"
+image_alt: "Negroni in un bicchiere basso con un cubo di ghiaccio e una fetta di lime"
 category: "Cocktails & Mocktails"
 cuisine: "Italiana"
 tags:
@@ -15,6 +17,8 @@ tags:
   - Aperitivo
 comments: "true"
 ---
+
+![Negroni in un bicchiere basso con un cubo di ghiaccio e una fetta di lime](../images/negroni.jpeg)
 
 **1 porzione**.
 
