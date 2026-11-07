@@ -6,6 +6,8 @@ description: "Ricette di famiglia provate nella nostra cucina: pasta fresca, pan
 
 # Le ricette di Daniela e Mirko
 
+[![Due Spritz nei calici con una fetta d'arancia su un balcone al tramonto](images/spritz-home.jpeg)](Cocktails%20%26%20Mocktails/Spritz.md)
+
 ## Chi siamo
 
 Le Ricette di Daniela e Mirko, una famiglia italiana a Berlino.
