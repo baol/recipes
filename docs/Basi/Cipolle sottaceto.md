@@ -1,12 +1,12 @@
 ---
 title: "Cipolle sottaceto"
-description: "Come preparare Cipolle sottaceto: ingredienti, dosi, procedimento e consigli per la riuscita della ricetta."
+description: "Cipolle rosse sottaceto a freddo: acqua e aceto bianco o di mele in parti uguali, pronte dopo un giorno in frigo."
 author: "Daniela e Mirko Maischberger"
 date_published: "2025-10-18"
 date_modified: "2026-11-07"
 schema_type: "Recipe"
 image: "images/cipolla-sottaceto.jpeg"
-image_alt: "Cipolle"
+image_alt: "Cipolle rosse sottaceto in un barattolo"
 category: "Basi"
 cuisine: "Italiana"
 tags:
@@ -19,7 +19,7 @@ cucina_abbinamenti:
   "le verdure": [Cipolla]
 ---
 
-![Cipolle](../images/cipolla-sottaceto.jpeg)
+![Cipolle rosse sottaceto in un barattolo](../images/cipolla-sottaceto.jpeg)
 
 ## 🧾 Ingredienti
 
