@@ -23,7 +23,7 @@ cucina_abbinamenti:
 
 ## 🧾 Ingredienti
 
-- 1 Cipolla a fette sottili (Mandolina)
+- 1 Cipolla rossa a fette sottili (Mandolina)
   - Alternativamente Cetriolini interi, Carote Julienne, Cipolline
 - 50% Aceto bianco o di mele
 - 50% Acqua
