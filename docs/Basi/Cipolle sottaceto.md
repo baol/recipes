@@ -3,7 +3,7 @@ title: "Cipolle sottaceto"
 description: "Come preparare Cipolle sottaceto: ingredienti, dosi, procedimento e consigli per la riuscita della ricetta."
 author: "Daniela e Mirko Maischberger"
 date_published: "2025-10-18"
-date_modified: "2026-11-06"
+date_modified: "2026-11-07"
 schema_type: "Recipe"
 image: "images/cipolla-sottaceto.jpeg"
 image_alt: "Cipolle"
@@ -25,7 +25,7 @@ cucina_abbinamenti:
 
 - 1 Cipolla a fette sottili (Mandolina)
   - Alternativamente Cetriolini interi, Carote Julienne, Cipolline
-- 50% Aceto
+- 50% Aceto bianco o di mele
 - 50% Acqua
 - 1 cucchiaio di Zucchero (opzionale)
 - Sale
@@ -33,7 +33,7 @@ cucina_abbinamenti:
 ## 👩‍🍳 Preparazione
 
 1. Inserire le verdure in un barattolo
-2. Riempire il barattolo della soluzione di acqua, aceto sale e zucchero (a freddo per un colore e una consistenza migliori)
+2. Versare la soluzione di acqua, aceto, sale e zucchero fino a coprire le verdure (a freddo per un colore e una consistenza migliori)
 3. Lasciare in frigo un giorno prima di consumare
 
 ## 💡 Consigli
