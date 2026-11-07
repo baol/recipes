@@ -11,7 +11,7 @@ extra_javascript = ["javascripts/cucina.js", "javascripts/menu.js"]
 
 [project.theme]
 name = "material"
-favicon = "images/icon-512x512.png"
+favicon = "images/favicon.png"
 custom_dir = "overrides"
 language = "it"
 logo = "images/100allora.png"
