@@ -10,9 +10,8 @@ description: "Ricette di famiglia provate nella nostra cucina: pasta fresca, pan
 
 ## Chi siamo
 
+![Daniela e Mirko](images/daniela-e-mirko-viso.jpeg){ .chi-siamo width="112" height="112" }
 Le Ricette di Daniela e Mirko, una famiglia italiana a Berlino.
-
-![Daniela e Mirko](images/daniela-e-mirko.jpeg)
 
 Potete scriverci a `mirko (at) maischberger.it`
 

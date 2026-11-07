@@ -293,3 +293,22 @@
     object-position: center 5%;
   }
 }
+
+/* Home page, "Chi siamo": a small round portrait beside the text. */
+.md-typeset img.chi-siamo {
+  float: left;
+  width: 112px;
+  height: 112px;
+  margin: 0.2em 1.2em 1.6em 0;
+  border-radius: 50%;
+  object-fit: cover;
+  box-shadow: 0 0 0 3px var(--ricette-line);
+}
+.md-typeset p:has(> img.chi-siamo) ~ h2 {
+  clear: both;
+}
+/* Home page photo: rounded like the recipe photos. */
+.md-typeset img[src$="spritz-home.jpeg"] {
+  display: block;
+  border-radius: 12px;
+}
