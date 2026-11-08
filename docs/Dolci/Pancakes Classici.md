@@ -3,10 +3,10 @@ title: "Pancakes Classici"
 description: "La ricetta di Pancakes Classici: ingredienti, dosi, preparazione e consigli per realizzarlo in casa."
 author: "Daniela e Mirko Maischberger"
 date_published: "2025-10-18"
-date_modified: "2026-11-06"
+date_modified: "2026-11-08"
 schema_type: "Recipe"
-image: "images/pancakes.jpeg"
-image_alt: "Pancakes Classici"
+image: "images/pancakes-pila.jpeg"
+image_alt: "Pila alta di pancakes dorati su un piatto bianco"
 category: "Dolci"
 cuisine: "Statunitense"
 tags:
@@ -18,7 +18,7 @@ cucina_abbinamenti:
   "i solidi": [Farina, Zucchero, lievito, Sale]
 ---
 
-![Pancakes Classici](../images/pancakes.jpeg)
+![Pila alta di pancakes dorati su un piatto bianco](../images/pancakes-pila.jpeg)
 
 ## 🧾 Ingredienti
 
@@ -47,6 +47,8 @@ cucina_abbinamenti:
 3. Aggiungere il latte a poco a poco per non formare grumi e fino a raggiungere la consistenza desiderata (che deve essere piuttosto liquida, ma mantenere la forma quando versata nella padella calda)
 4. Se possibile far riposare l'impasto un paio d'ore (o una notte in frigorifero)
 5. Cuocere in padella a 180° e girare quando compaiono le bollicine in superficie
+
+![Pancakes con mirtilli e un pezzo di burro in un piatto bianco](../images/pancakes-mirtilli.jpeg)
 
 ## 💡 Consigli
 
