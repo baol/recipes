@@ -3,14 +3,18 @@ title: "Focaccia"
 description: "Come preparare Focaccia: ingredienti, dosi, procedimento e consigli per la riuscita della ricetta."
 author: "Daniela e Mirko Maischberger"
 date_published: "2026-04-16"
-date_modified: "2026-09-26"
+date_modified: "2026-11-08"
 schema_type: "Recipe"
+image: "images/focaccia.jpeg"
+image_alt: "Focaccia appena sfornata nella teglia su carta forno, dorata e piena di avvallamenti"
 category: "Pane e pizza"
 cuisine: "Italiana"
 tags:
   - Pane e pizza
 comments: "true"
 ---
+
+![Focaccia appena sfornata nella teglia su carta forno, dorata e piena di avvallamenti](../images/focaccia.jpeg)
 
 Per una leccarda da forno standard.
 
