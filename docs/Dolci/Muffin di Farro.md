@@ -3,10 +3,10 @@ title: "Muffin di Farro"
 description: "La ricetta di Muffin di Farro: ingredienti, dosi, preparazione e consigli per realizzarlo in casa."
 author: "Daniela e Mirko Maischberger"
 date_published: "2025-10-18"
-date_modified: "2026-11-06"
+date_modified: "2026-11-08"
 schema_type: "Recipe"
-image: "images/muffin.jpeg"
-image_alt: "Muffin di Farro"
+image: "images/muffin-farro.jpeg"
+image_alt: "Muffin di farro nel pirottino con la crosticina di zucchero"
 category: "Dolci"
 cuisine: "Statunitense"
 tags:
@@ -15,7 +15,7 @@ tags:
 comments: "true"
 ---
 
-![Muffin di Farro](../images/muffin.jpeg)
+![Muffin di farro nel pirottino con la crosticina di zucchero](../images/muffin-farro.jpeg)
 
 ## 🧾 Ingredienti
 
@@ -48,3 +48,5 @@ comments: "true"
 ## 💡 Consigli
 
 - Aggiungere a piacere nell'impasto o nel pirottino uvetta, mosche di cioccolato, mirtilli, ecc.
+
+![Muffin appena sfornati nello stampo di silicone, alcuni con mirtilli e cioccolato](../images/muffin.jpeg)
