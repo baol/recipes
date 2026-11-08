@@ -3,8 +3,10 @@ title: "Polenta Bimby"
 description: "Come preparare Polenta Bimby: ingredienti, dosi, procedimento e consigli per la riuscita della ricetta."
 author: "Daniela e Mirko Maischberger"
 date_published: "2026-09-26"
-date_modified: "2026-11-06"
+date_modified: "2026-11-08"
 schema_type: "Recipe"
+image: "images/polenta-prosciutto.jpeg"
+image_alt: "Due tortini di polenta con prosciutto crudo, noci e spinaci in un piatto bianco"
 category: "Basi"
 cuisine: "Italiana"
 tags:
@@ -13,7 +15,7 @@ tags:
 comments: "true"
 ---
 
-![Bimby per la preparazione della ricetta](../images/bimby.jpeg)
+![Due tortini di polenta con prosciutto crudo, noci e spinaci in un piatto bianco](../images/polenta-prosciutto.jpeg)
 
 ## 🧾 Ingredienti
 
@@ -28,6 +30,8 @@ comments: "true"
 1. Portare a bollore l'acqua con l'olio e il sale: 12 minuti, 100 °C, velocità 1.
 2. Inserire la spatola e impostare la velocità 2, quindi aggiungere la farina a pioggia.
 3. Cuocere per 40 minuti, 100 °C, velocità 1.
+
+![Polenta appena fatta, gialla e cremosa, in una teglia di alluminio](../images/polenta-bimby.jpeg)
 
 ## 💡 Consigli
 
