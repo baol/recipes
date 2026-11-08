@@ -3,10 +3,10 @@ title: "Uova"
 description: "Guida a Uova: informazioni pratiche, indicazioni e consigli da consultare in cucina."
 author: "Daniela e Mirko Maischberger"
 date_published: "2025-10-18"
-date_modified: "2026-11-06"
+date_modified: "2026-11-08"
 schema_type: "Article"
 image: "images/uovo-sodo.jpeg"
-image_alt: "Uova"
+image_alt: "Uovo barzotto tagliato a metà, con il tuorlo arancione, in una ciotola di ramen"
 category: "Basi"
 tags:
   - Uova
@@ -14,7 +14,7 @@ tags:
 comments: "true"
 ---
 
-![Uova](../images/uovo-sodo.jpeg)
+![Uovo barzotto tagliato a metà, con il tuorlo arancione, in una ciotola di ramen](../images/uovo-sodo.jpeg)
 
 ## 🧾 Ingredienti
 
