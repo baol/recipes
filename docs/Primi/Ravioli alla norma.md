@@ -3,10 +3,10 @@ title: "Ravioli alla norma"
 description: "Come preparare Ravioli alla norma: ingredienti, dosi, procedimento e consigli per la riuscita della ricetta."
 author: "Mirko Maischberger"
 date_published: "2025-10-18"
-date_modified: "2026-11-06"
+date_modified: "2026-11-08"
 schema_type: "Recipe"
 image: "images/ravioli-norma.jpeg"
-image_alt: "Ravioli alla norma"
+image_alt: "Raviolo tagliato a metà con il ripieno di melanzane e formaggio, nel sugo di pomodoro"
 category: "Primi"
 cuisine: "Italiana"
 tags:
@@ -17,7 +17,7 @@ tags:
 comments: "true"
 ---
 
-![Ravioli alla norma](../images/ravioli-norma.jpeg)
+![Raviolo tagliato a metà con il ripieno di melanzane e formaggio, nel sugo di pomodoro](../images/ravioli-norma.jpeg)
 
 ## 🧾 Ingredienti
 
