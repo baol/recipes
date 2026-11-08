@@ -3,10 +3,10 @@ title: "Hamburger buns"
 description: "Come preparare Hamburger buns: ingredienti, dosi, procedimento e consigli per la riuscita della ricetta."
 author: "Mirko Maischberger"
 date_published: "2026-02-21"
-date_modified: "2026-11-06"
+date_modified: "2026-11-08"
 schema_type: "Recipe"
-image: "images/hamburger-bun.jpeg"
-image_alt: "Hamburger buns"
+image: "images/hamburger-cipolla.jpeg"
+image_alt: "Hamburger con cheddar, cipolla caramellata e insalata nel panino al sesamo fatto in casa"
 category: "Pane e pizza"
 cuisine: "Statunitense"
 tags:
@@ -15,7 +15,7 @@ tags:
 comments: "true"
 ---
 
-![Hamburger buns](../images/hamburger-bun.jpeg)
+![Hamburger con cheddar, cipolla caramellata e insalata nel panino al sesamo fatto in casa](../images/hamburger-cipolla.jpeg)
 
 Adattato da https://www.allrecipes.com/recipe/233652/homemade-hamburger-buns/
 
@@ -53,3 +53,5 @@ Adattato da https://www.allrecipes.com/recipe/233652/homemade-hamburger-buns/
 17. Infornare a 180 gradi per 15-17 minuti
 
 ![Panini per hamburger fatti in casa](../images/hamburger-buns.jpeg)
+
+![Cinque mini hamburger con panini al sesamo fatti in casa su un piatto bianco](../images/hamburger-mini.jpeg)
