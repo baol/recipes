@@ -3,10 +3,10 @@ title: "Crème Brûlée Sous Vide"
 description: "La ricetta di Crème Brûlée Sous Vide: ingredienti, dosi, preparazione e consigli per realizzarlo in casa."
 author: "Daniela e Mirko Maischberger"
 date_published: "2025-10-18"
-date_modified: "2026-11-06"
+date_modified: "2026-11-08"
 schema_type: "Recipe"
-image: "images/creme-brulee.jpeg"
-image_alt: "Crème Brûlée Sous Vide"
+image: "images/creme-brulee-caramello.jpeg"
+image_alt: "Crème brûlée con la crosta di caramello rotta, vista dall'alto"
 category: "Dolci"
 cuisine: "Francese"
 tags:
@@ -19,7 +19,7 @@ cucina_abbinamenti:
   "bruciatore": [Cannello]
 ---
 
-![Crème Brûlée Sous Vide](../images/creme-brulee.jpeg)
+![Crème brûlée con la crosta di caramello rotta, vista dall'alto](../images/creme-brulee-caramello.jpeg)
 
 ## 🧾 Ingredienti
 
@@ -42,7 +42,7 @@ cucina_abbinamenti:
 3. Aggiungere la panna liquida e mescolare senza incorporare aria.
 4. Dividere in contenitori richiudibili in 5 o 6 porzioni da 150g circa (eg Weck Gourmet Jars 165 ml Jars RR80 with Glass Lid).
 
-![Crème brûlée preparata sous vide](../images/creme-brulee-sous-vide.jpeg)
+![Vasetti di vetro con la crema immersi nell'acqua della pentola per la cottura sous vide](../images/creme-brulee-sous-vide.jpeg)
 
 5. Se si sono formate bolle in superficie, scoppiarle con il bruciatore.
 6. Chiudere i barattoli senza stringere troppo.
