@@ -4,6 +4,7 @@
 <link rel="manifest" href="{{ 'manifest.json' | url }}" />
 <meta name="theme-color" content="#263238" />
 {% endblock %} {% block site_nav %} {% if nav %}
+{% if page.url %}<a class="ricette-vai" href="#ricette-nav"><span aria-hidden="true">☰</span> Tutte le ricette</a>{% endif %}
 <nav class="ricette-nav" id="ricette-nav" aria-label="Ricette" {% if page.url %}popover{% endif %}>
     <ul>
         {% for item in nav.items if item.children %}
@@ -78,6 +79,15 @@
 </script>
 {% endblock %}
 {% block scripts %} {{ super() }}
+<script>
+    // Browsers without the HTML popover attribute (older Chromium, e.g. Silk
+    // on Fire tablets) get the recipe-list sheet from a small script instead.
+    if (!HTMLElement.prototype.hasOwnProperty("popover")) {
+        const sheet = document.createElement("script");
+        sheet.src = "{{ 'javascripts/popover.js' | url }}";
+        document.body.appendChild(sheet);
+    }
+</script>
 <script>
     // Accessibility fixes for theme markup that can't be changed in templates.
     (function () {
