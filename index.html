@@ -203,6 +203,7 @@
       <main class="md-main" data-md-component="main">
         <div class="md-main__inner md-grid">
            
+
 <nav class="ricette-nav" id="ricette-nav" aria-label="Ricette" >
     <ul>
         
@@ -653,6 +654,15 @@ Le Ricette di Daniela e Mirko, una famiglia italiana a Berlino.</p>
         <script src="./javascripts/menu.js"></script>
       
     
+<script>
+    // Browsers without the HTML popover attribute (older Chromium, e.g. Silk
+    // on Fire tablets) get the recipe-list sheet from a small script instead.
+    if (!HTMLElement.prototype.hasOwnProperty("popover")) {
+        const sheet = document.createElement("script");
+        sheet.src = "./javascripts/popover.js";
+        document.body.appendChild(sheet);
+    }
+</script>
 <script>
     // Accessibility fixes for theme markup that can't be changed in templates.
     (function () {

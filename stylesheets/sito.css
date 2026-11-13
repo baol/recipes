@@ -59,49 +59,113 @@
 
 /* Narrow screens: a button at the bottom, in reach of the thumb, opens the
    list as a sheet from the bottom (HTML popover, no JavaScript). Browsers
-   without popover show the list in the page and no button. */
-.ricette-apri {
+   without popover load javascripts/popover.js, which does the same and marks
+   <html class="ricette-foglio">. With neither, the list comes after the recipe
+   and a link at the top leads to it, so the recipe still comes first. */
+.ricette-apri,
+.ricette-vai {
   display: none;
 }
 @media screen and (max-width: 59.984em) {
+  .ricette-apri {
+    align-items: center;
+    position: fixed;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 3;
+    width: 100%;
+    height: 56px;
+    height: calc(56px + env(safe-area-inset-bottom));
+    padding: 0 20px;
+    padding: 0 20px env(safe-area-inset-bottom);
+    border: 0;
+    border-top: 1px solid #3a3d46;
+    background: #1e2027;
+    box-shadow: 0 -4px 12px rgba(0, 0, 0, 0.35);
+    color: var(--md-default-fg-color);
+    font: inherit;
+    font-size: 16px;
+    font-weight: 600;
+    text-align: left;
+    cursor: pointer;
+  }
+  .ricette-apri > [aria-hidden] {
+    margin-right: 10px;
+    color: var(--ricette-accent);
+    font-size: 20px;
+  }
+  .ricette-dove {
+    min-width: 0;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  }
   @supports selector(:popover-open) {
     .ricette-apri {
       display: flex;
-      align-items: center;
-      gap: 10px;
-      position: fixed;
-      left: 0;
-      right: 0;
-      bottom: 0;
-      z-index: 3;
-      width: 100%;
-      height: calc(56px + env(safe-area-inset-bottom));
-      padding: 0 20px env(safe-area-inset-bottom);
-      border: 0;
-      border-top: 1px solid #3a3d46;
-      background: #1e2027;
-      box-shadow: 0 -4px 12px rgba(0, 0, 0, 0.35);
-      color: var(--md-default-fg-color);
-      font: inherit;
-      font-size: 16px;
-      font-weight: 600;
-      text-align: left;
-      cursor: pointer;
-    }
-    .ricette-apri > [aria-hidden] {
-      color: var(--ricette-accent);
-      font-size: 20px;
-    }
-    .ricette-dove {
-      min-width: 0;
-      overflow: hidden;
-      text-overflow: ellipsis;
-      white-space: nowrap;
     }
     .md-footer-meta {
       padding-bottom: calc(56px + env(safe-area-inset-bottom));
     }
   }
+  .ricette-foglio .ricette-apri {
+    display: flex;
+  }
+  .ricette-foglio .md-footer-meta {
+    padding-bottom: 56px;
+    padding-bottom: calc(56px + env(safe-area-inset-bottom));
+  }
+
+  /* Neither popover nor script: list after the recipe, link to it on top. */
+  .ricette-nav[popover] {
+    order: 1;
+    border-top: 1px solid var(--ricette-line);
+  }
+  .ricette-vai {
+    display: block;
+    flex: 0 0 100%;
+    box-sizing: border-box;
+    min-height: 44px;
+    padding: 12px 16px 0;
+    color: var(--ricette-soft);
+    font-size: 16px;
+    font-weight: 600;
+    text-decoration: none;
+  }
+  .ricette-vai > [aria-hidden] {
+    color: var(--ricette-accent);
+  }
+  .ricette-vai:focus-visible {
+    outline: 2px solid var(--ricette-accent);
+    outline-offset: 2px;
+  }
+  @supports selector(:popover-open) {
+    .ricette-vai {
+      display: none;
+    }
+  }
+  .ricette-foglio .ricette-vai,
+  .ricette-foglio .ricette-nav[popover]:not(.ricette-aperta) {
+    display: none;
+  }
+  /* The sheet opened by popover.js (same look as :popover-open below). */
+  .ricette-foglio .ricette-nav.ricette-aperta {
+    position: fixed;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 10;
+    max-height: 80vh;
+    margin: 0;
+    padding: 12px 16px 16px;
+    border: 0;
+    border-radius: 16px 16px 0 0;
+    background: #16181d;
+    box-shadow: 0 0 0 100vmax rgba(0, 0, 0, 0.55);
+    overflow-y: auto;
+  }
+
   /* On the home page the list is in the page, above the content. */
   .md-main__inner {
     flex-wrap: wrap;
