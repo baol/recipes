@@ -43,4 +43,3 @@ Altri condimenti da provare, a piacere:
 - mortadella, stracchino e granella di pistacchi
 - porchetta, cipolla caramellata e squacquerone
 - speck, gorgonzola e radicchio
-- gorgonzola, noci e pere
