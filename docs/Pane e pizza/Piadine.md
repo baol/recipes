@@ -40,3 +40,16 @@ Altri condimenti da provare, a piacere:
 - rucola, pomodori e mozzarella
 - cipolle caramellate e gorgonzola
 - fichi caramellati e bottarga
+- squacquerone, fichi caramellati e mandorle tostate
+- crudo, parmigiano e marmellata di fichi
+- fichi e gorgonzola
+- squacquerone, zucchine grigliate e pomodori secchi
+- salsiccia, patate schiacciate e cipolla caramellata
+- porchetta, cipolla caramellata e squacquerone
+- gorgonzola, noci e pere
+- speck, gorgonzola e radicchio
+- gorgonzola, cipolla caramellata e pancetta croccante
+- mortadella, stracchino e granella di pistacchi
+- coppa o lonza, squacquerone e fichi caramellati
+- stracchino o mozzarella, rucola e pomodorini
+- squacquerone e fichi caramellati
