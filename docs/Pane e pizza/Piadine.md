@@ -20,7 +20,7 @@ comments: "true"
 - 500 g di farina 0
 - 250 g di acqua tiepida
 - 60 g di strutto
-- 10 g di sale
+- 6-10 g di sale, a seconda dei gusti
 - 1 pizzico di bicarbonato
 
 ## 👩‍🍳 Preparazione
