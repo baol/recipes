@@ -12,7 +12,7 @@ from markdown.extensions import Extension
 from recipe_seo import NestedListPreprocessor
 
 DOCS = Path(__file__).resolve().parent.parent / 'docs'
-DOSE = re.compile(r'- Dose per \d+ (persone|muffin|pancakes|bicchieri)\b.*')
+DOSE = re.compile(r'- Dose per \d+ (persone|muffin|pancakes|bicchieri|piadine)\b.*')
 OLD_DOSE = re.compile(
     r'^(- )?(Per |Dosi? per )?\d+( o \d+)? (Servings|Persone|persone|porzioni|Muffin)\b',
     re.I)
