@@ -73,7 +73,7 @@ Conventions checked automatically by `tests/test_recipe_conventions.py`:
   continues across photos and bold sub-headings; a short closing sentence may
   stay unnumbered.
 - When the yield is known, the first ingredient is
-  `- Dose per N persone` (or `muffin`, `pancakes`, `bicchieri`). It drives
+  `- Dose per N persone` (or `muffin`, `pancakes`, `bicchieri`, `piadine`). It drives
   `recipeYield` and portion scaling; leave it out when unknown.
 - Links have no space between `]` and `(`.
 - `date_modified` is not older than the last commit that changed the file. It

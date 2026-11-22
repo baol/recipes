@@ -173,7 +173,7 @@
         if (el.tagName !== "UL" && el.tagName !== "OL") continue;
         for (const li of el.querySelectorAll(":scope > li")) {
             const text = ownText(li);
-            const dose = text.match(/^Dose per (\d+) (persone|muffin|pancakes|bicchieri)\b/i);
+            const dose = text.match(/^Dose per (\d+) (persone|muffin|pancakes|bicchieri|piadine)\b/i);
             if (dose) {
                 if (base === null) {
                     base = Number(dose[1]);
@@ -408,6 +408,7 @@
     function unitLabel(n) {
         if (baseUnit === "persone") return n === 1 ? "1 persona" : n + " persone";
         if (baseUnit === "bicchieri") return n === 1 ? "1 bicchiere" : n + " bicchieri";
+        if (baseUnit === "piadine") return n === 1 ? "1 piadina" : n + " piadine";
         return n + " " + baseUnit;
     }
     // Screen 0 is the mise en place (all ingredients, choose the dose); screens 1..N are the steps.
