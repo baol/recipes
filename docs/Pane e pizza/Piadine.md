@@ -36,19 +36,11 @@ Per una versione classica condire con stracchino, verdure di campo e prosciutto.
 
 Altri condimenti da provare, a piacere:
 
-- stracchino, salmone e insalata iceberg
-- stracchino, affettati vari e rucola
-- cipolla caramellata e gorgonzola
-- fichi caramellati e bottarga
-- squacquerone e fichi caramellati, con mandorle tostate a piacere
-- crudo, parmigiano e marmellata di fichi
-- fichi e gorgonzola
-- squacquerone, zucchine grigliate e pomodori secchi
-- salsiccia, patate schiacciate e cipolla caramellata
-- porchetta, cipolla caramellata e squacquerone
-- gorgonzola, noci e pere
-- speck, gorgonzola e radicchio
-- gorgonzola, cipolla caramellata e pancetta croccante
-- mortadella, stracchino e granella di pistacchi
-- coppa o lonza, squacquerone e fichi caramellati
 - stracchino o mozzarella, rucola e pomodorini
+- stracchino, affettati vari e rucola
+- stracchino, salmone e insalata iceberg
+- squacquerone e fichi caramellati, con mandorle tostate a piacere
+- mortadella, stracchino e granella di pistacchi
+- porchetta, cipolla caramellata e squacquerone
+- speck, gorgonzola e radicchio
+- gorgonzola, noci e pere
