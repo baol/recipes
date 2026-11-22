@@ -10,6 +10,7 @@ cuisine: "Italiana"
 tags:
   - Pane
   - Piadina
+  - Mamma
 comments: "true"
 ---
 
@@ -37,10 +38,9 @@ Altri condimenti da provare, a piacere:
 
 - stracchino, salmone e insalata iceberg
 - stracchino, affettati vari e rucola
-- rucola, pomodori e mozzarella
-- cipolle caramellate e gorgonzola
+- cipolla caramellata e gorgonzola
 - fichi caramellati e bottarga
-- squacquerone, fichi caramellati e mandorle tostate
+- squacquerone e fichi caramellati, con mandorle tostate a piacere
 - crudo, parmigiano e marmellata di fichi
 - fichi e gorgonzola
 - squacquerone, zucchine grigliate e pomodori secchi
@@ -52,4 +52,3 @@ Altri condimenti da provare, a piacere:
 - mortadella, stracchino e granella di pistacchi
 - coppa o lonza, squacquerone e fichi caramellati
 - stracchino o mozzarella, rucola e pomodorini
-- squacquerone e fichi caramellati
