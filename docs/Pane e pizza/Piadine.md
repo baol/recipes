@@ -27,4 +27,8 @@ comments: "true"
 1. Mescolare i solidi, aggiungere l'acqua e impastare fino ad ottenere un impasto omogeneo e non appiccicoso.
 2. Lasciare riposare una mezz'ora a temperatura ambiente, coperto.
 3. Fare 6 palline di peso uguale.
-4. Stendere con un mattarello allo spessore desiderato (2-4 mm) e cuocere una ad una su una padella dal fondo spesso (meglio di ghisa o ferro, che tiene il calore). Punzecchiare la superficie della piadina con una forchetta appena messa a cuocere.
+4. Stendere con un mattarello allo spessore desiderato (2-4 mm) e cuocere una ad una su una padella dal fondo spesso (meglio di ghisa o ferro, che tiene il calore). Punzecchiare la superficie della piadina con una forchetta appena messa a cuocere. Cuocere ogni piadina fino a raggiungere il colore desiderato, e poi girarla e cuocerla dall'altro lato. Iniziare a condirla direttamente sulla piastra.
+
+## 💡 Consigli
+
+Per una versione classica condire con stracchino, verdure di campo e prosciutto. Meglio se lo stracchino non è freddo di frigo.
