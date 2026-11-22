@@ -28,3 +28,4 @@ comments: "true"
 2. Lasciare riposare una mezz'ora a temperatura ambiente, coperto.
 3. Fare 6 palline di peso uguale.
 4. Stendere con un mattarello allo spessore desiderato (2-4 mm) e cuocere una ad una su una padella dal fondo spesso (meglio di ghisa o ferro, che tiene il calore).
+5. Punzecchiare la superficie della piadina con una forchetta appena messa a cuocere.
