@@ -5,6 +5,8 @@ author: "Daniela e Mirko Maischberger"
 date_published: "2026-11-22"
 date_modified: "2026-11-22"
 schema_type: "Recipe"
+image: "images/piadine.jpeg"
+image_alt: "Piadina piegata a metà con stracchino, verdure di campo e prosciutto"
 category: "Pane e pizza"
 cuisine: "Italiana"
 tags:
@@ -13,6 +15,8 @@ tags:
   - Mamma
 comments: "true"
 ---
+
+![Piadina piegata a metà con stracchino, verdure di campo e prosciutto](../images/piadine.jpeg)
 
 ## 🧾 Ingredienti
 
