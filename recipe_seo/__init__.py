@@ -54,7 +54,7 @@ class RecipeTreeprocessor(Treeprocessor):
                     continue
                 value = text(block)
                 servings = re.fullmatch(
-                    r'Dose per (\d+) (persone|muffin|pancakes|bicchieri|piadine)\b.*', value)
+                    r'Dose per (\d+) (persone|muffin|pancakes|bicchieri|piadine|rosette)\b.*', value)
                 if servings:
                     meta.setdefault('servings', int(servings[1]))
                     meta.setdefault('servings_unit', servings[2])
