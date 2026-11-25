@@ -16,3 +16,4 @@ package-lock.json
 package.json
 
 __pycache__/
+/docs/.marker/sync/
