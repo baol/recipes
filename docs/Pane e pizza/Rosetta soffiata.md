@@ -1,19 +1,22 @@
 ---
 title: "Rosetta soffiata"
-description: "La rosetta romana, o michetta: panino vuoto all'interno e croccante fuori, con biga di 18 ore, impasto asciutto, stampo a rosetta e cottura con molto vapore."
+description: "La rosetta romana, o michetta: panino vuoto all'interno e croccante fuori, con farina molto forte, biga di 24 ore, impasto asciutto, stampo a rosetta e cottura con molto vapore."
 author: "Daniela e Mirko Maischberger"
 date_published: "2026-11-23"
-date_modified: "2026-11-23"
+date_modified: "2026-11-25"
 schema_type: "Recipe"
 category: "Pane e pizza"
 cuisine: "Italiana"
 tags:
   - Pane
   - Rosetta
+  - LievitiEParole
 comments: "true"
 ---
 
-La rosetta soffiata (a Milano michetta) è un panino quasi vuoto all'interno, con la crosta sottile e croccante. Il vuoto nasce da tre cose insieme: una biga matura, un impasto asciutto e molto vapore nei primi minuti di cottura.
+La rosetta soffiata (a Milano michetta) è un panino quasi vuoto all'interno, con la crosta sottile e croccante. Il vuoto nasce da più cose insieme: una farina molto forte, una biga lunga e matura, un impasto asciutto e raffinato, e molto vapore nei primi minuti di cottura.
+
+Farina e biga adattate da [Rosetta (forse) soffiata](https://giafons.substack.com/p/rosetta-forse-soffiata) di Gianluca, Lieviti e Parole.
 
 ## 🧾 Ingredienti
 
@@ -21,9 +24,9 @@ La rosetta soffiata (a Milano michetta) è un panino quasi vuoto all'interno, co
 
 **Biga**
 
-- 500 g di farina forte (Manitoba, almeno 13 g di proteine)
-- 225 g di acqua fredda
-- 5 g di lievito di birra fresco
+- 500 g di farina di grano tenero tipo 0 o 00 molto forte (14-15 g di proteine, W 400 circa)
+- 225 g di acqua
+- 3 g di lievito di birra fresco
 
 **Impasto**
 
@@ -35,8 +38,8 @@ La rosetta soffiata (a Milano michetta) è un panino quasi vuoto all'interno, co
 
 **Biga**
 
-1. La sera prima sciogliere il lievito nell'acqua, aggiungere la farina e mescolare un paio di minuti, solo fino a bagnare tutta la farina: la biga deve restare grezza e a pezzi, non liscia.
-2. Coprire e lasciare maturare 16-18 ore a 18-20 gradi.
+1. La mattina prima sciogliere il lievito nell'acqua, aggiungere tutta la farina e impastare qualche minuto, solo fino a distribuire l'acqua e non avere più farina libera: la biga deve restare grossolana, asciutta e irregolare, non liscia ed elastica.
+2. Trasferire in un contenitore capiente, coprire perché la superficie non si asciughi e lasciare maturare 24 ore a 16-18 gradi. Alla fine è ancora una massa soda e irregolare, ma più aperta all'interno e con un profumo gradevole, non pungente.
 
 **Impasto**
 
@@ -54,7 +57,11 @@ La rosetta soffiata (a Milano michetta) è un panino quasi vuoto all'interno, co
 
 ## 💡 Consigli
 
-Senza lo stampo a rosetta si può usare un tagliamela, premuto allo stesso modo.
+Per una biga più corta usare 5 g di lievito e lasciarla maturare 16-18 ore, sempre a 16-18 gradi: si prepara il pomeriggio per la mattina dopo.
+
+Serve lo stampo a rosetta vero e proprio: imprime la pasta con la geometria e la profondità giuste senza tagliarla del tutto. Con un tagliamela ci si può arrangiare, ma il risultato non è lo stesso.
+
+Le proteine da sole non dicono la forza della farina: conta anche la qualità del glutine. Quando è dichiarato, guardare il W.
 
 L'impasto deve restare asciutto (55% di acqua sulla farina): se è troppo morbido la rosetta non si svuota.
 
